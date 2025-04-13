@@ -1,0 +1,7451 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9902018,
+          38.86292400000001
+        ]
+      },
+      "properties": {
+        "name": "Children of Mine : Children of Mine",
+        "type": "Shopping Partner",
+        "address": "2263 mount view place, se washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0093442,
+          38.9159101
+        ]
+      },
+      "properties": {
+        "name": "St. Martins Social Service : St. Martins Social Service",
+        "type": "Shopping Partner",
+        "address": "1908 North Capitol Street NW Washington DC 20002",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1003111,
+          38.9875753
+        ]
+      },
+      "properties": {
+        "name": "Bethesda Cares : Bethesda Cares",
+        "type": "Shopping Partner",
+        "address": "5033 Wilson Lane Bethesda MD 20814",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01118149999999,
+          38.9660259
+        ]
+      },
+      "properties": {
+        "name": "Brookland Senior Day Care Center, Inc. : Brookland Senior Day Care Center, Inc.",
+        "type": "Shopping Partner",
+        "address": "6210 Chillum Place NW Washington DC 20011",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8806769,
+          38.8498172
+        ]
+      },
+      "properties": {
+        "name": "City of David Ministries : City of David Ministries",
+        "type": "Shopping Partner",
+        "address": "2900 Boones Lane District Heights MD 20747",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.889928,
+          39.006516
+        ]
+      },
+      "properties": {
+        "name": "City of Greenbelt Food Pantry : City of Greenbelt Food Pantry",
+        "type": "Shopping Partner",
+        "address": "25 Crescent Rd Greenbelt MD 20770",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.73088,
+          38.8849887
+        ]
+      },
+      "properties": {
+        "name": "Fountain Community Enrichment Inc : Fountain Community Enrichment Inc.",
+        "type": "Shopping Partner",
+        "address": "15853 Commerce Court Upper Marlboro MD 20774",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.79817249999999,
+          38.9046671
+        ]
+      },
+      "properties": {
+        "name": "Hope Presbyterian Church : Hope Presbyterian Church",
+        "type": "Shopping Partner",
+        "address": "1100 Enterprise Road Mitchellville MD 20721",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9389221,
+          39.0498922
+        ]
+      },
+      "properties": {
+        "name": "Kingdom Global Community Development Corporation : Kingdom Cares Center",
+        "type": "Shopping Partner",
+        "address": "11700 Beltsville Drive Beltsville MD 20705",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90285539999999,
+          38.8865221
+        ]
+      },
+      "properties": {
+        "name": "Mission of Love Charities, Inc. : Mission of Love Charities, Inc.",
+        "type": "Shopping Partner",
+        "address": "6180 Central Avenue Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0493431,
+          39.0561483
+        ]
+      },
+      "properties": {
+        "name": "Montgomery County Family Center : Montgomery County Family Center",
+        "type": "Shopping Partner",
+        "address": "12247 Georgia Ave. Silver Spring MD 20902",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01141969999999,
+          38.9088439
+        ]
+      },
+      "properties": {
+        "name": "SOME : So Others Might Eat",
+        "type": "Shopping Partner",
+        "address": "71 O ST NW Washington DC 20002",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9767437,
+          38.9177239
+        ]
+      },
+      "properties": {
+        "name": "The ARK of DC Foundation : The ARK of DC Foundation",
+        "type": "Shopping Partner",
+        "address": "1818 New York Ave. NE Washington DC 20002",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9960577,
+          38.9334852
+        ]
+      },
+      "properties": {
+        "name": "Catholic University of America : The Cardinal Cupboard",
+        "type": "Shopping Partner",
+        "address": "620 Michigan Ave NE Washington DC 20064",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9696618,
+          38.8546791
+        ]
+      },
+      "properties": {
+        "name": "Faith Tabernacle of Prayer : Faith Tabernacle of Prayer",
+        "type": "Shopping Partner",
+        "address": "2465 Alabama Ave SE Washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1907655,
+          38.8713085
+        ]
+      },
+      "properties": {
+        "name": "Code 3 Association : Code 3 Association",
+        "type": "Shopping Partner",
+        "address": "3 Association 2929 Graham Road Falls Church VA 22042",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031488,
+          38.994912
+        ]
+      },
+      "properties": {
+        "name": "Enterprise Community Development : ECD - Edgewood Commons",
+        "type": "Shopping Partner",
+        "address": "8403 Colesville Rd Silver Spring MD 20910",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.052691,
+          38.8088183
+        ]
+      },
+      "properties": {
+        "name": "The Gourmet Angel Food Bank : The Gourmet Angel Food Bank",
+        "type": "Shopping Partner",
+        "address": "317 N Payne Street Alexandria VA 22314",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.21365759999999,
+          38.6985664
+        ]
+      },
+      "properties": {
+        "name": "Lorton Community Action Center : Lorton Community Action Center",
+        "type": "Shopping Partner",
+        "address": "9520 Richmond Hwy door A3 Lorton VA 22079",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0471129,
+          38.8999239
+        ]
+      },
+      "properties": {
+        "name": "District House GWU : DC University Food Pantry GWU",
+        "type": "Shopping Partner",
+        "address": "800 21st Street NW Ground Floor, Military and Veteran Services Washington DC 20052",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95647470000002,
+          38.8220165
+        ]
+      },
+      "properties": {
+        "name": "Interfaith Community Action Council : Interfaith Community Action Council - Oxon Hill Food Pantry",
+        "type": "Shopping Partner",
+        "address": "4915 Saint Barnabas Road Temple Hills MD 20748",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0093608,
+          38.9014721
+        ]
+      },
+      "properties": {
+        "name": "Father Mckenna Center : The Father McKenna Center",
+        "type": "Shopping Partner",
+        "address": "900 North Capital St NW Washington DC DC 20002",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99975049999999,
+          38.8425955
+        ]
+      },
+      "properties": {
+        "name": "Brighter Day Ministries Food Pantry : Brighter Day Ministries Food Pantry",
+        "type": "Shopping Partner",
+        "address": "3209 5th Street SE Washington DC 20032",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0446455,
+          38.8980782
+        ]
+      },
+      "properties": {
+        "name": "Foggy Bottom Food Pantry : Foggy Bottom Food Pantry (United Church)",
+        "type": "Shopping Partner",
+        "address": "1920 G Street NW Washington DC 20006",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2382782,
+          38.8714257
+        ]
+      },
+      "properties": {
+        "name": "Food for Others : Food For Others",
+        "type": "Shopping Partner",
+        "address": "2938 Prosperity Avenue Fairfax VA 22031",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3425651,
+          38.968527
+        ]
+      },
+      "properties": {
+        "name": "Cornerstones Inc. : Cornerstones, Inc.",
+        "type": "Shopping Partner",
+        "address": "11484 Washington Plz W Reston VA 20190",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9880452,
+          38.9419662
+        ]
+      },
+      "properties": {
+        "name": "Mary House : Mary House",
+        "type": "Shopping Partner",
+        "address": "4303 13th st NE Washington DC 20017",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1384695,
+          38.85773289999999
+        ]
+      },
+      "properties": {
+        "name": "Columbia Baptist Church : Columbia Baptist Church",
+        "type": "Shopping Partner",
+        "address": "3245 Glen Carlyn Rd. Falls Church VA 22041",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0260746,
+          38.9316034
+        ]
+      },
+      "properties": {
+        "name": "Salvation Army : The Salvation Army - Sherman Ave",
+        "type": "Shopping Partner",
+        "address": "3335 Sherman Ave. NW Washington DC 20010",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0851831,
+          38.7537937
+        ]
+      },
+      "properties": {
+        "name": "United Community : United Community Ministry",
+        "type": "Shopping Partner",
+        "address": "7511 Fordson Road Alexandria VA 22306",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9811829,
+          38.8901022
+        ]
+      },
+      "properties": {
+        "name": "Mount Moriah Baptist Church : Mount Moriah Baptist Church",
+        "type": "Shopping Partner",
+        "address": "1636 East Capital St NE Washington DC 20001",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8904093,
+          38.8684506
+        ]
+      },
+      "properties": {
+        "name": "Walker Mill Community Development : Walker Mill Community Development Center",
+        "type": "Shopping Partner",
+        "address": "6801 Walker Mill Rd Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0817187,
+          38.7436933
+        ]
+      },
+      "properties": {
+        "name": "Bethlehem Baptist Church : Bethlehem Baptist Church",
+        "type": "Shopping Partner",
+        "address": "7836 Fordson Road Alexandria VA 22306",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8447355,
+          38.9176794
+        ]
+      },
+      "properties": {
+        "name": "St. Joseph Catholic Church : St. Joseph Catholic Church",
+        "type": "Shopping Partner",
+        "address": "2020 St Joseph Drive Largo MD 20774",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9062199,
+          38.959288
+        ]
+      },
+      "properties": {
+        "name": "SEED Inc. : Sowing Empowerment & Economic Development, Inc.",
+        "type": "Shopping Partner",
+        "address": "5819 Eastpine Dr Riverdale MD 20737",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.920896,
+          38.9015442
+        ]
+      },
+      "properties": {
+        "name": "Church of the Incarnation, St. Vincent De Paul Society : Church of the Incarnation, St. Vincent De Paul Society",
+        "type": "Shopping Partner",
+        "address": "880 Eastern Ave NE Washington DC 20019",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8249383,
+          38.9889346
+        ]
+      },
+      "properties": {
+        "name": "Capital Christian Fellowship : Capital Christian Fellowship",
+        "type": "Shopping Partner",
+        "address": "10411 Greenbelt Rd Lanham MD 20706",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1358731,
+          38.8538189
+        ]
+      },
+      "properties": {
+        "name": "Grace Ministries - Culmore : Grace Ministries - Culmore",
+        "type": "Shopping Partner",
+        "address": "5901 Leesburg Pike Falls Church VA 22041",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8014795,
+          38.9476348
+        ]
+      },
+      "properties": {
+        "name": "Divine Grace Mission : Divine Grace Mission",
+        "type": "Shopping Partner",
+        "address": "4208 Glenn Dale Rd Bowie MD 20720",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4720346,
+          38.7516535
+        ]
+      },
+      "properties": {
+        "name": "Bull Run Unitarian Universalists : Bull Run Unitarian Universalists",
+        "type": "Shopping Partner",
+        "address": "9350 Main Street Manassas VA 20110",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.478337,
+          38.763801
+        ]
+      },
+      "properties": {
+        "name": "St. Thomas United Methodist Church : St. Thomas United Methodist Church",
+        "type": "Shopping Partner",
+        "address": "8899 Sudley Road Manassas VA 20110",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93282839999999,
+          38.9108551
+        ]
+      },
+      "properties": {
+        "name": "RCCG New Wine Assembly : RCCG New Wine Assembly",
+        "type": "Shopping Partner",
+        "address": "1625 Olive Street NE Washington DC 20019",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0358569,
+          38.9271223
+        ]
+      },
+      "properties": {
+        "name": "National Baptist Memorial Church : National Baptist Memorial Church",
+        "type": "Shopping Partner",
+        "address": "1501 Columbia Rd NW Washington DC 20009",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0704009,
+          38.9537407
+        ]
+      },
+      "properties": {
+        "name": "St. Paul's Lutheran Church : St. Paul's Lutheran Church",
+        "type": "Shopping Partner",
+        "address": "4900 Connecticut Ave NW Washington DC 20008",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9636714,
+          38.9394907
+        ]
+      },
+      "properties": {
+        "name": "Little David Baptist Church : Little David Baptist Church",
+        "type": "Shopping Partner",
+        "address": "3103 Shepherd Street Mount Rainier MD 20712",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9223872,
+          38.7538617
+        ]
+      },
+      "properties": {
+        "name": "Mt. Ennon Baptist Church : Mount Ennon Baptist Church",
+        "type": "Shopping Partner",
+        "address": "9832 Piscataway Road Clinton MD 20735",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1444269,
+          38.7819518
+        ]
+      },
+      "properties": {
+        "name": "Koinonia Foundation, Inc. : Koinonia Foundation, Inc.",
+        "type": "Shopping Partner",
+        "address": "6037 Franconia Road Alexandria VA 22310",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.74905059999999,
+          38.8253853
+        ]
+      },
+      "properties": {
+        "name": "Marlboro Churches Food Bank : Marlboro Churches Food Bank",
+        "type": "Shopping Partner",
+        "address": "4610 Largo Rd. Upper Marlboro MD 20772",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2796874,
+          38.653661
+        ]
+      },
+      "properties": {
+        "name": "Iglesia Pentecostal Trono de Jehova : Iglesia Pentecostal Trono de Jehova",
+        "type": "Shopping Partner",
+        "address": "2260 York Drive Woodbridge VA 22191",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0828003,
+          38.854197
+        ]
+      },
+      "properties": {
+        "name": "Our Lady Queen of Peace Church : Our Lady Queen of Peace Church",
+        "type": "Shopping Partner",
+        "address": "2700 19th Street South Arlington VA 22204",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0282632,
+          38.9641638
+        ]
+      },
+      "properties": {
+        "name": "Emory Beacon of Light, Inc. : Emory Beacon of Light, Inc.",
+        "type": "Shopping Partner",
+        "address": "6100 Georgia Avenue NW Washington DC 20011",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3922762,
+          39.0075101
+        ]
+      },
+      "properties": {
+        "name": "Sterling United Methodist Church : Sterling United Methodist Church",
+        "type": "Shopping Partner",
+        "address": "304 East Church Road Sterling VA 20164",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35285429999999,
+          38.9669009
+        ]
+      },
+      "properties": {
+        "name": "St. Anne's Episcopal Church ( Food Pantry) : St. Anne's Episcopal Church ( Food Pantry)",
+        "type": "Shopping Partner",
+        "address": "1700 Wainwright Drive Reston VA 20190",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9421885,
+          38.8705983
+        ]
+      },
+      "properties": {
+        "name": "New Macedonia Baptist Church : New Macedonia Baptist Church",
+        "type": "Shopping Partner",
+        "address": "4115 Alabama Ave SE Washington DC 20019",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9915325,
+          38.9037113
+        ]
+      },
+      "properties": {
+        "name": "New Samaritan Baptist Church : New Samaritan Baptist Church",
+        "type": "Shopping Partner",
+        "address": "1100 Florida Ave NE Washington DC 20002",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08583279999999,
+          38.74119659999999
+        ]
+      },
+      "properties": {
+        "name": "Greater Morning Star Apostolic Church : Greater Morning Star Apostolic Church",
+        "type": "Shopping Partner",
+        "address": "7929 Richmond Highway Alexandria VA 22306-",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.11806829999999,
+          38.7234109
+        ]
+      },
+      "properties": {
+        "name": "Royal Missionary Baptist Church : Royal Missionary Baptist Church",
+        "type": "Shopping Partner",
+        "address": "8631 Engleside Office Park Alexandria VA 22309",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7217106,
+          38.9157009
+        ]
+      },
+      "properties": {
+        "name": "Prince Emmanuel All Nations SDA Church : Prince Emmanuel All Nations SDA Church",
+        "type": "Shopping Partner",
+        "address": "1925 Mitchellville Rd Bowie MD 20716",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93331859999999,
+          38.8040717
+        ]
+      },
+      "properties": {
+        "name": "St. Stephen's Baptist Church : St. Stephen's Baptist Church",
+        "type": "Shopping Partner",
+        "address": "5757 Temple Hill Road Camp Springs MD 20748",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.000045,
+          38.73959199999999
+        ]
+      },
+      "properties": {
+        "name": "Breath of Life SDA Church : Breath of Life SDA Church",
+        "type": "Shopping Partner",
+        "address": "11310 Fort Washington Road Fort Washington MD 20744",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80650519999999,
+          38.9316042
+        ]
+      },
+      "properties": {
+        "name": "Apostolic Church Glorious Vision : Apostolic Church Glorious Vision",
+        "type": "Shopping Partner",
+        "address": "3004 Enterprise Road Bowie MD 20721",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1232677,
+          39.021088
+        ]
+      },
+      "properties": {
+        "name": "Bethesda Help : Bethesda Help",
+        "type": "Shopping Partner",
+        "address": "10100 Old Georgetown Road Bethesda MD 20814",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9808958,
+          38.9790748
+        ]
+      },
+      "properties": {
+        "name": "Turner AME Church : Turner AME Church",
+        "type": "Shopping Partner",
+        "address": "7201 16th Place Hyattsville MD 20783",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09679849999999,
+          39.0656283
+        ]
+      },
+      "properties": {
+        "name": "St. Jude Catholic Church : St. Jude Catholic Church",
+        "type": "Shopping Partner",
+        "address": "12701 Veirs Mill Rockville MD 20853",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8211329,
+          38.9859196
+        ]
+      },
+      "properties": {
+        "name": "Jamil-UL Jalil : Jamil-UL Jalil",
+        "type": "Shopping Partner",
+        "address": "10845 Lanham Severn Road Glenn Dale MD 20769",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0519714,
+          38.8319229
+        ]
+      },
+      "properties": {
+        "name": "Mother of Light Center : Mother of Light Center",
+        "type": "Shopping Partner",
+        "address": "421 Clifford Ave Alexandria VA 22305",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01675469999999,
+          38.8789091
+        ]
+      },
+      "properties": {
+        "name": "Christ United Methodist : Christ United Methodist 5000 Food Ministry",
+        "type": "Shopping Partner",
+        "address": "900 4th Street SW Washington, DC 20024 Washington DC 20024",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2776449,
+          38.7802252
+        ]
+      },
+      "properties": {
+        "name": "Lutheran Church of the Abiding Presence : Lutheran Church of the Abiding Presence",
+        "type": "Shopping Partner",
+        "address": "6304 Lee Chapel Rd Burke VA 22015",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0357195,
+          38.9334824
+        ]
+      },
+      "properties": {
+        "name": "Loaves & Fishes : Loaves & Fishes",
+        "type": "Shopping Partner",
+        "address": "1525 Newton St NW Washington DC 20910",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.517806,
+          38.8048137
+        ]
+      },
+      "properties": {
+        "name": "Northern Virginia Food Rescue : Northern Virginia Food Rescue",
+        "type": "Shopping Partner",
+        "address": "10535 Battleview Pkwy Manassas VA 20110",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1925026,
+          38.71607710000001
+        ]
+      },
+      "properties": {
+        "name": "The Redeemed Christian Church of God - Victory Temple : The Redeemed Christian Church of God - Victory Temple",
+        "type": "Shopping Partner",
+        "address": "7218 Lockport Place Lorton VA 22079",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8146551,
+          39.1002803
+        ]
+      },
+      "properties": {
+        "name": "Love Donation Pantry : Love Donation Pantry",
+        "type": "Shopping Partner",
+        "address": "3450 Laurel Fort Meade Rd. Laurel MD 20708",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.006359,
+          38.8767875
+        ]
+      },
+      "properties": {
+        "name": "The Hope Association : Hope Multiplied",
+        "type": "Shopping Partner",
+        "address": "80 Mst SE Washington DC DC 20003",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1923501,
+          39.1409869
+        ]
+      },
+      "properties": {
+        "name": "Wells Robertson House : Wells Robertson House",
+        "type": "Shopping Partner",
+        "address": "1 Wells Ave Gaithersburg MD 20877",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9307871,
+          38.8904539
+        ]
+      },
+      "properties": {
+        "name": "Ward 7 Food Center of Peace Lutheran Church : Ward 7 Food Center of Peace Lutheran Church",
+        "type": "Shopping Partner",
+        "address": "7 (Peace Lutheran Church) 4929 Ames St NE Washington DC 20019",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1596793,
+          38.7078499
+        ]
+      },
+      "properties": {
+        "name": "New Hope Housing Kennedy : New Hope Housing Kennedy Shelter",
+        "type": "Shopping Partner",
+        "address": "9155 Richmond Hwy Fort Belvoir VA 22060",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.974576,
+          38.964051
+        ]
+      },
+      "properties": {
+        "name": "Mt. Rainier Seventh Day Adventist Spanish Church : Mount Rainier Seventh Day Adventist Spanish Church",
+        "type": "Shopping Partner",
+        "address": "6012 Ager Road Hyattsville MD 20782",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2409232,
+          38.8744522
+        ]
+      },
+      "properties": {
+        "name": "SevaTruck Foundation : SevaTruck Foundation",
+        "type": "Shopping Partner",
+        "address": "2815 Old Lee Hwy Fairfax Fairfax VA 22031",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02626029999999,
+          38.9663657
+        ]
+      },
+      "properties": {
+        "name": "Community Multi-Service : Community Multi-Service",
+        "type": "Shopping Partner",
+        "address": "6300 9th St NW Washington DC DC 20011",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91306329999999,
+          38.8130346
+        ]
+      },
+      "properties": {
+        "name": "Central Baptist Church of Camp Springs : Central Baptist Church of Camp Springs",
+        "type": "Shopping Partner",
+        "address": "5600 Old Branch Avenue Camp Springs MD 20748",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9872127,
+          38.8980873
+        ]
+      },
+      "properties": {
+        "name": "Purity Baptist Church : Purity Baptist Church",
+        "type": "Shopping Partner",
+        "address": "1325 Maryland Ave NE Washington DC 20002",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0325632,
+          38.9064906
+        ]
+      },
+      "properties": {
+        "name": "National City Christian Church : National City Christian Church",
+        "type": "Shopping Partner",
+        "address": "5 Thomas Circle NW Washington DC 20005",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98525,
+          38.9571024
+        ]
+      },
+      "properties": {
+        "name": "Good Samaritan : Good Samaritan Ministry",
+        "type": "Shopping Partner",
+        "address": "1417 Chillum Rd Hyattsville MD 20782",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00863009999999,
+          38.8341778
+        ]
+      },
+      "properties": {
+        "name": "Covenant Baptist Food Pantry : Covenant Baptist Food Pantry",
+        "type": "Shopping Partner",
+        "address": "3845 South Capitol St SW Washington DC 20032",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0370009,
+          38.9468087
+        ]
+      },
+      "properties": {
+        "name": "Nineteenth Street Baptist Church : Nineteenth Street Baptist Church",
+        "type": "Shopping Partner",
+        "address": "4606 16th St NW Washington DC 20011",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91387019999999,
+          38.8852047
+        ]
+      },
+      "properties": {
+        "name": "First Baptist Church of Capitol Heights : First Baptist Church of Capitol Heights",
+        "type": "Shopping Partner",
+        "address": "6 Capitol Heights Blvd Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0045809,
+          38.8415138
+        ]
+      },
+      "properties": {
+        "name": "Assumption Outreach : Assumption Outreach",
+        "type": "Shopping Partner",
+        "address": "220 Highview Place SE Washington DC 20032",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9863627,
+          38.9659515
+        ]
+      },
+      "properties": {
+        "name": "Metropolitan SDA Church : Metropolitan SDA Church",
+        "type": "Shopping Partner",
+        "address": "6303 Riggs Rd Hyattsville MD 20783",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3354289,
+          38.6665752
+        ]
+      },
+      "properties": {
+        "name": "Church of Christ of Dale City : Church of Christ of Dale City",
+        "type": "Shopping Partner",
+        "address": "13130 Hillendale Drive Dale City VA 22193",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368968,
+          38.9143608
+        ]
+      },
+      "properties": {
+        "name": "Food For All : Food For All",
+        "type": "Shopping Partner",
+        "address": "1810 16th St NW Washington DC 20009",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0251975,
+          38.7669059
+        ]
+      },
+      "properties": {
+        "name": "Fort Foote Baptist Church : Fort Foote Baptist Church",
+        "type": "Shopping Partner",
+        "address": "8310 Fort Foot Road Fort Washington MD 20744",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9821931,
+          38.8576009
+        ]
+      },
+      "properties": {
+        "name": "Our Lady of Perpetual Help Church : Our Lady of Perpetual Help Church",
+        "type": "Shopping Partner",
+        "address": "1600 Morris Rd SE Washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0009154,
+          38.7557705
+        ]
+      },
+      "properties": {
+        "name": "Fort Washington Food Pantry : Fort Washington Food Pantry",
+        "type": "Shopping Partner",
+        "address": "9801 Livingston Road Fort Washington MD 20744",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44200049999999,
+          38.8835707
+        ]
+      },
+      "properties": {
+        "name": "WFCM Food Pantry : WFCM Food Pantry",
+        "type": "Shopping Partner",
+        "address": "4511 Daly Dr Suite J Chantilly VA 20151",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99943069999999,
+          39.0622338
+        ]
+      },
+      "properties": {
+        "name": "Washington Spanish SDA Church : Washington Spanish SDA Church",
+        "type": "Shopping Partner",
+        "address": "12604 New Hampshire Avenue Silver Spring MD 20904",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8944185,
+          38.87724470000001
+        ]
+      },
+      "properties": {
+        "name": "Gethsemane United Methodist Church : Gethsemane United Methodist Church",
+        "type": "Shopping Partner",
+        "address": "910 Addison Road Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3289375,
+          38.5687146
+        ]
+      },
+      "properties": {
+        "name": "Bread & Fishes : Bread & Fishes",
+        "type": "Shopping Partner",
+        "address": "3890 Cameron Street Dumfries Va 22026",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9246036,
+          38.8843158
+        ]
+      },
+      "properties": {
+        "name": "Urban Outreach Inc. : Urban Outreach Inc.",
+        "type": "Shopping Partner",
+        "address": "5343 C St SE Washington DC 20019",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99386679999999,
+          38.844
+        ]
+      },
+      "properties": {
+        "name": "Greater Fellowship Missionary Baptist Church : Greater Fellowship Missionary Baptist Church",
+        "type": "Shopping Partner",
+        "address": "814 Alabama Ave SE Washington DC 20032",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85141279999999,
+          38.9011725
+        ]
+      },
+      "properties": {
+        "name": "Prince George's County DSS : Prince George's County DSS",
+        "type": "Shopping Partner",
+        "address": "805 Brightseat Rd Landover MD 20785",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9823862,
+          38.7980475
+        ]
+      },
+      "properties": {
+        "name": "St. Paul UMC : St. Paul UMC",
+        "type": "Shopping Partner",
+        "address": "6634 St. Barnabas Road Oxon Hill MD 20745",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8964021,
+          38.882853
+        ]
+      },
+      "properties": {
+        "name": "St. Margaret of Scotland Catholic Church : St. Margaret of Scotland Catholic Church",
+        "type": "Shopping Partner",
+        "address": "408 Addison Road, South Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8506389,
+          39.0984685
+        ]
+      },
+      "properties": {
+        "name": "FISH of Laurel, Inc. : FISH of Laurel, Inc.",
+        "type": "Shopping Partner",
+        "address": "308 Gorman Ave Laurel MD 20707",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8932935,
+          38.8407989
+        ]
+      },
+      "properties": {
+        "name": "Life Builders - Harvest Temple Church of God : Life Builders",
+        "type": "Shopping Partner",
+        "address": "6608 Wilkins Place Forestville MD 20747",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9235721,
+          38.8653116
+        ]
+      },
+      "properties": {
+        "name": "Victory Drug Center : Victory Drug Center",
+        "type": "Shopping Partner",
+        "address": "1804 Quarter Avenue Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2571521,
+          38.663593
+        ]
+      },
+      "properties": {
+        "name": "St. Paul's United Methodist Church : St. Paul United Methodist Church",
+        "type": "Shopping Partner",
+        "address": "1400 G St Woodbridge VA 22191",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.081947,
+          38.7468711
+        ]
+      },
+      "properties": {
+        "name": "Woodlawn United Methodist Church : Woodlawn United Methodist Church",
+        "type": "Shopping Partner",
+        "address": "7730 Fordson Road Alexandria VA 22306",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4168389,
+          38.94278449999999
+        ]
+      },
+      "properties": {
+        "name": "Floris United Methodist Church : Floris United Methodist Church",
+        "type": "Shopping Partner",
+        "address": "13600 Frying Pan Road Herndon VA 20171",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93352709999999,
+          38.86123440000001
+        ]
+      },
+      "properties": {
+        "name": "Galilee Community Development Corporation : Galilee Community Development Corporation",
+        "type": "Shopping Partner",
+        "address": "2101 Shadyside Ave Suitland MD 20746",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94087689999999,
+          38.95514050000001
+        ]
+      },
+      "properties": {
+        "name": "Crossover Church : Crossover Church",
+        "type": "Shopping Partner",
+        "address": "5340 Baltimore Ave Hyattsville MD 20781",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0217749,
+          39.03160219999999
+        ]
+      },
+      "properties": {
+        "name": "Luther Rice Neighborhood Center : Luther Rice Neighborhood Center",
+        "type": "Shopping Partner",
+        "address": "801 University Blvd W Silver Spring MD 20901",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.23956419999999,
+          38.7563195
+        ]
+      },
+      "properties": {
+        "name": "Sydenstricker UMC : Sydenstricker UMC",
+        "type": "Shopping Partner",
+        "address": "8508 Hooes Road Springfield VA 22153",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9120926,
+          38.8863283
+        ]
+      },
+      "properties": {
+        "name": "Clothing of Power Eternal Church : Clothing of Power Eternal Church",
+        "type": "Shopping Partner",
+        "address": "25 Quire Ave Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9180635,
+          39.04311999999999
+        ]
+      },
+      "properties": {
+        "name": "Emmanuel United Methodist Church : Emmanuel UMC",
+        "type": "Shopping Partner",
+        "address": "11416 Cedar Lane Beltsville MD 20705",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.116879,
+          38.8045221
+        ]
+      },
+      "properties": {
+        "name": "Christ House : Alexandria Food Pantry",
+        "type": "Shopping Partner",
+        "address": "4725A Eisenhower Avenue ALEXANDRIA VA 22304",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2628454,
+          38.8095365
+        ]
+      },
+      "properties": {
+        "name": "St. Stephen's United Methodist Church : St. Stephen's UMC",
+        "type": "Shopping Partner",
+        "address": "9203 Braddock Rd Burke VA 22015",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9816629,
+          39.0095248
+        ]
+      },
+      "properties": {
+        "name": "St. Camillus Catholic Church : St. Camillus Catholic Church",
+        "type": "Shopping Partner",
+        "address": "1600 Saint Camillus Drive Silver Spring MD 20903",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8667253,
+          38.8334642
+        ]
+      },
+      "properties": {
+        "name": "Great Commission Change of Life Ministries : Great Commission Change of Life Ministries",
+        "type": "Shopping Partner",
+        "address": "7937 Penn Randall Place Unit A Upper Marlboro MD 20772",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3855749,
+          38.9721621
+        ]
+      },
+      "properties": {
+        "name": "Faith Social  Services : Faith Social Services",
+        "type": "Shopping Partner",
+        "address": "795 Center St Herndon VA 20170",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.27,
+          38.63
+        ]
+      },
+      "properties": {
+        "name": "Holiness Tabernacle Church of God in Christ : Holiness Tabernacle Church of God",
+        "type": "Shopping Partner",
+        "address": "2193 Dale City VA 22195",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9581817,
+          39.0774413
+        ]
+      },
+      "properties": {
+        "name": "Allen Chapel AME Church Outreach MD : Allen Chapel AME Church Outreach Ministry",
+        "type": "Shopping Partner",
+        "address": "2518 Fairland Road Silver Spring MD 20904",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1466361,
+          38.8613588
+        ]
+      },
+      "properties": {
+        "name": "Dar Al-Hijrah Islamic Center : Dar Al-Hijrah Islamic Center",
+        "type": "Shopping Partner",
+        "address": "3159 Row Street Falls Church VA 22044",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8523897,
+          39.0884967
+        ]
+      },
+      "properties": {
+        "name": "Gospel Assembly Church : Gospel Assembly Church",
+        "type": "Shopping Partner",
+        "address": "8740-12 Cherry Lane Laurel MD 20707",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87643039999999,
+          39.0019064
+        ]
+      },
+      "properties": {
+        "name": "Restoration Church : Restoration Church",
+        "type": "Shopping Partner",
+        "address": "119 Centerway Dr. Greenbelt MD 20770",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99409729999999,
+          39.0003356
+        ]
+      },
+      "properties": {
+        "name": "Clifton Park Baptist Church : Clifton Park Baptist Church",
+        "type": "Shopping Partner",
+        "address": "8818 Piney Branch Rd Silver Spring MD 20903",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9354529,
+          38.7999543
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill Church of Christ : Oxon Hill Church of Christ",
+        "type": "Shopping Partner",
+        "address": "4201 Brinkley Road Temple Hills MD 20748",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92127769999999,
+          39.0534895
+        ]
+      },
+      "properties": {
+        "name": "Beltsville Seventh-Day Adventist Church : Beltsville Adventist Community Center",
+        "type": "Shopping Partner",
+        "address": "4200 Ammendale Rd. Beltsville MD 20705",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1832939,
+          38.8042507
+        ]
+      },
+      "properties": {
+        "name": "Springfield Christian Church : Springfield Christian Church",
+        "type": "Shopping Partner",
+        "address": "5407 Backlick Rd Springfield VA 22151",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.194682,
+          39.1431523
+        ]
+      },
+      "properties": {
+        "name": "Montgomery County Muslim Foundation : Montgomery County Muslim Foundation",
+        "type": "Shopping Partner",
+        "address": "11 Park Ave Gaithersburg MD 20877",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8905132,
+          38.8525198
+        ]
+      },
+      "properties": {
+        "name": "Mt. Calvary Catholic Church Ladies of Charity Food Pantry : Mt. Calvary Catholic Church, Ladies of Charity Food Pantry",
+        "type": "Shopping Partner",
+        "address": "6706 Marlboro Pike Forestville MD 20747",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84177960000001,
+          38.9660919
+        ]
+      },
+      "properties": {
+        "name": "This Generation Ministries : This Generation Ministries",
+        "type": "Shopping Partner",
+        "address": "9470 Annapolis Rd Lanham MD 20706",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.080055,
+          38.7758061
+        ]
+      },
+      "properties": {
+        "name": "Groveton Baptist Church : Groveton Baptist Church",
+        "type": "Shopping Partner",
+        "address": "6511 Richmond Highway Alexandria VA 22306",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0953625,
+          38.8665041
+        ]
+      },
+      "properties": {
+        "name": "Salvation Army - Arlington Corp : Salvation Army Arlington Corps",
+        "type": "Shopping Partner",
+        "address": "518 S. Glebe Rd Arlington VA 22204",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9973509,
+          39.00875540000001
+        ]
+      },
+      "properties": {
+        "name": "Mt. Jezreel Baptist Church : Mt. Jezreel Baptist Church",
+        "type": "Shopping Partner",
+        "address": "420 University Blvd East Silver Spring MD 20901",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97206589999999,
+          38.9202277
+        ]
+      },
+      "properties": {
+        "name": "CAC Wosem DC : CAC Wosem- 24th Place",
+        "type": "Shopping Partner",
+        "address": "24th 2130 24th Place NE Washington DC 20018",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3284833,
+          38.5629506
+        ]
+      },
+      "properties": {
+        "name": "WeSERVE CDC : WeSERVE CDC",
+        "type": "Shopping Partner",
+        "address": "17948 Fraley Blvd Dumfries VA 22026",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0203274,
+          39.0657419
+        ]
+      },
+      "properties": {
+        "name": "Kings and Priests International Ministries : Kings and Priests International Ministries",
+        "type": "Shopping Partner",
+        "address": "520 Randolph Road Silver Spring MD 20904",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0574096,
+          39.0657079
+        ]
+      },
+      "properties": {
+        "name": "Chrisma Charities : Chrisma Charities",
+        "type": "Shopping Partner",
+        "address": "12805 Georgia Avenue Silver Spring MD 20906",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.819667,
+          38.9935312
+        ]
+      },
+      "properties": {
+        "name": "CAC Bethel Fellowship Church : CAC Bethel Fellowship Church",
+        "type": "Shopping Partner",
+        "address": "7513 Northern Avenue Glenn Dale MD 20769",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.856538,
+          38.8809969
+        ]
+      },
+      "properties": {
+        "name": "New Hope and Life Church of God, Inc : New Hope and Life Church of God, Inc.",
+        "type": "Shopping Partner",
+        "address": "8616 Edgeworth Drive Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99229749999999,
+          38.998303
+        ]
+      },
+      "properties": {
+        "name": "Cheer, Inc : Cheer, Inc.",
+        "type": "Shopping Partner",
+        "address": "8720 Carroll Avenue, Silver Spring MD 20903",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98622189999999,
+          38.8011839
+        ]
+      },
+      "properties": {
+        "name": "Oxon Hill UMC : Oxon Hill UMC",
+        "type": "Shopping Partner",
+        "address": "6400 Livingston Road Oxon Hill MD 20745",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8438637,
+          38.9063439
+        ]
+      },
+      "properties": {
+        "name": "Christ Embassy Maryland : Christ Embassy Maryland",
+        "type": "Shopping Partner",
+        "address": "1221 Carraway Court Largo MD 20774",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99870229999999,
+          38.9011359
+        ]
+      },
+      "properties": {
+        "name": "Calvary Episcopal Church : Calvary Episcopal Church",
+        "type": "Shopping Partner",
+        "address": "509 I Street NE Washington DC 20002",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8813292,
+          38.8884061
+        ]
+      },
+      "properties": {
+        "name": "Impact One Church : Impact One Church",
+        "type": "Shopping Partner",
+        "address": "7230 Central Avenue Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8685589,
+          39.0791535
+        ]
+      },
+      "properties": {
+        "name": "Royalhouse Chapel International : Royalhouse Chapel International",
+        "type": "Shopping Partner",
+        "address": "7911 Braygreen Road Laurel MD 20707",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8895155,
+          38.7645018
+        ]
+      },
+      "properties": {
+        "name": "Antioch Baptist Church of Clinton : Antioch Baptist Church of Clinton",
+        "type": "Shopping Partner",
+        "address": "9107 Pine View Lane Clinton MD 20735",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.840538,
+          38.9640534
+        ]
+      },
+      "properties": {
+        "name": "St. Matthias Catholic Church : St. Matthias Catholic Church",
+        "type": "Shopping Partner",
+        "address": "9475 Annapolis Lanham MD 20706",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.962135,
+          39.0672662
+        ]
+      },
+      "properties": {
+        "name": "Guru Nanak Foundation of America (GNFA) : Guru Nanak Foundation of America (GNFA)",
+        "type": "Shopping Partner",
+        "address": "12917 Old Columbia Pike Silver Spring MD 20904",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89090329999999,
+          38.8238324
+        ]
+      },
+      "properties": {
+        "name": "GAP Food Program : GAP Food Program",
+        "type": "Shopping Partner",
+        "address": "6715 Suitland Road Morningside MD 20746",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1855899,
+          38.8685341
+        ]
+      },
+      "properties": {
+        "name": "La Iglesia Episcopal de Santa Maria : La Iglesia Episcopal de Santa Maria",
+        "type": "Shopping Partner",
+        "address": "7000 Arlington Blvd Falls Church VA 22042",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2484484,
+          38.8644289
+        ]
+      },
+      "properties": {
+        "name": "DMV Food Justice Initiative : DMV Food Justice Initiative",
+        "type": "Shopping Partner",
+        "address": "3110 Chichester Lane Fairfax VA 22031",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97752249999999,
+          38.9204936
+        ]
+      },
+      "properties": {
+        "name": "Celestial Church of Christ : Celestial Church of Christ",
+        "type": "Shopping Partner",
+        "address": "1880 Adams Street NE Washington DC 20018",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0278122,
+          38.9322386
+        ]
+      },
+      "properties": {
+        "name": "Park Road Community Church : Park Road Community Church",
+        "type": "Shopping Partner",
+        "address": "1019 Park Road NW Washington DC 20010",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2809001,
+          38.783982
+        ]
+      },
+      "properties": {
+        "name": "Burke United Methodist Church : Burke United Methodist Church",
+        "type": "Shopping Partner",
+        "address": "6200 Burke Centre Parkway Burke VA 22015",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.29759729999999,
+          38.8057279
+        ]
+      },
+      "properties": {
+        "name": "Greater Little Zion Baptist Church : Greater Little Zion Baptist Church",
+        "type": "Shopping Partner",
+        "address": "10185 Zion Dr Fairfax VA 22032",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3866536,
+          38.9692805
+        ]
+      },
+      "properties": {
+        "name": "She Believes in Me : She Believes in Me",
+        "type": "Shopping Partner",
+        "address": "761 Elden Street Herndon VA 20170",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2084271,
+          39.1271199
+        ]
+      },
+      "properties": {
+        "name": "Gaithersburg HELP : Gaithersburg HELP",
+        "type": "Shopping Partner",
+        "address": "301 Muddy Branch Road Gaithersburg MD 20878",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.21300819999999,
+          38.826751
+        ]
+      },
+      "properties": {
+        "name": "Annandale UMC : Annandale UMC",
+        "type": "Shopping Partner",
+        "address": "7901 Heritage Drive Annandale VA 22003",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0629345,
+          38.94400479999999
+        ]
+      },
+      "properties": {
+        "name": "NW Community Food : NW Community Food",
+        "type": "Shopping Partner",
+        "address": "4225 Connecticut AVE NW Washington DC DC 20008",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0023863,
+          39.093561
+        ]
+      },
+      "properties": {
+        "name": "First Alliance Church : First Alliance Church",
+        "type": "Shopping Partner",
+        "address": "14500 New Hampshire Ave Silver Spring MD 20904",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.24383809999999,
+          38.8365284
+        ]
+      },
+      "properties": {
+        "name": "St Matthews Ken Jackson Food Closet : St. Matthews Ken Jackson Food Closet",
+        "type": "Shopping Partner",
+        "address": "8617 Little River Turnpike Annandale VA 22003",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7470436,
+          38.9750933
+        ]
+      },
+      "properties": {
+        "name": "Grace Baptist Church : Grace Baptist Church",
+        "type": "Shopping Partner",
+        "address": "3121 Trinity Drive Bowie MD 20715",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9174501,
+          38.9455466
+        ]
+      },
+      "properties": {
+        "name": "Ports Town Church : Ports Town Church",
+        "type": "Shopping Partner",
+        "address": "4500 57th Ave Bladensburg MD 20717",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3272825,
+          38.797111
+        ]
+      },
+      "properties": {
+        "name": "St. Peters in the Woods : St. Peters in the Woods",
+        "type": "Shopping Partner",
+        "address": "5911 Fairview Woods Drive Fairfax Station VA 22039",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7723369,
+          38.6604406
+        ]
+      },
+      "properties": {
+        "name": "Community Support Systems Inc : Community Support Systems Inc BADEN",
+        "type": "Shopping Partner",
+        "address": "13500 Baden Westwood Road Brandywine MD 20613",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0260746,
+          38.9316034
+        ]
+      },
+      "properties": {
+        "name": "We Are Family : We Are Family",
+        "type": "Shopping Partner",
+        "address": "3335 Sherman Ave NW Washington DC 20001",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9808603,
+          38.8476855
+        ]
+      },
+      "properties": {
+        "name": "Friends Of Douglas Community Center : Friends Of Douglass Community Center",
+        "type": "Shopping Partner",
+        "address": "3261 Stanton Road SE Washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8886053,
+          38.7783273
+        ]
+      },
+      "properties": {
+        "name": "A Place For Hashem Ministries : A Place for Hashem Ministries",
+        "type": "Shopping Partner",
+        "address": "8100 Malcolm Rd Clinton MD 20735",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1486175,
+          39.1760308
+        ]
+      },
+      "properties": {
+        "name": "Church of The Redeemer of Gaithersburg : Church of The Redeemer of Gaithersburg",
+        "type": "Shopping Partner",
+        "address": "19425 Woodfield Road Gaithersburg MD 20879",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8685067,
+          38.84624480000001
+        ]
+      },
+      "properties": {
+        "name": "Faith United Ministries Outreach : Faith United Ministries Outreach",
+        "type": "Shopping Partner",
+        "address": "7905 Fernham Lane District Heights MD 20747",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.26846479999999,
+          39.1789613
+        ]
+      },
+      "properties": {
+        "name": "The Upcounty Hub Inc : The Upcounty Hub Inc",
+        "type": "Shopping Partner",
+        "address": "12900 Middlebrook Road Germantown MD 20874",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9223241,
+          39.0126471
+        ]
+      },
+      "properties": {
+        "name": "College Park Church of the Nazarene : College Park Community Food Bank",
+        "type": "Shopping Partner",
+        "address": "9704 Rhode Island Ave College Park MD 20740",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.20879819999999,
+          38.8318963
+        ]
+      },
+      "properties": {
+        "name": "Recovery Program Solutions of Virginia : Recovery Program Solutions of Virginia",
+        "type": "Shopping Partner",
+        "address": "7611 Little River Turnpike Suite E100 Annandale VA 22003",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.379582,
+          39.01750699999999
+        ]
+      },
+      "properties": {
+        "name": "LINK Incorporated : LINK Mobile Food Pantry - Christ the Redeemer",
+        "type": "Shopping Partner",
+        "address": "46833 Harry Byrd Highway, Sterling VA 20164",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0360795,
+          38.9319061
+        ]
+      },
+      "properties": {
+        "name": "The Family Place : The Family Place",
+        "type": "Shopping Partner",
+        "address": "3309 16th St NW Washington DC DC 20010",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0648231,
+          38.9450431
+        ]
+      },
+      "properties": {
+        "name": "University of District of Columbia : University of District of Columbia",
+        "type": "Shopping Partner",
+        "address": "4250 Connecticut Ave NW Washington DC DC 20008",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09081239999999,
+          38.9358928
+        ]
+      },
+      "properties": {
+        "name": "American University : American University",
+        "type": "Shopping Partner",
+        "address": "4400 Massachusetts Ave Washington DC 20016",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9981454,
+          38.9198333
+        ]
+      },
+      "properties": {
+        "name": "Crowder Owen's Calvary Food Bank : Crowder Owens Calvary Food Bank (The Bishop Alfred A. Owens, Jr. Family Life CC)",
+        "type": "Shopping Partner",
+        "address": "600 W Street NE Washington DC 20002",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1015905,
+          38.7340522
+        ]
+      },
+      "properties": {
+        "name": "Rising Hope Mission Church : Rising Hope Methodist Mission Church",
+        "type": "Shopping Partner",
+        "address": "8220 Russell Road Alexandria VA 22309",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1377006,
+          38.8562742
+        ]
+      },
+      "properties": {
+        "name": "St. Anthony of Padua Catholic Church : St. Anthony of Padua Catholic Church",
+        "type": "Shopping Partner",
+        "address": "3305 Glen Carlyn Road Falls Church VA 22041",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9767437,
+          38.9177239
+        ]
+      },
+      "properties": {
+        "name": "Womens Collective : The Women's Collective",
+        "type": "Shopping Partner",
+        "address": "1818 New York Ave NE Washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4398034,
+          38.8256385
+        ]
+      },
+      "properties": {
+        "name": "Centreville United Methodist Church : Centreville UMC",
+        "type": "Shopping Partner",
+        "address": "6400 Old Centreville Rd Centreville VA 20121",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88087879999999,
+          38.8590586
+        ]
+      },
+      "properties": {
+        "name": "First Baptist Church of District Heights : First Baptist Church of District Heights",
+        "type": "Shopping Partner",
+        "address": "7234 Lansdale Street District Heights MD 20747",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87236279999999,
+          38.9180718
+        ]
+      },
+      "properties": {
+        "name": "No Limits Outreach Ministries : No Limits Outreach Ministries",
+        "type": "Shopping Partner",
+        "address": "7721 Barlowe Rd Landover MD 20785",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8592431,
+          38.9299149
+        ]
+      },
+      "properties": {
+        "name": "Ark of Grace Mission, Inc : Ark of Grace Mission, Inc",
+        "type": "Shopping Partner",
+        "address": "3311 Brightseat Road Lanham MD 20706",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8562013,
+          39.0805614
+        ]
+      },
+      "properties": {
+        "name": "Faith Village of Greater Laurel, Inc. : Faith Village of Greater Laurel, Inc.",
+        "type": "Shopping Partner",
+        "address": "13714 Briarwood Drive Laurel MD 20708",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90582739999999,
+          38.9021864
+        ]
+      },
+      "properties": {
+        "name": "Corinth Baptist Church Outreach Pro : Corinth Baptist Church Outreach Program",
+        "type": "Shopping Partner",
+        "address": "814 Cypress Tree Dr Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.260103,
+          38.6520572
+        ]
+      },
+      "properties": {
+        "name": "Woodbridge Workers : Woodbridge Workers",
+        "type": "Shopping Partner",
+        "address": "13950 Jefferson Davis Highway Woodbridge VA 22193",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.62087369999999,
+          39.1153592
+        ]
+      },
+      "properties": {
+        "name": "Iglesia De Dios Pentecostal Nuevo Renacer : Iglesia De Dios Pentecostal Nuevo Renacer",
+        "type": "Shopping Partner",
+        "address": "490 Victoria Court Millersville MD 21108",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1620999,
+          39.1722055
+        ]
+      },
+      "properties": {
+        "name": "Calvary Pentecostal Ministries : Calvary Pentecostal Ministries",
+        "type": "Shopping Partner",
+        "address": "7910 Cessna Avenue Gaithersburg MD 20879",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.016391,
+          39.0127009
+        ]
+      },
+      "properties": {
+        "name": "Yad Yehuda of Greater Washington : Yad Yehuda of Greater Washington",
+        "type": "Shopping Partner",
+        "address": "9601 Colesville Rd Silver Spring MD 20902",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0312775,
+          39.0453188
+        ]
+      },
+      "properties": {
+        "name": "Silver Spring Christian Reformed Church : Silver Spring Christian Reformed Church",
+        "type": "Shopping Partner",
+        "address": "1501 Arcola Ave Silver Spring MD 20902",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.23418670000001,
+          38.7825998
+        ]
+      },
+      "properties": {
+        "name": "Messiah United Methodist Church : Messiah United Methodist Church",
+        "type": "Shopping Partner",
+        "address": "6215 Rolling Road Springfield VA 22152",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0934951,
+          38.8613598
+        ]
+      },
+      "properties": {
+        "name": "Kitchen of Purpose : Kitchen of Purpose",
+        "type": "Shopping Partner",
+        "address": "918 S. Lincoln St Arlington VA 22204",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1487655,
+          39.105503
+        ]
+      },
+      "properties": {
+        "name": "Nourish Now : Nourish Now",
+        "type": "Shopping Partner",
+        "address": "397 EAST GUDE DR Rockville MD 20850",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.28357009999999,
+          38.7743791
+        ]
+      },
+      "properties": {
+        "name": "Calvary Christian Church : Calvary Christian Church",
+        "type": "Shopping Partner",
+        "address": "9800 Old Keene Mill Road Burke VA 22015",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00369789999999,
+          39.1054603
+        ]
+      },
+      "properties": {
+        "name": "Muslim Community Center : Muslim Community Center",
+        "type": "Shopping Partner",
+        "address": "15200 New Hampshire Ave. Silver Spring MD 20905",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3323976,
+          38.9713751
+        ]
+      },
+      "properties": {
+        "name": "Helping Hungry Kids of NOVA : Helping Hungry Kids of NOVA",
+        "type": "Shopping Partner",
+        "address": "1441 Wiehle Ave Reston VA 20190",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9364433,
+          38.9380696
+        ]
+      },
+      "properties": {
+        "name": "Grace of God Ministry : Grace of God Ministry",
+        "type": "Shopping Partner",
+        "address": "3950 48th Street Bladensburg MD 20710",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98522,
+          38.72061
+        ]
+      },
+      "properties": {
+        "name": "Fountain of Restoration Church Inc : Fountain of Restoration Church",
+        "type": "Shopping Partner",
+        "address": "12304 Livingston Rd Fort Washington MD 20744",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9935299,
+          38.9059868
+        ]
+      },
+      "properties": {
+        "name": "Little Rock Bibleway Church : Gallaudet University Food Pantry",
+        "type": "Shopping Partner",
+        "address": "800 Florida Ave. NE Room Ely 100 Washington DC 20002",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8476939,
+          39.1018585
+        ]
+      },
+      "properties": {
+        "name": "Laurel Advocacy & Referral Services, Inc. : Laurel Advocacy & Referral Services, Inc.",
+        "type": "Shopping Partner",
+        "address": "311 Laurel Ave Laurel MD 20707",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9328151,
+          38.8734668
+        ]
+      },
+      "properties": {
+        "name": "Community Outreach and Development CDC : Community Outreach and Development Center CDC",
+        "type": "Shopping Partner",
+        "address": "4719 Marlboro Pike Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.59820719999999,
+          38.7901929
+        ]
+      },
+      "properties": {
+        "name": "Haymarket Regional Food Pantry : Haymarket Regional Food Pantry",
+        "type": "Shopping Partner",
+        "address": "7669 Limestone Drive Gainesville VA 20155",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9918998,
+          38.9769084
+        ]
+      },
+      "properties": {
+        "name": "Educare Support Services : Educare Support Services",
+        "type": "Shopping Partner",
+        "address": "7001 New Hampshire Ave Takoma Park MD 20912",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.55791169999999,
+          38.7816723
+        ]
+      },
+      "properties": {
+        "name": "House of Mercy : House of Mercy",
+        "type": "Shopping Partner",
+        "address": "8170 Flannery Court Manassas VA 20109",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8964021,
+          38.882853
+        ]
+      },
+      "properties": {
+        "name": "Maryland Umbrella Group : Maryland Umbrella Group",
+        "type": "Shopping Partner",
+        "address": "408 Addison Road South Seat Pleasant MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9539033,
+          38.9834719
+        ]
+      },
+      "properties": {
+        "name": "St. Mark The Evangelist Catholic Church : St. Mark The Evangelist Catholic Church",
+        "type": "Shopping Partner",
+        "address": "7501 Adelphi Road Hyattsville MD 20783",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40369179999999,
+          38.9080777
+        ]
+      },
+      "properties": {
+        "name": "Community of Faith United Methodist Church : Community of Faith United Methodist Church",
+        "type": "Shopping Partner",
+        "address": "13224 Franklin Farm Rd Herndon VA 20171",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0822025,
+          38.7516846
+        ]
+      },
+      "properties": {
+        "name": "ICNA Relief USA Programs Inc. : ICNA Relief USA Programs Inc.",
+        "type": "Shopping Partner",
+        "address": "2912 WOODLAWN TRAIL ALEXANDRIA VA 22306",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4787356,
+          38.7816108
+        ]
+      },
+      "properties": {
+        "name": "Freedom Community Church : Freedom Community Church",
+        "type": "Shopping Partner",
+        "address": "9325 Mace Street Manassas Park VA 20111",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2846289,
+          38.66972519999999
+        ]
+      },
+      "properties": {
+        "name": "Ebenezer Baptist Church : Ebenezer Baptist Church",
+        "type": "Shopping Partner",
+        "address": "13020 Telegraph Road Woodbridge VA 22192",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.316468,
+          38.8226209
+        ]
+      },
+      "properties": {
+        "name": "Salvation Army (Fairfax) : Salvation Army (Fairfax)",
+        "type": "Shopping Partner",
+        "address": "4915 Ox Road Fairfax VA 22030",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01587370000001,
+          39.1642296
+        ]
+      },
+      "properties": {
+        "name": "Living Legends Awards for Service to Humanity : Living Legends Awards for Service to Humanity",
+        "type": "Shopping Partner",
+        "address": "18800 New Hampshire Avenue Ashton MD 20861",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8654351,
+          38.964637
+        ]
+      },
+      "properties": {
+        "name": "Ebenezer We Care We Share Community : Ebenezer We Care We Share Community",
+        "type": "Shopping Partner",
+        "address": "6016 Princess Garden Parkway New Carrollton MD 20784",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99275659999999,
+          38.9584607
+        ]
+      },
+      "properties": {
+        "name": "Shiloh Church Of God 7 Day : Shiloh Church Of God 7 Day",
+        "type": "Shopping Partner",
+        "address": "7 Day 5701 Eastern Ave Hyattsville MD 20781",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9926349,
+          38.9226316
+        ]
+      },
+      "properties": {
+        "name": "Metropolis Club : Metropolis Club",
+        "type": "Shopping Partner",
+        "address": "938 Rhode Island Ave NE Washington DC 20018",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9189899,
+          38.8690917
+        ]
+      },
+      "properties": {
+        "name": "Builders, Inc : Builders, Inc",
+        "type": "Shopping Partner",
+        "address": "5135 Marlboro Pike Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9777052,
+          38.9207751
+        ]
+      },
+      "properties": {
+        "name": "Plenty to Eat : Plenty to Eat",
+        "type": "Shopping Partner",
+        "address": "2315 18th Place NE Washington DC 20018",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12109,
+          38.7222111
+        ]
+      },
+      "properties": {
+        "name": "First African Methodist Episcopal Church of Alexandria : First African Methodist Episcopal Church of Alexandria",
+        "type": "Shopping Partner",
+        "address": "8653 Richmond Highway Alexandria VA 22309",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9669691,
+          38.87274379999999
+        ]
+      },
+      "properties": {
+        "name": "St. Francis Xavier Food Pantry : St. Francis Xavier Church Food Pantry",
+        "type": "Shopping Partner",
+        "address": "2815 O street SE Washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.889679,
+          39.05346
+        ]
+      },
+      "properties": {
+        "name": "Holy Mountain International Ministries : Holy Mountain International Ministries",
+        "type": "Shopping Partner",
+        "address": "6721 Mid Cities Avenue Beltsville MD 20705",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.881756,
+          38.7724945
+        ]
+      },
+      "properties": {
+        "name": "Operation Ernie's Plate : Operation Earnie's Plate",
+        "type": "Shopping Partner",
+        "address": "8500 Mike Shapiro Dr Clinton MD 20735",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.17222,
+          39.145335
+        ]
+      },
+      "properties": {
+        "name": "First African Methodist Episcopal Church of Gaithersburg : First African Methodist Episcopal Church of Gaithersburg",
+        "type": "Shopping Partner",
+        "address": "17620 Washington Grove Lane Gaithersburg MD 20877",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.942036,
+          38.7844212
+        ]
+      },
+      "properties": {
+        "name": "Ebenezer AME Church : Ebenezer AME Church",
+        "type": "Shopping Partner",
+        "address": "7703 Allentown Road Fort Washington MD 20744",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0653842,
+          39.1109562
+        ]
+      },
+      "properties": {
+        "name": "Harvest Gleaners : Harvest Gleaners",
+        "type": "Shopping Partner",
+        "address": "3210 Norbeck Road Silver Spring MD 20906",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85621739999999,
+          38.9674302
+        ]
+      },
+      "properties": {
+        "name": "Community Health Foundation : Community Health Foundation",
+        "type": "Shopping Partner",
+        "address": "9150 Lanham Severn Rd. Lanham MD 20706",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7364411,
+          38.8161836
+        ]
+      },
+      "properties": {
+        "name": "The Sanctuary : The Sanctuary",
+        "type": "Shopping Partner",
+        "address": "5300 Crain Highway Upper Marlboro MD 20772",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34197510000001,
+          38.9961321
+        ]
+      },
+      "properties": {
+        "name": "South Lakes High School PTSA Food Pantry : South Lakes High School PTSA Food Pantry : South Lakes High School PTSA Food Pantry",
+        "type": "Shopping Partner",
+        "address": "1133 Reston AVE Herndon VA 20170",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8889846,
+          39.0596252
+        ]
+      },
+      "properties": {
+        "name": "Lifehouse Church : Lifehouse Church",
+        "type": "Shopping Partner",
+        "address": "12304 Baltimore Avenue Beltsville MD 20705",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8891244,
+          38.9100353
+        ]
+      },
+      "properties": {
+        "name": "First Baptist Church of Highland Park : First Baptist Church of Highland Park",
+        "type": "Shopping Partner",
+        "address": "6801 Sheriff Road Landover MD 20785",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8191545,
+          38.7434035
+        ]
+      },
+      "properties": {
+        "name": "Alexander Memorial Baptist Church : Alexander Memorial Baptist Church",
+        "type": "Shopping Partner",
+        "address": "10675 Crain Highway Upper Marlboro MD 20772",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1020133,
+          38.9907054
+        ]
+      },
+      "properties": {
+        "name": "St. John's Norwood Episcopal Church : Nourishing Bethesda",
+        "type": "Shopping Partner",
+        "address": "5020 Battery Lane Bethesda MD 20814",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8411899,
+          38.9831428
+        ]
+      },
+      "properties": {
+        "name": "Mollemm Food Pantry : Mollemm Food Pantry",
+        "type": "Shopping Partner",
+        "address": "9721 Good Luck Road Lanham MD 20706",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.22536989999999,
+          39.1402322
+        ]
+      },
+      "properties": {
+        "name": "Gaithersburg CARES Hub at Seneca Creek Community Church : Seneca Creek Community Church (Gaithersburg CARES)",
+        "type": "Shopping Partner",
+        "address": "13 Firstfield Rd Gaithersburg MD 20878",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9400967,
+          39.0503586
+        ]
+      },
+      "properties": {
+        "name": "Kingdom Global Community Development Corporation : East Montgomery County Hub",
+        "type": "Shopping Partner",
+        "address": "11710 Beltsville Drive Beltsville MD 20705",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96897109999999,
+          39.0550814
+        ]
+      },
+      "properties": {
+        "name": "Rainbow Community Development Center : Rainbow Community Development Center",
+        "type": "Shopping Partner",
+        "address": "2120 Industrial Parkway A Silver Spring MD 20904",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0293694,
+          38.9133135
+        ]
+      },
+      "properties": {
+        "name": "Edward C Mazique Child Care Center : Edward C Mazique Child Care Center",
+        "type": "Shopping Partner",
+        "address": "1719 13th St NW Washington DC 20009",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9755711,
+          38.8939126
+        ]
+      },
+      "properties": {
+        "name": "Saint Benedict The Moor : Saint Benedict The Moor",
+        "type": "Shopping Partner",
+        "address": "320 21st Street NE Washington DC 20002",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0232965,
+          38.9003109
+        ]
+      },
+      "properties": {
+        "name": "Greater New Hope Baptist Church : Greater New Hope Baptist Church",
+        "type": "Shopping Partner",
+        "address": "816 8th STREET NW Washington DC 20001",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94796769999999,
+          38.8695657
+        ]
+      },
+      "properties": {
+        "name": "Dupont Park SDA Church : Dupont Park SDA Church",
+        "type": "Shopping Partner",
+        "address": "3942 Alabama Ave SE Washington DC 20019",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0482914,
+          39.0304179
+        ]
+      },
+      "properties": {
+        "name": "Hughes United Methodist Church : Hughes United Methodist Church",
+        "type": "Shopping Partner",
+        "address": "10700 Georgia Ave Wheaton MD 20902",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1140904,
+          39.0828821
+        ]
+      },
+      "properties": {
+        "name": "InterFaith Works : InterFaith Works",
+        "type": "Shopping Partner",
+        "address": "751 Twinbrook Parkway Rockville MD 20851",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03400649999999,
+          38.9123655
+        ]
+      },
+      "properties": {
+        "name": "NHT Communities : R Street Apartments",
+        "type": "Shopping Partner",
+        "address": "1436 R St NW Washington DC 20009",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0374513,
+          38.9298452
+        ]
+      },
+      "properties": {
+        "name": "NHT Communities : Monsenor Romero",
+        "type": "Shopping Partner",
+        "address": "3145 Mt Pleasant St NW Washington DC 20010",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0299466,
+          38.917618
+        ]
+      },
+      "properties": {
+        "name": "Walker Memorial Baptist Church : Walker Memorial Baptist Church",
+        "type": "Shopping Partner",
+        "address": "2020 13th St. NW Washington DC 20009",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0059308,
+          38.9777619
+        ]
+      },
+      "properties": {
+        "name": "Small Things Matter, Inc : Small Things Matter, Inc",
+        "type": "Shopping Partner",
+        "address": "201 Ethan Allen Avenue Takoma Park MD 20912",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3109626,
+          38.6500665
+        ]
+      },
+      "properties": {
+        "name": "The House, Inc. : The House, Inc.",
+        "type": "Shopping Partner",
+        "address": "14000 Crown Court Woodbridge VA 22193",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031461,
+          38.9206528
+        ]
+      },
+      "properties": {
+        "name": "YWCA National Capital Area : YWCA National Capital Area",
+        "type": "Shopping Partner",
+        "address": "2303 14th Street NW Washington DC 20009",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03746199999999,
+          38.9611093
+        ]
+      },
+      "properties": {
+        "name": "Francis On The Hill : Francis On The Hill",
+        "type": "Shopping Partner",
+        "address": "1614 Manchester Lane NW Washington DC 20011-2810",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97433070000001,
+          38.8435109
+        ]
+      },
+      "properties": {
+        "name": "Covenant House Greater Washington : Covenant House Greater Washington",
+        "type": "Shopping Partner",
+        "address": "2001 Mississippi Ave SE Washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2293207,
+          38.8681917
+        ]
+      },
+      "properties": {
+        "name": "Luther Jackson Middle School Food Pantry : Luther Jackson Middle School Food Pantry",
+        "type": "Shopping Partner",
+        "address": "3020 Gallows Road Falls Church VA 22042",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97182169999999,
+          38.8565353
+        ]
+      },
+      "properties": {
+        "name": "Emmanuel Baptist Church : Emmanuel Baptist Church",
+        "type": "Shopping Partner",
+        "address": "2409 Ainger Place SE Washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.33913079999999,
+          38.9684707
+        ]
+      },
+      "properties": {
+        "name": "Buddhist Tzu Chi Foundation : Buddhist Tzu Chi Foundation",
+        "type": "Shopping Partner",
+        "address": "1516 Moorings Drive Reston VA 20190",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9082588,
+          39.0259781
+        ]
+      },
+      "properties": {
+        "name": "LindaBen Foundation : LindaBen Foundation",
+        "type": "Shopping Partner",
+        "address": "10739 Tucker St. Beltsville MD 20705",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0154605,
+          38.99181360000001
+        ]
+      },
+      "properties": {
+        "name": "Tommy's Pantry : Tommy's Pantry",
+        "type": "Shopping Partner",
+        "address": "630 Silver Spring Ave. Silver Spring MD 20910",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0669472,
+          39.1199465
+        ]
+      },
+      "properties": {
+        "name": "Mid-County Hub at Harvest Intercontinental Church Olney : Mid-County Hub at Harvest Intercontinental Church Olney",
+        "type": "Shopping Partner",
+        "address": "16227 Batchellors Forest Rd Olney MD 20832",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8639433,
+          38.9615702
+        ]
+      },
+      "properties": {
+        "name": "Destiny Driven : Destiny Driven",
+        "type": "Shopping Partner",
+        "address": "5900 Princess Garden Parkway Lanham MD 20706",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.797911,
+          38.9137359
+        ]
+      },
+      "properties": {
+        "name": "Largo Community Church : Largo Community Church",
+        "type": "Shopping Partner",
+        "address": "1701 Enterprise Road Mitchellville MD 20721",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.26604309999999,
+          38.6410081
+        ]
+      },
+      "properties": {
+        "name": "Christ4Crisis : Christ4Crisis",
+        "type": "Shopping Partner",
+        "address": "4Crisis 14339 Richmond high way Woodbridge VA 22191",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.214365,
+          39.001591
+        ]
+      },
+      "properties": {
+        "name": "ISKCON of Washington : ISKCON of Washington",
+        "type": "Shopping Partner",
+        "address": "10310 Oaklyn Dr Potomac MD 20854",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.499861,
+          38.7448018
+        ]
+      },
+      "properties": {
+        "name": "Northern Virginia Family Service SERVE : Northern Virginia Family Services SERVE",
+        "type": "Shopping Partner",
+        "address": "10056 Dean Dr Manassas VA 20110",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98226269999999,
+          38.99953259999999
+        ]
+      },
+      "properties": {
+        "name": "St. Michael and All Angels : St. Michael and All Angels",
+        "type": "Shopping Partner",
+        "address": "8501 New Hampshire Ave Adelphi MD 20783",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8535981,
+          38.9143579
+        ]
+      },
+      "properties": {
+        "name": "City of Praise Family Ministries : City of Praise Family Ministries",
+        "type": "Shopping Partner",
+        "address": "8806 Brightseat Road Landover MD 20785",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8856382,
+          38.9489173
+        ]
+      },
+      "properties": {
+        "name": "Ebenezer Church of God : Ebenezer Church of God",
+        "type": "Shopping Partner",
+        "address": "7550 Buchanan St. Hyattsville MD 20784",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1238044,
+          38.8552147
+        ]
+      },
+      "properties": {
+        "name": "Arlington Bridge Builders : Arlington Bridge Builders",
+        "type": "Shopping Partner",
+        "address": "790 South Carlin Springs Road Arlington VA 22204",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06462429999999,
+          38.83728989999999
+        ]
+      },
+      "properties": {
+        "name": "Grace Episcopal Church : Grace Episcopal Church",
+        "type": "Shopping Partner",
+        "address": "3601 Russell Road Alexandria VA 22305",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.012434,
+          38.8639689
+        ]
+      },
+      "properties": {
+        "name": "DC Central Kitchen : DC Central Kitchen",
+        "type": "Shopping Partner",
+        "address": "2121 1st Street SW Washington DC 20024",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95957,
+          38.8697081
+        ]
+      },
+      "properties": {
+        "name": "North Capitol Collaborative, Inc. : North Capitol Collaborative, Inc.",
+        "type": "Shopping Partner",
+        "address": "3230 Pennsylvania Ave SE Washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.055816,
+          38.7976691
+        ]
+      },
+      "properties": {
+        "name": "ALIVE : ALIVE",
+        "type": "Shopping Partner",
+        "address": "801 S Payne St Alexandria VA 22302",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3291212,
+          38.5632239
+        ]
+      },
+      "properties": {
+        "name": "ACTS : ACTS",
+        "type": "Shopping Partner",
+        "address": "3901 ACTS Lane Dumfries VA 22026",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.033293,
+          38.9277649
+        ]
+      },
+      "properties": {
+        "name": "Latin American Youth Center : Latin American Youth Center",
+        "type": "Shopping Partner",
+        "address": "1419 Columbia Rd NW Washington DC 20009",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99121749999999,
+          38.8629362
+        ]
+      },
+      "properties": {
+        "name": "Salvation Army : The Salvation Army - Solomon G Brown",
+        "type": "Shopping Partner",
+        "address": "2300 Martin Luther King Ave SE Washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0155925,
+          38.8963228
+        ]
+      },
+      "properties": {
+        "name": "Community Family Life Services : Community Family Life Services",
+        "type": "Shopping Partner",
+        "address": "305 E Street NW Washington DC 20001",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0215887,
+          38.9103172
+        ]
+      },
+      "properties": {
+        "name": "Bread for the City : Bread For The City NW Center",
+        "type": "Shopping Partner",
+        "address": "1525 7th St. NW Washington DC 20001",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9905197,
+          38.8830657
+        ]
+      },
+      "properties": {
+        "name": "The Holy Temple Church of Christ, Inc. : The Holy Temple Church",
+        "type": "Shopping Partner",
+        "address": "439 12th. Street SE Washington DC 20003",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8388004,
+          38.9067476
+        ]
+      },
+      "properties": {
+        "name": "Metropolitan Baptist Church : Metropolitan Baptist Church",
+        "type": "Shopping Partner",
+        "address": "1200 Mercantile Lane Largo MD 20774",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0357195,
+          38.9334824
+        ]
+      },
+      "properties": {
+        "name": "THRIVE DC : Thrive DC",
+        "type": "Shopping Partner",
+        "address": "1525 Newton Street NW Washington DC 20010",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9897776,
+          38.86598559999999
+        ]
+      },
+      "properties": {
+        "name": "Family & Medical Counseling Service : Family & Medical Counseling Service",
+        "type": "Shopping Partner",
+        "address": "2041 MLK Jr. Ave. SE Washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95240849999999,
+          38.9418838
+        ]
+      },
+      "properties": {
+        "name": "Agape Early Childhood Learning : Agape Early Childhood Learning",
+        "type": "Shopping Partner",
+        "address": "4318 Rhode Island Avenue Brentwood MD 20722",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0373931,
+          38.9327265
+        ]
+      },
+      "properties": {
+        "name": "Spanish Catholic Center : Spanish Catholic Center",
+        "type": "Shopping Partner",
+        "address": "1618 Monroe St. NW Washington DC 20010",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0111112,
+          38.8987292
+        ]
+      },
+      "properties": {
+        "name": "Central Union Mission : Central Union Mission",
+        "type": "Shopping Partner",
+        "address": "65 Massachusetts Ave Washington DC 20001",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0516688,
+          38.8986428
+        ]
+      },
+      "properties": {
+        "name": "Miriam's Kitchen : Miriam's Kitchen",
+        "type": "Shopping Partner",
+        "address": "2401 Virginia Ave NW Washington DC 20037",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0937611,
+          38.73619559999999
+        ]
+      },
+      "properties": {
+        "name": "Emmanuel Worship Center Seventh Day Adventist Church : Emmanuel Worship Center Seventh Day Adventist Church",
+        "type": "Shopping Partner",
+        "address": "8145 Richmond Highway Alexandria VA 22309",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97393439999999,
+          38.9304257
+        ]
+      },
+      "properties": {
+        "name": "Damien Ministries Food Pantry : Damien Ministries Food Pantry",
+        "type": "Shopping Partner",
+        "address": "2200 Rhode Island AVE NE Washington DC 20018",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9715488,
+          38.93194099999999
+        ]
+      },
+      "properties": {
+        "name": "McKendree-Simms-Brookland United Methodist Church : MSB Outreach House",
+        "type": "Shopping Partner",
+        "address": "2411 Lawrence St NE Washington DC 20018",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9274303,
+          38.8894267
+        ]
+      },
+      "properties": {
+        "name": "The Episcopal Church of Atonement : Atonement Food Pantry",
+        "type": "Shopping Partner",
+        "address": "5073 East Capitol Street SE Washington DC 20019",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9893501,
+          38.7948566
+        ]
+      },
+      "properties": {
+        "name": "Food for the Elderly, Inc. : At Home Away from Home",
+        "type": "Shopping Partner",
+        "address": "1100 Dumfries Street Oxon Hill MD 20745",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0358918,
+          38.9558824
+        ]
+      },
+      "properties": {
+        "name": "Sixth Church Food Closet : Sixth Church Food Closet",
+        "type": "Shopping Partner",
+        "address": "5413 16th St NW Washington DC 20011",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0118123,
+          38.991754
+        ]
+      },
+      "properties": {
+        "name": "Adventist Community Services : Adventist Community Services of Greater Washington",
+        "type": "Shopping Partner",
+        "address": "501 Sligo Avenue Silver Springs MD 20910",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0002571,
+          38.8321092
+        ]
+      },
+      "properties": {
+        "name": "Paramount Baptist Church : Paramount Baptist Church",
+        "type": "Shopping Partner",
+        "address": "3924 4th St SE Washington DC 20032",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97509339999999,
+          38.9431804
+        ]
+      },
+      "properties": {
+        "name": "Northeastern Presbyterian Church : Northeastern Presbyterian Church",
+        "type": "Shopping Partner",
+        "address": "2112 Varnum St. NE Washington DC 20018",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9306031,
+          38.8315316
+        ]
+      },
+      "properties": {
+        "name": "Southern Friendship Missionary Baptist Church : Southern Friendship Missionary Baptist Church",
+        "type": "Shopping Partner",
+        "address": "4444 Branch Avenue Temple Hills MD 20748",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9092392,
+          38.8915346
+        ]
+      },
+      "properties": {
+        "name": "Faith Temple #2 : Faith Temple #2",
+        "type": "Shopping Partner",
+        "address": "2 211 Maryland Park Drive Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9941423,
+          38.8359986
+        ]
+      },
+      "properties": {
+        "name": "Enterprise Community Development : ECD - Overlook at Oxon Run",
+        "type": "Shopping Partner",
+        "address": "3700 9th st SE Washington DC 20032",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9285723,
+          38.873466
+        ]
+      },
+      "properties": {
+        "name": "Freedom Way Missionary Baptist Church : Freedom Way Missionary Baptist Church",
+        "type": "Shopping Partner",
+        "address": "1266 Benning Road Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0275932,
+          38.990835
+        ]
+      },
+      "properties": {
+        "name": "Shepherd's Table - Progress Place Building : Shepherd's Table - Progress Place Building",
+        "type": "Shopping Partner",
+        "address": "8106 Georgia Avenue Silver Springs MD 20910",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.851074,
+          38.894365
+        ]
+      },
+      "properties": {
+        "name": "Shabach Emergency Resource & Empowerment Center : Shabach Emergency Empowerment Center",
+        "type": "Shopping Partner",
+        "address": "403 Brightseat Rd Landover MD 20785",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0087302,
+          38.9262048
+        ]
+      },
+      "properties": {
+        "name": "T&T Tutorworld : T&T Provider My Little World",
+        "type": "Shopping Partner",
+        "address": "2909 North Capitol St NE Washington DC 20002",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7001899,
+          39.0084876
+        ]
+      },
+      "properties": {
+        "name": "The Lord's Chosen Food Pantry : The Lord's Chosen Food Pantry",
+        "type": "Shopping Partner",
+        "address": "1302 Cronson Blvd Crofton MD 21114",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9141047,
+          39.0358481
+        ]
+      },
+      "properties": {
+        "name": "Whosoever Will Christian Church : Whosoever Will Christian Church",
+        "type": "Shopping Partner",
+        "address": "4514 Sellman Road Beltsville MD 20705",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2078185,
+          39.1741148
+        ]
+      },
+      "properties": {
+        "name": "Women Who Care Ministries : Women Who Care Ministries",
+        "type": "Shopping Partner",
+        "address": "19640 Club House Road Montgomery Villlage MD 20886",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2616978,
+          38.6721672
+        ]
+      },
+      "properties": {
+        "name": "Salvation Army (PW County) : Salvation Army  (PW County)",
+        "type": "Shopping Partner",
+        "address": "1483 Old Bridge Road Woodbridge VA 22192",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9961256,
+          38.8260808
+        ]
+      },
+      "properties": {
+        "name": "Temple of Praise : Temple of Praise",
+        "type": "Shopping Partner",
+        "address": "700 Southern Avenue SE Washington DC 20032",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0128999,
+          38.6708848
+        ]
+      },
+      "properties": {
+        "name": "River Jordan, Inc. : River Jordan, Inc.",
+        "type": "Shopping Partner",
+        "address": "15809 Livingston Road Accokeek MD 20607",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8531349,
+          38.9892029
+        ]
+      },
+      "properties": {
+        "name": "Zion Church Inc. : Zion Church Inc.",
+        "type": "Shopping Partner",
+        "address": "8829 Greenbelt Rd Greenbelt MD 20770",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37997109999999,
+          39.0059744
+        ]
+      },
+      "properties": {
+        "name": "ADAMS CENTER : ADAMS CENTER",
+        "type": "Shopping Partner",
+        "address": "46903 Sugarland Road Sterling VA 20164",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4492088,
+          38.7615062
+        ]
+      },
+      "properties": {
+        "name": "The St. Lucy Project : The St. Lucy Project",
+        "type": "Shopping Partner",
+        "address": "8426-28 Kao Circle Manassas VA 20110",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93896649999999,
+          38.9025795
+        ]
+      },
+      "properties": {
+        "name": "Good Success Christian Church : Good Success Christian Church",
+        "type": "Shopping Partner",
+        "address": "4401 Sheriff Rd NE Washington DC 20019",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.82958219999999,
+          38.766912
+        ]
+      },
+      "properties": {
+        "name": "Cornerstone Peaceful Bible Baptist Church : Cornerstone Peaceful Bible Baptist Church",
+        "type": "Shopping Partner",
+        "address": "9010 Frank Tippett Road Upper Marlboro MD 20772",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9122213,
+          38.8520246
+        ]
+      },
+      "properties": {
+        "name": "Second Baptist Church of Southwest : Second Baptist Church Southwest",
+        "type": "Shopping Partner",
+        "address": "5501 Silver Hill Road District Heights MD 20747",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.847619,
+          39.0771936
+        ]
+      },
+      "properties": {
+        "name": "Our Savior Lutheran Church : Our Savior Lutheran Church",
+        "type": "Shopping Partner",
+        "address": "13611 Laurel Bowie Road Laurel MD 20708",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.943691,
+          38.98330869999999
+        ]
+      },
+      "properties": {
+        "name": "University of Maryland College Park Foundation : University of Maryland College Park Food Pantry",
+        "type": "Shopping Partner",
+        "address": "7093 Preinkert Drive College Park MD 20742",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8214143,
+          38.9856366
+        ]
+      },
+      "properties": {
+        "name": "Resurrection Bible Church : Resurrection Bible Church",
+        "type": "Shopping Partner",
+        "address": "10835 Lanham-Severn Road Glenn Dale MD 20769",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9421966,
+          38.8360484
+        ]
+      },
+      "properties": {
+        "name": "Victory Christian Ministries International : Victory Christian Ministries International",
+        "type": "Shopping Partner",
+        "address": "3911 St Barnabas Road Suitland MD 20746",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1418671,
+          38.8578536
+        ]
+      },
+      "properties": {
+        "name": "Boat People SOS : Boat People SOS",
+        "type": "Shopping Partner",
+        "address": "6066 Leesburg Pike Falls Church VA 22041",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1177534,
+          38.8387033
+        ]
+      },
+      "properties": {
+        "name": "Church of the Resurrection : Church of the Resurrection",
+        "type": "Shopping Partner",
+        "address": "5150 Fillmore Ave Alexandria VA 22311",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9118142,
+          38.8622893
+        ]
+      },
+      "properties": {
+        "name": "ECWA USA Evangelical Church Winning All : ECWA USA Evangelical Church Winning All",
+        "type": "Shopping Partner",
+        "address": "5526 Marlboro Pike District Heights MD 20747",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.808838,
+          38.984562
+        ]
+      },
+      "properties": {
+        "name": "Reid Temple AME Church : Reid Temple AME Church",
+        "type": "Shopping Partner",
+        "address": "11400 Glenn Dale Blvd Glenn Dale MD 20769",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9533416,
+          38.8854165
+        ]
+      },
+      "properties": {
+        "name": "NHT Communities : Villages of East River",
+        "type": "Shopping Partner",
+        "address": "305 37th St SE Washington DC 20019",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03274309999999,
+          38.9269726
+        ]
+      },
+      "properties": {
+        "name": "Columbia Heights Village Tenant Association : Columbia Heights Village Tenant Association",
+        "type": "Shopping Partner",
+        "address": "2900 14th Street NW Washington DC 20009",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1856839,
+          39.1273493
+        ]
+      },
+      "properties": {
+        "name": "Gaithersburg Soup Kitchen : Gaithersburg Soup Kitchen",
+        "type": "Shopping Partner",
+        "address": "9008 Rosemont Drive Gaithersburg MD 20877",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3272152,
+          38.64965249999999
+        ]
+      },
+      "properties": {
+        "name": "Centro de Apoyo Familiar (CAF) : Centro de Apoyo Familiar (CAF)",
+        "type": "Shopping Partner",
+        "address": "13923 Minnieville Road Woodbridge VA 22193",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1441281,
+          39.092926
+        ]
+      },
+      "properties": {
+        "name": "Mount Calvary Baptist Church : Mount Calvary Baptist Church",
+        "type": "Shopping Partner",
+        "address": "608 North Horners Lane Rockviille MD 20850",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9680857,
+          38.8595984
+        ]
+      },
+      "properties": {
+        "name": "Bread for the City : Bread for the City SE Center",
+        "type": "Shopping Partner",
+        "address": "1700 Good Hope Road SE Washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1919733,
+          39.1184352
+        ]
+      },
+      "properties": {
+        "name": "Manna Food Center Inc. : Manna Food Center",
+        "type": "Shopping Partner",
+        "address": "9311 Gaither Rd Gaithersburg MD 20877",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9490362,
+          38.93997650000001
+        ]
+      },
+      "properties": {
+        "name": "ABSYNA, Inc. : ABSYNA, Inc. - Brentwood",
+        "type": "Shopping Partner",
+        "address": "4142 Bunker Hill Rd Brentwood MD 20722",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01837069999999,
+          38.9739742
+        ]
+      },
+      "properties": {
+        "name": "Tutoring Cafe : Tutoring Cafe",
+        "type": "Shopping Partner",
+        "address": "6906 4th St NW Washington DC 20012",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0985504,
+          39.0437816
+        ]
+      },
+      "properties": {
+        "name": "So What Else, Inc : So What Else, Inc",
+        "type": "Shopping Partner",
+        "address": "4924 wyaconda road Rockville MD 20852",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9126491,
+          39.0489631
+        ]
+      },
+      "properties": {
+        "name": "Nick's Place : Nick's Place",
+        "type": "Shopping Partner",
+        "address": "4514 Lincoln Ave Beltsville MD 20705",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0444673,
+          38.902316
+        ]
+      },
+      "properties": {
+        "name": "Ayuda, Inc. : Ayuda, Inc.",
+        "type": "Shopping Partner",
+        "address": "1990 K St. NW Washington DC 20006",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.446485,
+          38.819456
+        ]
+      },
+      "properties": {
+        "name": "Mount Olive Baptist Church : Mount Olive Baptist Church",
+        "type": "Shopping Partner",
+        "address": "6600 Old Centerville Rd n/a Centerville VA 20121",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2088538,
+          38.831971
+        ]
+      },
+      "properties": {
+        "name": "St. John's Community Service Center : St. John's Community Service Center",
+        "type": "Shopping Partner",
+        "address": "7611 Little River Turnpike Annandale VA 22003",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.462439,
+          38.758154
+        ]
+      },
+      "properties": {
+        "name": "CFH Inc. : CFH Inc.",
+        "type": "Shopping Partner",
+        "address": "9021 Centreville Road Manassas VA 20110",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0235703,
+          38.9395756
+        ]
+      },
+      "properties": {
+        "name": "First SDA Church : First SDA Church",
+        "type": "Shopping Partner",
+        "address": "810 Shepherd ST NW Washington DC 20011",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1125453,
+          38.8769909
+        ]
+      },
+      "properties": {
+        "name": "True Ground Housing : True Ground Housing",
+        "type": "Shopping Partner",
+        "address": "4318 N Carlin Springs Road Arlington VA 22203",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3390347,
+          38.8326901
+        ]
+      },
+      "properties": {
+        "name": "Fairfax Church Resource Center : Fairfax Church Resource Center",
+        "type": "Shopping Partner",
+        "address": "11451 Braddock Road Fairfax VA 22030",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0712295,
+          38.9221595
+        ]
+      },
+      "properties": {
+        "name": "DC Central Kitchen : DC Food Project",
+        "type": "Shopping Partner",
+        "address": "3600 Calvert St. NW Washington DC 20007",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30102029999999,
+          38.644923
+        ]
+      },
+      "properties": {
+        "name": "Woodbridge Church of the Nazarene : Woodbridge Church of the Nazarene",
+        "type": "Shopping Partner",
+        "address": "14001 Smoketown Road Woodbridge VA 22193",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1231767,
+          39.0766059
+        ]
+      },
+      "properties": {
+        "name": "Living Faith Lutheran Church : Living Faith Lutheran Church",
+        "type": "Shopping Partner",
+        "address": "1605 Veirs Mill Road Rockville MD 20851",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0524089,
+          39.0350138
+        ]
+      },
+      "properties": {
+        "name": "Mid County United Ministries (MUM) : Mid County United Ministries (MUM)",
+        "type": "Shopping Partner",
+        "address": "11002 Viers Mill Road Wheaton MD 20902",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9170166,
+          38.7587342
+        ]
+      },
+      "properties": {
+        "name": "Greater Refuge Ministries : Greater Refuge Ministries",
+        "type": "Shopping Partner",
+        "address": "9512 Piscataway Road Clinton MD 20735",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96881239999999,
+          38.8216979
+        ]
+      },
+      "properties": {
+        "name": "The Hope Center : The Hope Center",
+        "type": "Shopping Partner",
+        "address": "4915 Wheeler Rd Oxon Hill MD 20745",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06871149999999,
+          39.1353508
+        ]
+      },
+      "properties": {
+        "name": "Iglesia Evangelica Cristo Promesa Fiel : Iglesia Evangelica Cristo Promesa Fiel",
+        "type": "Shopping Partner",
+        "address": "17017 Georgia Avenue Olney MD 20832",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0241846,
+          38.9117402
+        ]
+      },
+      "properties": {
+        "name": "DC Doors : DC Doors",
+        "type": "Shopping Partner",
+        "address": "900 Rhode Island Ave NW Washington DC 20018",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85194899999999,
+          39.107157
+        ]
+      },
+      "properties": {
+        "name": "St. Philip's Episcopal Church : St. Philip's Episcopal Church",
+        "type": "Shopping Partner",
+        "address": "522 Main Street Laurel MD 20707",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97027779999999,
+          38.856864
+        ]
+      },
+      "properties": {
+        "name": "Allen Chapel AME Church : Allen Chapel AME Church",
+        "type": "Shopping Partner",
+        "address": "2498 Alabama Avenue SE Washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0797764,
+          39.0315253
+        ]
+      },
+      "properties": {
+        "name": "First Baptist Church Ken-Gar : First Baptist Church Ken-Gar",
+        "type": "Shopping Partner",
+        "address": "3922 Hampden St Kensington MD 20895",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0455908,
+          39.094781
+        ]
+      },
+      "properties": {
+        "name": "Oak Chapel UMC : Oak Chapel UMC",
+        "type": "Shopping Partner",
+        "address": "14500 Layhill Road Silver Spring MD 20906",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0968614,
+          38.7357277
+        ]
+      },
+      "properties": {
+        "name": "Revival Baptist Ministries INT : Revival Baptist Ministries INT",
+        "type": "Shopping Partner",
+        "address": "8174 Richmond Hwy Alexandria VA 22309",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.82034159999999,
+          38.886355
+        ]
+      },
+      "properties": {
+        "name": "Largo Community Church : International High School at Largo",
+        "type": "Shopping Partner",
+        "address": "505 Largo Rd SW Side Upper Marlboro MD 20774",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9226671,
+          38.9590369
+        ]
+      },
+      "properties": {
+        "name": "River of Life Redeemed Christian Church of God : River of Life Redeemed Christian Church of God",
+        "type": "Shopping Partner",
+        "address": "5617 54th Ave. Riverdale MD 20737",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0234448,
+          38.9955013
+        ]
+      },
+      "properties": {
+        "name": "First Baptist Church of Silver Spring Food Closet : First Baptist Church of Silver Spring Food Closet",
+        "type": "Shopping Partner",
+        "address": "828 Wayne Ave Silver Spring MD 20910",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9894293,
+          38.8570042
+        ]
+      },
+      "properties": {
+        "name": "NHT Communities : Washington View Apartments",
+        "type": "Shopping Partner",
+        "address": "2629 Douglass Rd SE Washington DC DC 20020",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3210169,
+          38.6465076
+        ]
+      },
+      "properties": {
+        "name": "Holy Family Catholic Church Food Pantry : Holy Family Catholic Church Food Pantry",
+        "type": "Shopping Partner",
+        "address": "14160 Ferndale Road Dale City VA 22193",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3971486,
+          38.67514269999999
+        ]
+      },
+      "properties": {
+        "name": "Sacred Heart Catholic Church : Sacred Heart Catholic Church",
+        "type": "Shopping Partner",
+        "address": "12975 Purcell Road Manassas VA 20112",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48278959999999,
+          38.7648185
+        ]
+      },
+      "properties": {
+        "name": "Manassas Baptist Church : Manassas Baptist Church",
+        "type": "Shopping Partner",
+        "address": "8730 Sudley Road Manassas VA 20110",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.160305,
+          38.8727611
+        ]
+      },
+      "properties": {
+        "name": "INOVA Cares for Women and Children Falls Church : Inova Cares Clinics",
+        "type": "Shopping Partner",
+        "address": "6400 Arlington Blvd Falls Church VA 22042",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6206906,
+          38.7946266
+        ]
+      },
+      "properties": {
+        "name": "Love Church : Love Church",
+        "type": "Shopping Partner",
+        "address": "14370 Lee Highway Gainesville VA 20155",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9933768,
+          38.9656345
+        ]
+      },
+      "properties": {
+        "name": "Food for the Elderly, Inc. : Tender Love & Care",
+        "type": "Shopping Partner",
+        "address": "822 Cox Ave Hyattsville MD 20783",
+        "hours": "N/A",
+        "eligibility": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9777052,
+          38.9207751
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "2315 18th Pl NE Washington DC 20018",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9844063,
+          38.8669658
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "1408 Minnesota Ave SE Washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02740949999999,
+          38.96314
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "6001 Georgia Ave NW Washington DC 20011",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01150969999999,
+          38.9028352
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "43 K St NW Washington DC 20001",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93238029999999,
+          38.8983913
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "4801 Nannie Helen Burroughs Ave NE Washington DC 20019",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9929514,
+          38.9485486
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "4900 10th St NE Washington DC 20017",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9758835,
+          38.850841
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "2000 Alabama Ave SE Washington DC 20020",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9864079,
+          38.8436179
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "1345 Savannah St SE Washington DC 20032",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02582629999999,
+          38.9214861
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "2301 11th St NW Washington DC 20001",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.033059,
+          38.9074786
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "1425 N St NW Washington DC 20005",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0124055,
+          38.8745094
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "100 N St SW Washington DC 20024",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03580199999999,
+          38.9485372
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "4801 16th St NW Washington DC 20011",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93068079999999,
+          38.8892808
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "4925 East Capitol St SE Washington DC 20019",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9715488,
+          38.93194099999999
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "2411 Lawrence St NE Washington DC 20018",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9422613,
+          38.893998
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "241 42nd St NE Washington DC 20019",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9999648,
+          38.8278392
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "4212 4th St SE Washington DC 20032",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0207436,
+          38.9562314
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "516 Kennedy St NW Washington DC 20011",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0579528,
+          38.8371887
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "25 W Reed Ave Alexandria VA 22305",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1191387,
+          38.8299297
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "4850 Mark Center Dr Alexandria VA 22311",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44291,
+          38.899583
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "14312 Chantilly Baptist Ln Chantilly VA 220175",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1122501,
+          38.8258999
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "4646 Seminary Rd Alexandria VA 22304",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1106045,
+          38.8601846
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "700 S Buchanan St Arlington VA 22204",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1488309,
+          38.8703759
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "6131 Willston Dr Falls Church VA 22044",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1363176,
+          38.853306
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "3400 Charles St Falls Church VA 22041",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3600068,
+          38.648477
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "14022 Lindendale Rd Dale City VA 22193",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1734098,
+          38.8740367
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "2855 Annandale Rd Falls Church VA 22042",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4728188,
+          38.7413285
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "9444 Taney Rd Manassas VA 20110",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.203879,
+          38.836382
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "4100 Wadsworth Ct Annandale VA 22003",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14304369999999,
+          38.8513036
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "6101 Knollwood Dr Falls Church VA 22041",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.379582,
+          39.01750699999999
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "46833 Harry Byrd Hwy Sterling VA 20164",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1671494,
+          38.8047031
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "5515 Cherokee Ave Alexandria VA 22312",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.23418670000001,
+          38.7825998
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "6215 Rolling Rd Springfield VA 22152",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0715383,
+          38.862655
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "1601 13th Rd S Arlington VA 22204",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1015905,
+          38.7340522
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "8220 Russell Rd Alexandria VA 22309",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3053412,
+          38.6567866
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "13450 Minnieville Rd Woodbridge VA 22192",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1377006,
+          38.8562742
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "3305 Glen Carlyn Rd Falls Church VA 22041",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2628454,
+          38.8095365
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "9203 Braddock Rd Burke VA 22015",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0851831,
+          38.7537937
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "7511 Fordson Rd Alexandria VA 22306",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5221038,
+          38.7944532
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "10934 Coverstone Dr Manassas VA 20109",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89298869999999,
+          38.9238379
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "4-H Club Park and Planning 2411 Pinebrook Ave Hyattsville MD 20785",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9625812,
+          38.9348594
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "3623 Eastern Avenue Mount Rainier MD 20712",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8767127,
+          38.931058
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "3505 Hubbard Rd LANDOVER MD 20785",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0493431,
+          39.0561483
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "12247 Georgia Ave Silver Spring MD 20902",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.878609,
+          39.0012414
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "15 Crescent Rd Greenbelt MD 20770",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95189189999999,
+          38.9648393
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "6201 Belcrest RD Hyattsville MD 20782",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99409729999999,
+          39.0003356
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "8818 Piney Branch Road Silver Spring MD 20903",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9092392,
+          38.8915346
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "2 211 Maryland Park Drive Capital Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.912645,
+          38.8849727
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "6056 old central Ave Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9149325,
+          38.9076981
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "5305 Farmingdale Road Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9966125,
+          38.7837105
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "7711 Livingston Road Oxon Hill MD 20745",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91901519999999,
+          38.9049722
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "5356 Sheriff Road Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9331117,
+          38.8735034
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "4715 Marlboro Pike Capitol Heights MD 20743",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03503719999999,
+          39.0147421
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "1500 Forest Glen Rd, Silver Spring MD 20910",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2422686,
+          39.1818253
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "19801 Observation Drive Germantown MD 20876",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94262909999999,
+          38.9502279
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "4990 Rhode Island Ave Hyattsville MD 20781",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0354631,
+          39.0352623
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "10921 Inwood Avenue Silver Spring MD 20902",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91109569999999,
+          38.9650569
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "6200 Sheridan St Riverdale MD 20737",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.15692109999999,
+          39.0978131
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "51 Mannakee St Rockville MD 20850",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2485394,
+          39.1849533
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "20200 Observation Dr Germantown MD 20876",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02154209999999,
+          38.98517349999999
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "7600 Takoma Ave Takoma Park MD 20912",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87073319999999,
+          38.7020709
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "13800 Brandywine Road Brandywine MD 20613",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.851074,
+          38.894365
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "403 Brightseat road Landover MD 20785",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9062199,
+          38.959288
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "5819 Eastpine Dr Riverdale MD 20737",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7253325,
+          38.9408235
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "16010 Excalibur Road Bowie MD 20716",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0343625,
+          39.00108420000001
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "8900 Georgia Ave Silver Spring MD 20901",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9306031,
+          38.8315316
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "4444 Branch Avenue Temple Hills MD 20748",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.20097009999999,
+          39.09457159999999
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "9630 Gudelsky Drive Rockville MD 20850",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8924778,
+          38.861102
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "6617 Atwood Street District Heights MD 20747",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0431574,
+          39.0364521
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "11005 Dayton St Silver Spring MD 20902",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.11935629999999,
+          38.889028
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "1500 N Glebe Rd Arlington VA 22207",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9790415,
+          38.8976254
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "1701 Gales St. NE Washington DC 20002",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.499861,
+          38.7448018
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "10056 Dean Dr Manassas VA 20110",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36568539999999,
+          38.9418016
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "12125 Pinecrest Rd Reston VA 20190",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1121537,
+          38.8562546
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "909 S Dinwiddie St Arlington VA 22204",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2600291,
+          38.652663
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "13950 Richmond Hwy Woodbridge VA 22191",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09282429999999,
+          38.8375279
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "4500 31st St S Arlington VA 22206",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9766373,
+          38.8433188
+        ]
+      },
+      "properties": {
+        "name": "Unknown",
+        "type": "Market",
+        "address": "1801 Mississippi Ave SE Washington DC DC 20020",
+        "hours": "N/A",
+        "eligibility": "Open to Public"
+      }
+    }
+  ]
+}
