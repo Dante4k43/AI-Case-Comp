@@ -1,41 +1,58 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
 
-const ChatInterface = ({ userLocation }) => {
-    const [input, setInput] = useState('');
-    const [messages, setMessages] = useState([
-        { sender: 'bot', text: 'Hello! How can I assist you today?' }
-    ]);
+const ChatInterface = () => {
+  const [input, setInput] = useState('');
+  const [messages, setMessages] = useState([]);
 
-    const sendMessage = async () => {
-        if (!input.trim()) return;
-      
-        const userMessage = input.trim();
-        setMessages(prev => [...prev, { sender: 'user', text: userMessage }]);
-      
-        let endpoint = '/api/openai-chat';  // Default to OpenAI
-        if (userMessage.toLowerCase().includes('food bank') || userMessage.toLowerCase().includes('closest')) {
-          endpoint = '/api/chat';  // Switch to geolocation food bank logic
-        }
-      
-        try {
-          const response = await fetch(`http://localhost:5001${endpoint}`, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ message: userMessage })
-          });
-          const data = await response.json();
-          setMessages(prev => [...prev, { sender: 'bot', text: data.response }]);
-        } catch (error) {
-          console.error("Error sending message:", error);
-          setMessages(prev => [...prev, { sender: 'bot', text: "Error talking to server." }]);
-        }
-      
-        setInput('');
-      };
+  const sendMessage = async () => {
+    if (!input.trim()) return;
 
-    const handleKeyDown = (e) => {
-        if (e.key === 'Enter') sendMessage();
-    };
+    const userMessage = input.trim();
+    setMessages(prev => [...prev, { sender: 'user', text: userMessage }]);
+
+    // Decide which endpoint to call
+    let endpoint = '/api/openai-chat'; // Default to OpenAI chat
+
+    // Basic keyword detection for food bank queries
+    const lower = userMessage.toLowerCase();
+    if (
+      lower.includes('food') ||
+      lower.includes('bank') ||
+      lower.includes('find') ||
+      lower.includes('closest') ||
+      lower.includes('near me')
+    ) {
+      endpoint = '/api/chat'; // Switch to geolocation logic
+    }
+
+    try {
+      const response = await fetch(`http://localhost:5001${endpoint}`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ message: userMessage })
+      });
+      const data = await response.json();
+
+      // Handle possible missing response fields gracefully
+      if (data.response) {
+        setMessages(prev => [...prev, { sender: 'bot', text: data.response }]);
+      } else if (data.error) {
+        setMessages(prev => [...prev, { sender: 'bot', text: `Error: ${data.error}` }]);
+      } else {
+        setMessages(prev => [...prev, { sender: 'bot', text: "Unknown server response." }]);
+      }
+
+    } catch (error) {
+      console.error("❗ Error sending message:", error);
+      setMessages(prev => [...prev, { sender: 'bot', text: "❗ Error talking to server." }]);
+    }
+
+    setInput('');
+  };
+
+  const handleKeyDown = (e) => {
+    if (e.key === 'Enter') sendMessage();
+  };
 
     return (
         <div className="chat-interface">
