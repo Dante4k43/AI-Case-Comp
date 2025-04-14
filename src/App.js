@@ -1,11 +1,13 @@
 import React, { useState } from 'react';
 import './styles/index.css';
-import ChatInterface from './components/ChatInterface'; // (you will have or adjust later)
-import MapComponent from './components/MapComponent.js';   // <-- this is new
+import ChatInterface from './components/ChatInterface'; // your chatbot interface
+// Replace MapComponent with MapNavigator from your provided MapNavigator code
+import MapNavigator from './components/MapNavigator';
+import LocationFetcher from './components/LocationFetcher';
 
 const App = () => {
   const [activeMode, setActiveMode] = useState('chat'); // 'chat' or 'map'
-
+  const [userLocation, setUserLocation] = useState(null);
 
   return (
     <div className="app-container">
@@ -34,7 +36,16 @@ const App = () => {
         {activeMode === 'chat' ? (
           <ChatInterface />
         ) : (
-          <MapComponent />
+          // When in map mode, first fetch the user location...
+          <>
+            <LocationFetcher onLocationFetch={setUserLocation} />
+            {/* ...and only render the MapNavigator when the user location is available */}
+            {userLocation ? (
+              <MapNavigator userLocation={userLocation} />
+            ) : (
+              <div>Loading user location...</div>
+            )}
+          </>
         )}
       </main>
 
@@ -44,7 +55,5 @@ const App = () => {
     </div>
   );
 };
-
-
 
 export default App;
