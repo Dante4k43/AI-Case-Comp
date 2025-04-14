@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const ChatInterface = () => {
+const ChatInterface = ({ userLocation }) => {
     const [input, setInput] = useState('');
     const [messages, setMessages] = useState([
         { sender: 'bot', text: 'Hello! How can I assist you today?' }
@@ -16,7 +16,7 @@ const ChatInterface = () => {
             const response = await fetch('http://localhost:5001/api/chat', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ message: input })
+                body: JSON.stringify({ message: input, location: userLocation })
             });
             const data = await response.json();
             const botMessage = { sender: 'bot', text: data.response };

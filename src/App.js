@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './styles/index.css';
-import ChatInterface from './components/ChatInterface'; // your chatbot interface
-// Replace MapComponent with MapNavigator from your provided MapNavigator code
+import ChatInterface from './components/ChatInterface';
 import MapNavigator from './components/MapNavigator';
 import LocationFetcher from './components/LocationFetcher';
 
@@ -33,19 +32,17 @@ const App = () => {
       </div>
 
       <main className="main-content">
+        {/* Always load LocationFetcher so user location is captured regardless of mode */}
+        <LocationFetcher onLocationFetch={setUserLocation} />
+        
         {activeMode === 'chat' ? (
-          <ChatInterface />
+          <ChatInterface userLocation={userLocation} />
         ) : (
-          // When in map mode, first fetch the user location...
-          <>
-            <LocationFetcher onLocationFetch={setUserLocation} />
-            {/* ...and only render the MapNavigator when the user location is available */}
-            {userLocation ? (
-              <MapNavigator userLocation={userLocation} />
-            ) : (
-              <div>Loading user location...</div>
-            )}
-          </>
+          userLocation ? (
+            <MapNavigator userLocation={userLocation} />
+          ) : (
+            <div>Loading user location...</div>
+          )
         )}
       </main>
 
