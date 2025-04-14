@@ -7,27 +7,31 @@ const ChatInterface = ({ userLocation }) => {
     ]);
 
     const sendMessage = async () => {
-        if (input.trim() === '') return;
-
-        const userMessage = { sender: 'user', text: input };
-        setMessages(prev => [...prev, userMessage]);
-
-        try {
-            const response = await fetch('http://localhost:5001/api/chat', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ message: input, location: userLocation })
-            });
-            const data = await response.json();
-            const botMessage = { sender: 'bot', text: data.response };
-            setMessages(prev => [...prev, botMessage]);
-        } catch (error) {
-            console.error('Error sending message:', error);
-            setMessages(prev => [...prev, { sender: 'bot', text: 'Error connecting to chatbot.' }]);
+        if (!input.trim()) return;
+      
+        const userMessage = input.trim();
+        setMessages(prev => [...prev, { sender: 'user', text: userMessage }]);
+      
+        let endpoint = '/api/openai-chat';  // Default to OpenAI
+        if (userMessage.toLowerCase().includes('food bank') || userMessage.toLowerCase().includes('closest')) {
+          endpoint = '/api/chat';  // Switch to geolocation food bank logic
         }
-
+      
+        try {
+          const response = await fetch(`http://localhost:5001${endpoint}`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ message: userMessage })
+          });
+          const data = await response.json();
+          setMessages(prev => [...prev, { sender: 'bot', text: data.response }]);
+        } catch (error) {
+          console.error("Error sending message:", error);
+          setMessages(prev => [...prev, { sender: 'bot', text: "Error talking to server." }]);
+        }
+      
         setInput('');
-    };
+      };
 
     const handleKeyDown = (e) => {
         if (e.key === 'Enter') sendMessage();
