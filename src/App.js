@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
 import './styles/index.css';
-import ChatInterface from './components/ChatInterface'; // (you will have or adjust later)
-import MapComponent from './components/MapComponent.js';   // <-- this is new
+import ChatInterface from './components/ChatInterface';
+import MapNavigator from './components/MapNavigator';
+import LocationFetcher from './components/LocationFetcher';
 
 const App = () => {
   const [activeMode, setActiveMode] = useState('chat'); // 'chat' or 'map'
-
+  const [userLocation, setUserLocation] = useState(null);
 
   return (
     <div className="app-container">
@@ -31,10 +32,17 @@ const App = () => {
       </div>
 
       <main className="main-content">
+        {/* Always load LocationFetcher so user location is captured regardless of mode */}
+        <LocationFetcher onLocationFetch={setUserLocation} />
+        
         {activeMode === 'chat' ? (
-          <ChatInterface />
+          <ChatInterface userLocation={userLocation} />
         ) : (
-          <MapComponent />
+          userLocation ? (
+            <MapNavigator userLocation={userLocation} />
+          ) : (
+            <div>Loading user location...</div>
+          )
         )}
       </main>
 
@@ -44,7 +52,5 @@ const App = () => {
     </div>
   );
 };
-
-
 
 export default App;
