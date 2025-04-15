@@ -12,10 +12,8 @@
       },
       "properties": {
         "name": "Children of Mine",
-        "type": "Shopping Partner",
         "address": "2263 mount view place, se washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 374-6029"
       }
     },
     {
@@ -29,10 +27,8 @@
       },
       "properties": {
         "name": "St. Martins Social Service",
-        "type": "Shopping Partner",
         "address": "1908 North Capitol Street NW Washington DC 20002",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 232-1144"
       }
     },
     {
@@ -46,10 +42,8 @@
       },
       "properties": {
         "name": "Bethesda Cares",
-        "type": "Shopping Partner",
         "address": "5033 Wilson Lane Bethesda MD 20814",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 907-9244"
       }
     },
     {
@@ -63,10 +57,8 @@
       },
       "properties": {
         "name": "Brookland Senior Day Care Center, Inc.",
-        "type": "Shopping Partner",
         "address": "6210 Chillum Place NW Washington DC 20011",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(302) 538-0813"
       }
     },
     {
@@ -80,10 +72,8 @@
       },
       "properties": {
         "name": "City of David Ministries",
-        "type": "Shopping Partner",
         "address": "2900 Boones Lane District Heights MD 20747",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 200-2489"
       }
     },
     {
@@ -97,10 +87,8 @@
       },
       "properties": {
         "name": "City of Greenbelt Food Pantry",
-        "type": "Shopping Partner",
         "address": "25 Crescent Rd Greenbelt MD 20770",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 542-2012"
       }
     },
     {
@@ -113,11 +101,9 @@
         ]
       },
       "properties": {
-        "name": "Fountain Community Enrichment Inc : Fountain Community Enrichment Inc.",
-        "type": "Shopping Partner",
+        "name": "Fountain Community Enrichment Inc.",
         "address": "15853 Commerce Court Upper Marlboro MD 20774",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 335-5038"
       }
     },
     {
@@ -131,10 +117,8 @@
       },
       "properties": {
         "name": "Hope Presbyterian Church",
-        "type": "Shopping Partner",
         "address": "1100 Enterprise Road Mitchellville MD 20721",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 678-7667"
       }
     },
     {
@@ -148,10 +132,8 @@
       },
       "properties": {
         "name": "Kingdom Global Community Development Corporation : Kingdom Cares Center",
-        "type": "Shopping Partner",
         "address": "11700 Beltsville Drive Beltsville MD 20705",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 707-1085"
       }
     },
     {
@@ -165,10 +147,8 @@
       },
       "properties": {
         "name": "Mission of Love Charities, Inc.",
-        "type": "Shopping Partner",
         "address": "6180 Central Avenue Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 333-4440"
       }
     },
     {
@@ -182,10 +162,8 @@
       },
       "properties": {
         "name": "Montgomery County Family Center",
-        "type": "Shopping Partner",
         "address": "12247 Georgia Ave. Silver Spring MD 20902",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 942-1790"
       }
     },
     {
@@ -199,10 +177,8 @@
       },
       "properties": {
         "name": "SOME : So Others Might Eat",
-        "type": "Shopping Partner",
         "address": "71 O ST NW Washington DC 20002",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 235-1472"
       }
     },
     {
@@ -216,10 +192,8 @@
       },
       "properties": {
         "name": "The ARK of DC Foundation",
-        "type": "Shopping Partner",
         "address": "1818 New York Ave. NE Washington DC 20002",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(771) 210-9962"
       }
     },
     {
@@ -233,10 +207,8 @@
       },
       "properties": {
         "name": "Catholic University of America : The Cardinal Cupboard",
-        "type": "Shopping Partner",
         "address": "620 Michigan Ave NE Washington DC 20064",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 319-5575"
       }
     },
     {
@@ -250,10 +222,8 @@
       },
       "properties": {
         "name": "Faith Tabernacle of Prayer",
-        "type": "Shopping Partner",
         "address": "2465 Alabama Ave SE Washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 678-6012"
       }
     },
     {
@@ -267,10 +237,8 @@
       },
       "properties": {
         "name": "Code 3 Association",
-        "type": "Shopping Partner",
         "address": "3 Association 2929 Graham Road Falls Church VA 22042",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 400-2118"
       }
     },
     {
@@ -284,10 +252,8 @@
       },
       "properties": {
         "name": "Enterprise Community Development : ECD - Edgewood Commons",
-        "type": "Shopping Partner",
         "address": "8403 Colesville Rd Silver Spring MD 20910",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 506-4520"
       }
     },
     {
@@ -301,10 +267,8 @@
       },
       "properties": {
         "name": "The Gourmet Angel Food Bank",
-        "type": "Shopping Partner",
         "address": "317 N Payne Street Alexandria VA 22314",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(469) 237-7858"
       }
     },
     {
@@ -318,10 +282,8 @@
       },
       "properties": {
         "name": "Lorton Community Action Center",
-        "type": "Shopping Partner",
         "address": "9520 Richmond Hwy door A3 Lorton VA 22079",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 339-5161"
       }
     },
     {
@@ -335,10 +297,8 @@
       },
       "properties": {
         "name": "District House GWU : DC University Food Pantry GWU",
-        "type": "Shopping Partner",
         "address": "800 21st Street NW Ground Floor, Military and Veteran Services Washington DC 20052",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 994-9192"
       }
     },
     {
@@ -351,11 +311,9 @@
         ]
       },
       "properties": {
-        "name": "Interfaith Community Action Council : Interfaith Community Action Council - Oxon Hill Food Pantry",
-        "type": "Shopping Partner",
+        "name": "Interfaith Community Action Council - Oxon Hill Food Pantry",
         "address": "4915 Saint Barnabas Road Temple Hills MD 20748",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 899-8358"
       }
     },
     {
@@ -368,11 +326,9 @@
         ]
       },
       "properties": {
-        "name": "Father Mckenna Center : The Father McKenna Center",
-        "type": "Shopping Partner",
+        "name": "The Father McKenna Center",
         "address": "900 North Capital St NW Washington DC DC 20002",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 842-1112"
       }
     },
     {
@@ -386,10 +342,8 @@
       },
       "properties": {
         "name": "Brighter Day Ministries Food Pantry",
-        "type": "Shopping Partner",
         "address": "3209 5th Street SE Washington DC 20032",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 806-4305"
       }
     },
     {
@@ -402,11 +356,9 @@
         ]
       },
       "properties": {
-        "name": "Foggy Bottom Food Pantry : Foggy Bottom Food Pantry (United Church)",
-        "type": "Shopping Partner",
+        "name": "Foggy Bottom Food Pantry (United Church)",
         "address": "1920 G Street NW Washington DC 20006",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 573-0450"
       }
     },
     {
@@ -419,11 +371,9 @@
         ]
       },
       "properties": {
-        "name": "Food for Others : Food For Others",
-        "type": "Shopping Partner",
+        "name": "Food For Others",
         "address": "2938 Prosperity Avenue Fairfax VA 22031",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 207-9173"
       }
     },
     {
@@ -437,10 +387,8 @@
       },
       "properties": {
         "name": "Cornerstones Inc. : Cornerstones, Inc.",
-        "type": "Shopping Partner",
         "address": "11484 Washington Plz W Reston VA 20190",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 323-1410"
       }
     },
     {
@@ -454,10 +402,8 @@
       },
       "properties": {
         "name": "Mary House",
-        "type": "Shopping Partner",
         "address": "4303 13th st NE Washington DC 20017",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 635-9025"
       }
     },
     {
@@ -471,10 +417,8 @@
       },
       "properties": {
         "name": "Columbia Baptist Church",
-        "type": "Shopping Partner",
         "address": "3245 Glen Carlyn Rd. Falls Church VA 22041",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 422-2075"
       }
     },
     {
@@ -487,11 +431,9 @@
         ]
       },
       "properties": {
-        "name": "Salvation Army : The Salvation Army - Sherman Ave",
-        "type": "Shopping Partner",
+        "name": "The Salvation Army - Sherman Ave",
         "address": "3335 Sherman Ave. NW Washington DC 20010",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 829-0100"
       }
     },
     {
@@ -504,11 +446,9 @@
         ]
       },
       "properties": {
-        "name": "United Community : United Community Ministry",
-        "type": "Shopping Partner",
+        "name": "United Community Ministry",
         "address": "7511 Fordson Road Alexandria VA 22306",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 768-7106"
       }
     },
     {
@@ -522,10 +462,8 @@
       },
       "properties": {
         "name": "Mount Moriah Baptist Church",
-        "type": "Shopping Partner",
         "address": "1636 East Capital St NE Washington DC 20001",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(410) 271-5656"
       }
     },
     {
@@ -538,11 +476,9 @@
         ]
       },
       "properties": {
-        "name": "Walker Mill Community Development : Walker Mill Community Development Center",
-        "type": "Shopping Partner",
+        "name": "Walker Mill Community Development Center",
         "address": "6801 Walker Mill Rd Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 350-4056"
       }
     },
     {
@@ -556,10 +492,8 @@
       },
       "properties": {
         "name": "Bethlehem Baptist Church",
-        "type": "Shopping Partner",
         "address": "7836 Fordson Road Alexandria VA 22306",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 867-6049"
       }
     },
     {
@@ -573,10 +507,8 @@
       },
       "properties": {
         "name": "St. Joseph Catholic Church",
-        "type": "Shopping Partner",
         "address": "2020 St Joseph Drive Largo MD 20774",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 773-0102"
       }
     },
     {
@@ -590,10 +522,8 @@
       },
       "properties": {
         "name": "SEED Inc. : Sowing Empowerment & Economic Development, Inc.",
-        "type": "Shopping Partner",
         "address": "5819 Eastpine Dr Riverdale MD 20737",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 458-9808"
       }
     },
     {
@@ -607,10 +537,8 @@
       },
       "properties": {
         "name": "Church of the Incarnation, St. Vincent De Paul Society",
-        "type": "Shopping Partner",
         "address": "880 Eastern Ave NE Washington DC 20019",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 728-3134"
       }
     },
     {
@@ -624,10 +552,8 @@
       },
       "properties": {
         "name": "Capital Christian Fellowship",
-        "type": "Shopping Partner",
         "address": "10411 Greenbelt Rd Lanham MD 20706",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -641,10 +567,8 @@
       },
       "properties": {
         "name": "Grace Ministries - Culmore",
-        "type": "Shopping Partner",
         "address": "5901 Leesburg Pike Falls Church VA 22041",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 220-5907"
       }
     },
     {
@@ -658,10 +582,8 @@
       },
       "properties": {
         "name": "Divine Grace Mission",
-        "type": "Shopping Partner",
         "address": "4208 Glenn Dale Rd Bowie MD 20720",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 460-0842"
       }
     },
     {
@@ -675,10 +597,8 @@
       },
       "properties": {
         "name": "Bull Run Unitarian Universalists",
-        "type": "Shopping Partner",
         "address": "9350 Main Street Manassas VA 20110",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 361-6269"
       }
     },
     {
@@ -692,10 +612,8 @@
       },
       "properties": {
         "name": "St. Thomas United Methodist Church",
-        "type": "Shopping Partner",
         "address": "8899 Sudley Road Manassas VA 20110",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 368-5161"
       }
     },
     {
@@ -709,10 +627,8 @@
       },
       "properties": {
         "name": "RCCG New Wine Assembly",
-        "type": "Shopping Partner",
         "address": "1625 Olive Street NE Washington DC 20019",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 398-2211"
       }
     },
     {
@@ -726,10 +642,8 @@
       },
       "properties": {
         "name": "National Baptist Memorial Church",
-        "type": "Shopping Partner",
         "address": "1501 Columbia Rd NW Washington DC 20009",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 841-3742"
       }
     },
     {
@@ -743,10 +657,8 @@
       },
       "properties": {
         "name": "St. Paul's Lutheran Church",
-        "type": "Shopping Partner",
         "address": "4900 Connecticut Ave NW Washington DC 20008",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 966-5489"
       }
     },
     {
@@ -760,10 +672,8 @@
       },
       "properties": {
         "name": "Little David Baptist Church",
-        "type": "Shopping Partner",
         "address": "3103 Shepherd Street Mount Rainier MD 20712",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 927-5565"
       }
     },
     {
@@ -777,10 +687,8 @@
       },
       "properties": {
         "name": "Mt. Ennon Baptist Church : Mount Ennon Baptist Church",
-        "type": "Shopping Partner",
         "address": "9832 Piscataway Road Clinton MD 20735",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 599-6424"
       }
     },
     {
@@ -794,10 +702,8 @@
       },
       "properties": {
         "name": "Koinonia Foundation, Inc.",
-        "type": "Shopping Partner",
         "address": "6037 Franconia Road Alexandria VA 22310",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 469-7354"
       }
     },
     {
@@ -811,10 +717,8 @@
       },
       "properties": {
         "name": "Marlboro Churches Food Bank",
-        "type": "Shopping Partner",
         "address": "4610 Largo Rd. Upper Marlboro MD 20772",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 447-8712"
       }
     },
     {
@@ -828,10 +732,8 @@
       },
       "properties": {
         "name": "Iglesia Pentecostal Trono de Jehova",
-        "type": "Shopping Partner",
         "address": "2260 York Drive Woodbridge VA 22191",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 501-2559"
       }
     },
     {
@@ -845,10 +747,8 @@
       },
       "properties": {
         "name": "Our Lady Queen of Peace Church",
-        "type": "Shopping Partner",
         "address": "2700 19th Street South Arlington VA 22204",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 979-5580"
       }
     },
     {
@@ -862,10 +762,8 @@
       },
       "properties": {
         "name": "Emory Beacon of Light, Inc.",
-        "type": "Shopping Partner",
         "address": "6100 Georgia Avenue NW Washington DC 20011",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -879,10 +777,8 @@
       },
       "properties": {
         "name": "Sterling United Methodist Church",
-        "type": "Shopping Partner",
         "address": "304 East Church Road Sterling VA 20164",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 430-6455"
       }
     },
     {
@@ -896,10 +792,8 @@
       },
       "properties": {
         "name": "St. Anne's Episcopal Church ( Food Pantry)",
-        "type": "Shopping Partner",
         "address": "1700 Wainwright Drive Reston VA 20190",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(925) 323-7084"
       }
     },
     {
@@ -913,10 +807,8 @@
       },
       "properties": {
         "name": "New Macedonia Baptist Church",
-        "type": "Shopping Partner",
         "address": "4115 Alabama Ave SE Washington DC 20019",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -930,10 +822,8 @@
       },
       "properties": {
         "name": "New Samaritan Baptist Church",
-        "type": "Shopping Partner",
         "address": "1100 Florida Ave NE Washington DC 20002",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 397-1870"
       }
     },
     {
@@ -947,10 +837,8 @@
       },
       "properties": {
         "name": "Greater Morning Star Apostolic Church",
-        "type": "Shopping Partner",
         "address": "7929 Richmond Highway Alexandria VA 22306-",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(913) 290-0606"
       }
     },
     {
@@ -964,10 +852,8 @@
       },
       "properties": {
         "name": "Royal Missionary Baptist Church",
-        "type": "Shopping Partner",
         "address": "8631 Engleside Office Park Alexandria VA 22309",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 481-1896"
       }
     },
     {
@@ -981,10 +867,8 @@
       },
       "properties": {
         "name": "Prince Emmanuel All Nations SDA Church",
-        "type": "Shopping Partner",
         "address": "1925 Mitchellville Rd Bowie MD 20716",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 648-4884"
       }
     },
     {
@@ -998,10 +882,8 @@
       },
       "properties": {
         "name": "St. Stephen's Baptist Church",
-        "type": "Shopping Partner",
         "address": "5757 Temple Hill Road Camp Springs MD 20748",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 350-8132"
       }
     },
     {
@@ -1015,10 +897,8 @@
       },
       "properties": {
         "name": "Breath of Life SDA Church",
-        "type": "Shopping Partner",
         "address": "11310 Fort Washington Road Fort Washington MD 20744",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 292-2100"
       }
     },
     {
@@ -1032,10 +912,8 @@
       },
       "properties": {
         "name": "Apostolic Church Glorious Vision",
-        "type": "Shopping Partner",
         "address": "3004 Enterprise Road Bowie MD 20721",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(757) 275-3905"
       }
     },
     {
@@ -1049,10 +927,8 @@
       },
       "properties": {
         "name": "Bethesda Help",
-        "type": "Shopping Partner",
         "address": "10100 Old Georgetown Road Bethesda MD 20814",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 928-4078"
       }
     },
     {
@@ -1066,10 +942,8 @@
       },
       "properties": {
         "name": "Turner AME Church",
-        "type": "Shopping Partner",
         "address": "7201 16th Place Hyattsville MD 20783",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 417-6012"
       }
     },
     {
@@ -1083,10 +957,8 @@
       },
       "properties": {
         "name": "St. Jude Catholic Church",
-        "type": "Shopping Partner",
         "address": "12701 Veirs Mill Rockville MD 20853",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -1100,10 +972,8 @@
       },
       "properties": {
         "name": "Jamil-UL Jalil",
-        "type": "Shopping Partner",
         "address": "10845 Lanham Severn Road Glenn Dale MD 20769",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 381-1143"
       }
     },
     {
@@ -1117,10 +987,8 @@
       },
       "properties": {
         "name": "Mother of Light Center",
-        "type": "Shopping Partner",
         "address": "421 Clifford Ave Alexandria VA 22305",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 508-5289"
       }
     },
     {
@@ -1133,11 +1001,9 @@
         ]
       },
       "properties": {
-        "name": "Christ United Methodist : Christ United Methodist 5000 Food Ministry",
-        "type": "Shopping Partner",
+        "name": "Christ United Methodist 5000 Food Ministry",
         "address": "900 4th Street SW Washington, DC 20024 Washington DC 20024",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 669-2664"
       }
     },
     {
@@ -1151,10 +1017,8 @@
       },
       "properties": {
         "name": "Lutheran Church of the Abiding Presence",
-        "type": "Shopping Partner",
         "address": "6304 Lee Chapel Rd Burke VA 22015",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 455-7500"
       }
     },
     {
@@ -1168,10 +1032,8 @@
       },
       "properties": {
         "name": "Loaves & Fishes",
-        "type": "Shopping Partner",
         "address": "1525 Newton St NW Washington DC 20910",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 855-5874"
       }
     },
     {
@@ -1185,10 +1047,8 @@
       },
       "properties": {
         "name": "Northern Virginia Food Rescue",
-        "type": "Shopping Partner",
         "address": "10535 Battleview Pkwy Manassas VA 20110",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 822-5205"
       }
     },
     {
@@ -1202,10 +1062,8 @@
       },
       "properties": {
         "name": "The Redeemed Christian Church of God - Victory Temple",
-        "type": "Shopping Partner",
         "address": "7218 Lockport Place Lorton VA 22079",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(804) 625-9423"
       }
     },
     {
@@ -1219,10 +1077,8 @@
       },
       "properties": {
         "name": "Love Donation Pantry",
-        "type": "Shopping Partner",
         "address": "3450 Laurel Fort Meade Rd. Laurel MD 20708",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 486-4213"
       }
     },
     {
@@ -1236,10 +1092,8 @@
       },
       "properties": {
         "name": "The Hope Association : Hope Multiplied",
-        "type": "Shopping Partner",
         "address": "80 Mst SE Washington DC DC 20003",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 445-4673"
       }
     },
     {
@@ -1253,10 +1107,8 @@
       },
       "properties": {
         "name": "Wells Robertson House",
-        "type": "Shopping Partner",
         "address": "1 Wells Ave Gaithersburg MD 20877",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 258-6390"
       }
     },
     {
@@ -1270,10 +1122,8 @@
       },
       "properties": {
         "name": "Ward 7 Food Center of Peace Lutheran Church",
-        "type": "Shopping Partner",
         "address": "7 (Peace Lutheran Church) 4929 Ames St NE Washington DC 20019",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 367-6983"
       }
     },
     {
@@ -1286,11 +1136,9 @@
         ]
       },
       "properties": {
-        "name": "New Hope Housing Kennedy : New Hope Housing Kennedy Shelter",
-        "type": "Shopping Partner",
+        "name": "New Hope Housing Kennedy Shelter",
         "address": "9155 Richmond Hwy Fort Belvoir VA 22060",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 859-5750"
       }
     },
     {
@@ -1304,10 +1152,8 @@
       },
       "properties": {
         "name": "Mt. Rainier Seventh Day Adventist Spanish Church : Mount Rainier Seventh Day Adventist Spanish Church",
-        "type": "Shopping Partner",
         "address": "6012 Ager Road Hyattsville MD 20782",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 346-9272"
       }
     },
     {
@@ -1321,10 +1167,8 @@
       },
       "properties": {
         "name": "SevaTruck Foundation",
-        "type": "Shopping Partner",
         "address": "2815 Old Lee Hwy Fairfax Fairfax VA 22031",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 550-3018"
       }
     },
     {
@@ -1338,10 +1182,8 @@
       },
       "properties": {
         "name": "Community Multi-Service",
-        "type": "Shopping Partner",
         "address": "6300 9th St NW Washington DC DC 20011",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 588-9280"
       }
     },
     {
@@ -1355,10 +1197,8 @@
       },
       "properties": {
         "name": "Central Baptist Church of Camp Springs",
-        "type": "Shopping Partner",
         "address": "5600 Old Branch Avenue Camp Springs MD 20748",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 899-3800"
       }
     },
     {
@@ -1372,10 +1212,8 @@
       },
       "properties": {
         "name": "Purity Baptist Church",
-        "type": "Shopping Partner",
         "address": "1325 Maryland Ave NE Washington DC 20002",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 397-4333"
       }
     },
     {
@@ -1389,10 +1227,8 @@
       },
       "properties": {
         "name": "National City Christian Church",
-        "type": "Shopping Partner",
         "address": "5 Thomas Circle NW Washington DC 20005",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 232-0323"
       }
     },
     {
@@ -1405,11 +1241,9 @@
         ]
       },
       "properties": {
-        "name": "Good Samaritan : Good Samaritan Ministry",
-        "type": "Shopping Partner",
+        "name": "Good Samaritan Ministry",
         "address": "1417 Chillum Rd Hyattsville MD 20782",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 478-0975"
       }
     },
     {
@@ -1423,10 +1257,8 @@
       },
       "properties": {
         "name": "Covenant Baptist Food Pantry",
-        "type": "Shopping Partner",
         "address": "3845 South Capitol St SW Washington DC 20032",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 438-7532"
       }
     },
     {
@@ -1440,10 +1272,8 @@
       },
       "properties": {
         "name": "Nineteenth Street Baptist Church",
-        "type": "Shopping Partner",
         "address": "4606 16th St NW Washington DC 20011",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 829-2773"
       }
     },
     {
@@ -1457,10 +1287,8 @@
       },
       "properties": {
         "name": "First Baptist Church of Capitol Heights",
-        "type": "Shopping Partner",
         "address": "6 Capitol Heights Blvd Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 336-0722"
       }
     },
     {
@@ -1474,10 +1302,8 @@
       },
       "properties": {
         "name": "Assumption Outreach",
-        "type": "Shopping Partner",
         "address": "220 Highview Place SE Washington DC 20032",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 561-5941"
       }
     },
     {
@@ -1491,10 +1317,8 @@
       },
       "properties": {
         "name": "Metropolitan SDA Church",
-        "type": "Shopping Partner",
         "address": "6303 Riggs Rd Hyattsville MD 20783",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 853-2224"
       }
     },
     {
@@ -1508,10 +1332,8 @@
       },
       "properties": {
         "name": "Church of Christ of Dale City",
-        "type": "Shopping Partner",
         "address": "13130 Hillendale Drive Dale City VA 22193",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 346-4991"
       }
     },
     {
@@ -1525,10 +1347,8 @@
       },
       "properties": {
         "name": "Food For All",
-        "type": "Shopping Partner",
         "address": "1810 16th St NW Washington DC 20009",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 410-0024"
       }
     },
     {
@@ -1542,10 +1362,8 @@
       },
       "properties": {
         "name": "Fort Foote Baptist Church",
-        "type": "Shopping Partner",
         "address": "8310 Fort Foot Road Fort Washington MD 20744",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 281-2303"
       }
     },
     {
@@ -1559,10 +1377,8 @@
       },
       "properties": {
         "name": "Our Lady of Perpetual Help Church",
-        "type": "Shopping Partner",
         "address": "1600 Morris Rd SE Washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 678-4999"
       }
     },
     {
@@ -1576,10 +1392,8 @@
       },
       "properties": {
         "name": "Fort Washington Food Pantry",
-        "type": "Shopping Partner",
         "address": "9801 Livingston Road Fort Washington MD 20744",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 679-8898"
       }
     },
     {
@@ -1593,10 +1407,8 @@
       },
       "properties": {
         "name": "WFCM Food Pantry",
-        "type": "Shopping Partner",
         "address": "4511 Daly Dr Suite J Chantilly VA 20151",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 988-9656"
       }
     },
     {
@@ -1610,10 +1422,8 @@
       },
       "properties": {
         "name": "Washington Spanish SDA Church",
-        "type": "Shopping Partner",
         "address": "12604 New Hampshire Avenue Silver Spring MD 20904",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 638-7086"
       }
     },
     {
@@ -1627,10 +1437,8 @@
       },
       "properties": {
         "name": "Gethsemane United Methodist Church",
-        "type": "Shopping Partner",
         "address": "910 Addison Road Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 237-7116"
       }
     },
     {
@@ -1644,10 +1452,8 @@
       },
       "properties": {
         "name": "Bread & Fishes",
-        "type": "Shopping Partner",
         "address": "3890 Cameron Street Dumfries Va 22026",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 778-3764"
       }
     },
     {
@@ -1661,10 +1467,8 @@
       },
       "properties": {
         "name": "Urban Outreach Inc.",
-        "type": "Shopping Partner",
         "address": "5343 C St SE Washington DC 20019",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 575-4867"
       }
     },
     {
@@ -1678,10 +1482,8 @@
       },
       "properties": {
         "name": "Greater Fellowship Missionary Baptist Church",
-        "type": "Shopping Partner",
         "address": "814 Alabama Ave SE Washington DC 20032",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 413-4462"
       }
     },
     {
@@ -1695,10 +1497,8 @@
       },
       "properties": {
         "name": "Prince George's County DSS",
-        "type": "Shopping Partner",
         "address": "805 Brightseat Rd Landover MD 20785",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 909-6364"
       }
     },
     {
@@ -1712,10 +1512,8 @@
       },
       "properties": {
         "name": "St. Paul UMC",
-        "type": "Shopping Partner",
         "address": "6634 St. Barnabas Road Oxon Hill MD 20745",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "2 (440) 460-3401"
       }
     },
     {
@@ -1729,10 +1527,8 @@
       },
       "properties": {
         "name": "St. Margaret of Scotland Catholic Church",
-        "type": "Shopping Partner",
         "address": "408 Addison Road, South Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 336-3344"
       }
     },
     {
@@ -1746,10 +1542,8 @@
       },
       "properties": {
         "name": "FISH of Laurel, Inc.",
-        "type": "Shopping Partner",
         "address": "308 Gorman Ave Laurel MD 20707",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 460-5667"
       }
     },
     {
@@ -1763,10 +1557,8 @@
       },
       "properties": {
         "name": "Life Builders - Harvest Temple Church of God : Life Builders",
-        "type": "Shopping Partner",
         "address": "6608 Wilkins Place Forestville MD 20747",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 785-2543"
       }
     },
     {
@@ -1780,10 +1572,8 @@
       },
       "properties": {
         "name": "Victory Drug Center",
-        "type": "Shopping Partner",
         "address": "1804 Quarter Avenue Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 735-2222"
       }
     },
     {
@@ -1797,10 +1587,8 @@
       },
       "properties": {
         "name": "St. Paul's United Methodist Church : St. Paul United Methodist Church",
-        "type": "Shopping Partner",
         "address": "1400 G St Woodbridge VA 22191",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 568-5694"
       }
     },
     {
@@ -1814,10 +1602,8 @@
       },
       "properties": {
         "name": "Woodlawn United Methodist Church",
-        "type": "Shopping Partner",
         "address": "7730 Fordson Road Alexandria VA 22306",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 360-3050"
       }
     },
     {
@@ -1831,10 +1617,8 @@
       },
       "properties": {
         "name": "Floris United Methodist Church",
-        "type": "Shopping Partner",
         "address": "13600 Frying Pan Road Herndon VA 20171",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 798-5826"
       }
     },
     {
@@ -1848,10 +1632,8 @@
       },
       "properties": {
         "name": "Galilee Community Development Corporation",
-        "type": "Shopping Partner",
         "address": "2101 Shadyside Ave Suitland MD 20746",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -1865,10 +1647,8 @@
       },
       "properties": {
         "name": "Crossover Church",
-        "type": "Shopping Partner",
         "address": "5340 Baltimore Ave Hyattsville MD 20781",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 927-5620"
       }
     },
     {
@@ -1882,10 +1662,8 @@
       },
       "properties": {
         "name": "Luther Rice Neighborhood Center",
-        "type": "Shopping Partner",
         "address": "801 University Blvd W Silver Spring MD 20901",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 593-1130"
       }
     },
     {
@@ -1899,10 +1677,8 @@
       },
       "properties": {
         "name": "Sydenstricker UMC",
-        "type": "Shopping Partner",
         "address": "8508 Hooes Road Springfield VA 22153",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 235-6048"
       }
     },
     {
@@ -1916,10 +1692,8 @@
       },
       "properties": {
         "name": "Clothing of Power Eternal Church",
-        "type": "Shopping Partner",
         "address": "25 Quire Ave Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 398-1681"
       }
     },
     {
@@ -1933,10 +1707,8 @@
       },
       "properties": {
         "name": "Emmanuel United Methodist Church : Emmanuel UMC",
-        "type": "Shopping Partner",
         "address": "11416 Cedar Lane Beltsville MD 20705",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 937-7114"
       }
     },
     {
@@ -1950,10 +1722,8 @@
       },
       "properties": {
         "name": "Christ House : Alexandria Food Pantry",
-        "type": "Shopping Partner",
         "address": "4725A Eisenhower Avenue ALEXANDRIA VA 22304",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 719-8939"
       }
     },
     {
@@ -1967,10 +1737,8 @@
       },
       "properties": {
         "name": "St. Stephen's United Methodist Church : St. Stephen's UMC",
-        "type": "Shopping Partner",
         "address": "9203 Braddock Rd Burke VA 22015",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 978-8724"
       }
     },
     {
@@ -1984,10 +1752,8 @@
       },
       "properties": {
         "name": "St. Camillus Catholic Church",
-        "type": "Shopping Partner",
         "address": "1600 Saint Camillus Drive Silver Spring MD 20903",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 452-4233"
       }
     },
     {
@@ -2001,10 +1767,8 @@
       },
       "properties": {
         "name": "Great Commission Change of Life Ministries",
-        "type": "Shopping Partner",
         "address": "7937 Penn Randall Place Unit A Upper Marlboro MD 20772",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -2018,10 +1782,8 @@
       },
       "properties": {
         "name": "Faith Social  Services : Faith Social Services",
-        "type": "Shopping Partner",
         "address": "795 Center St Herndon VA 20170",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 345-4241"
       }
     },
     {
@@ -2035,10 +1797,8 @@
       },
       "properties": {
         "name": "Holiness Tabernacle Church of God in Christ : Holiness Tabernacle Church of God",
-        "type": "Shopping Partner",
         "address": "2193 Dale City VA 22195",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 497-7928"
       }
     },
     {
@@ -2052,10 +1812,8 @@
       },
       "properties": {
         "name": "Allen Chapel AME Church Outreach MD : Allen Chapel AME Church Outreach Ministry",
-        "type": "Shopping Partner",
         "address": "2518 Fairland Road Silver Spring MD 20904",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 404-2688"
       }
     },
     {
@@ -2069,10 +1827,8 @@
       },
       "properties": {
         "name": "Dar Al-Hijrah Islamic Center",
-        "type": "Shopping Partner",
         "address": "3159 Row Street Falls Church VA 22044",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(216) 262-1669"
       }
     },
     {
@@ -2086,10 +1842,8 @@
       },
       "properties": {
         "name": "Gospel Assembly Church",
-        "type": "Shopping Partner",
         "address": "8740-12 Cherry Lane Laurel MD 20707",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 605-3756"
       }
     },
     {
@@ -2103,10 +1857,8 @@
       },
       "properties": {
         "name": "Restoration Church",
-        "type": "Shopping Partner",
         "address": "119 Centerway Dr. Greenbelt MD 20770",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 645-7177"
       }
     },
     {
@@ -2120,10 +1872,8 @@
       },
       "properties": {
         "name": "Clifton Park Baptist Church",
-        "type": "Shopping Partner",
         "address": "8818 Piney Branch Rd Silver Spring MD 20903",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 372-3616"
       }
     },
     {
@@ -2137,10 +1887,8 @@
       },
       "properties": {
         "name": "Oxon Hill Church of Christ",
-        "type": "Shopping Partner",
         "address": "4201 Brinkley Road Temple Hills MD 20748",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 875-9322"
       }
     },
     {
@@ -2154,10 +1902,8 @@
       },
       "properties": {
         "name": "Beltsville Seventh-Day Adventist Church : Beltsville Adventist Community Center",
-        "type": "Shopping Partner",
         "address": "4200 Ammendale Rd. Beltsville MD 20705",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 937-8119"
       }
     },
     {
@@ -2171,10 +1917,8 @@
       },
       "properties": {
         "name": "Springfield Christian Church",
-        "type": "Shopping Partner",
         "address": "5407 Backlick Rd Springfield VA 22151",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 507-6689"
       }
     },
     {
@@ -2188,10 +1932,8 @@
       },
       "properties": {
         "name": "Montgomery County Muslim Foundation",
-        "type": "Shopping Partner",
         "address": "11 Park Ave Gaithersburg MD 20877",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 800-1597"
       }
     },
     {
@@ -2205,10 +1947,8 @@
       },
       "properties": {
         "name": "Mt. Calvary Catholic Church Ladies of Charity Food Pantry : Mt. Calvary Catholic Church, Ladies of Charity Food Pantry",
-        "type": "Shopping Partner",
         "address": "6706 Marlboro Pike Forestville MD 20747",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 221-2546"
       }
     },
     {
@@ -2222,10 +1962,8 @@
       },
       "properties": {
         "name": "This Generation Ministries",
-        "type": "Shopping Partner",
         "address": "9470 Annapolis Rd Lanham MD 20706",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 374-2901"
       }
     },
     {
@@ -2239,10 +1977,8 @@
       },
       "properties": {
         "name": "Groveton Baptist Church",
-        "type": "Shopping Partner",
         "address": "6511 Richmond Highway Alexandria VA 22306",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 648-5808"
       }
     },
     {
@@ -2256,10 +1992,8 @@
       },
       "properties": {
         "name": "Salvation Army - Arlington Corp : Salvation Army Arlington Corps",
-        "type": "Shopping Partner",
         "address": "518 S. Glebe Rd Arlington VA 22204",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 979-3380"
       }
     },
     {
@@ -2273,10 +2007,8 @@
       },
       "properties": {
         "name": "Mt. Jezreel Baptist Church",
-        "type": "Shopping Partner",
         "address": "420 University Blvd East Silver Spring MD 20901",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 461-4257"
       }
     },
     {
@@ -2290,10 +2022,8 @@
       },
       "properties": {
         "name": "CAC Wosem DC : CAC Wosem- 24th Place",
-        "type": "Shopping Partner",
         "address": "24th 2130 24th Place NE Washington DC 20018",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 643-6445"
       }
     },
     {
@@ -2307,10 +2037,8 @@
       },
       "properties": {
         "name": "WeSERVE CDC",
-        "type": "Shopping Partner",
         "address": "17948 Fraley Blvd Dumfries VA 22026",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 781-2722"
       }
     },
     {
@@ -2324,10 +2052,8 @@
       },
       "properties": {
         "name": "Kings and Priests International Ministries",
-        "type": "Shopping Partner",
         "address": "520 Randolph Road Silver Spring MD 20904",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 467-6646"
       }
     },
     {
@@ -2341,10 +2067,8 @@
       },
       "properties": {
         "name": "Chrisma Charities",
-        "type": "Shopping Partner",
         "address": "12805 Georgia Avenue Silver Spring MD 20906",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -2358,10 +2082,8 @@
       },
       "properties": {
         "name": "CAC Bethel Fellowship Church",
-        "type": "Shopping Partner",
         "address": "7513 Northern Avenue Glenn Dale MD 20769",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 352-2900"
       }
     },
     {
@@ -2374,11 +2096,9 @@
         ]
       },
       "properties": {
-        "name": "New Hope and Life Church of God, Inc : New Hope and Life Church of God, Inc.",
-        "type": "Shopping Partner",
+        "name": "New Hope and Life Church of God, Inc.",
         "address": "8616 Edgeworth Drive Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 689-4393"
       }
     },
     {
@@ -2391,11 +2111,9 @@
         ]
       },
       "properties": {
-        "name": "Cheer, Inc : Cheer, Inc.",
-        "type": "Shopping Partner",
+        "name": "Cheer, Inc.",
         "address": "8720 Carroll Avenue, Silver Spring MD 20903",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 589-3633"
       }
     },
     {
@@ -2409,10 +2127,8 @@
       },
       "properties": {
         "name": "Oxon Hill UMC",
-        "type": "Shopping Partner",
         "address": "6400 Livingston Road Oxon Hill MD 20745",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 687-1409"
       }
     },
     {
@@ -2426,10 +2142,8 @@
       },
       "properties": {
         "name": "Christ Embassy Maryland",
-        "type": "Shopping Partner",
         "address": "1221 Carraway Court Largo MD 20774",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 537-1765"
       }
     },
     {
@@ -2443,10 +2157,8 @@
       },
       "properties": {
         "name": "Calvary Episcopal Church",
-        "type": "Shopping Partner",
         "address": "509 I Street NE Washington DC 20002",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(858) 405-6276"
       }
     },
     {
@@ -2460,10 +2172,8 @@
       },
       "properties": {
         "name": "Impact One Church",
-        "type": "Shopping Partner",
         "address": "7230 Central Avenue Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 333-2083"
       }
     },
     {
@@ -2477,10 +2187,8 @@
       },
       "properties": {
         "name": "Royalhouse Chapel International",
-        "type": "Shopping Partner",
         "address": "7911 Braygreen Road Laurel MD 20707",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 437-9441"
       }
     },
     {
@@ -2494,10 +2202,8 @@
       },
       "properties": {
         "name": "Antioch Baptist Church of Clinton",
-        "type": "Shopping Partner",
         "address": "9107 Pine View Lane Clinton MD 20735",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 868-3877"
       }
     },
     {
@@ -2511,10 +2217,8 @@
       },
       "properties": {
         "name": "St. Matthias Catholic Church",
-        "type": "Shopping Partner",
         "address": "9475 Annapolis Lanham MD 20706",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 459-4814"
       }
     },
     {
@@ -2528,10 +2232,8 @@
       },
       "properties": {
         "name": "Guru Nanak Foundation of America (GNFA)",
-        "type": "Shopping Partner",
         "address": "12917 Old Columbia Pike Silver Spring MD 20904",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 728-7138"
       }
     },
     {
@@ -2545,10 +2247,8 @@
       },
       "properties": {
         "name": "GAP Food Program",
-        "type": "Shopping Partner",
         "address": "6715 Suitland Road Morningside MD 20746",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 528-4321"
       }
     },
     {
@@ -2562,10 +2262,8 @@
       },
       "properties": {
         "name": "La Iglesia Episcopal de Santa Maria",
-        "type": "Shopping Partner",
         "address": "7000 Arlington Blvd Falls Church VA 22042",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 244-1158"
       }
     },
     {
@@ -2579,10 +2277,8 @@
       },
       "properties": {
         "name": "DMV Food Justice Initiative",
-        "type": "Shopping Partner",
         "address": "3110 Chichester Lane Fairfax VA 22031",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 415-9757"
       }
     },
     {
@@ -2596,10 +2292,8 @@
       },
       "properties": {
         "name": "Celestial Church of Christ",
-        "type": "Shopping Partner",
         "address": "1880 Adams Street NE Washington DC 20018",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 467-8399"
       }
     },
     {
@@ -2613,10 +2307,8 @@
       },
       "properties": {
         "name": "Park Road Community Church",
-        "type": "Shopping Partner",
         "address": "1019 Park Road NW Washington DC 20010",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 740-7890"
       }
     },
     {
@@ -2630,10 +2322,8 @@
       },
       "properties": {
         "name": "Burke United Methodist Church",
-        "type": "Shopping Partner",
         "address": "6200 Burke Centre Parkway Burke VA 22015",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 250-6100"
       }
     },
     {
@@ -2647,10 +2337,8 @@
       },
       "properties": {
         "name": "Greater Little Zion Baptist Church",
-        "type": "Shopping Partner",
         "address": "10185 Zion Dr Fairfax VA 22032",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 728-4513"
       }
     },
     {
@@ -2664,10 +2352,8 @@
       },
       "properties": {
         "name": "She Believes in Me",
-        "type": "Shopping Partner",
         "address": "761 Elden Street Herndon VA 20170",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 328-2512"
       }
     },
     {
@@ -2681,10 +2367,8 @@
       },
       "properties": {
         "name": "Gaithersburg HELP",
-        "type": "Shopping Partner",
         "address": "301 Muddy Branch Road Gaithersburg MD 20878",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 216-2510"
       }
     },
     {
@@ -2698,10 +2382,8 @@
       },
       "properties": {
         "name": "Annandale UMC",
-        "type": "Shopping Partner",
         "address": "7901 Heritage Drive Annandale VA 22003",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 217-2514"
       }
     },
     {
@@ -2715,10 +2397,8 @@
       },
       "properties": {
         "name": "NW Community Food",
-        "type": "Shopping Partner",
         "address": "4225 Connecticut AVE NW Washington DC DC 20008",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 594-0399"
       }
     },
     {
@@ -2732,10 +2412,8 @@
       },
       "properties": {
         "name": "First Alliance Church",
-        "type": "Shopping Partner",
         "address": "14500 New Hampshire Ave Silver Spring MD 20904",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 785-8571"
       }
     },
     {
@@ -2749,10 +2427,8 @@
       },
       "properties": {
         "name": "St Matthews Ken Jackson Food Closet : St. Matthews Ken Jackson Food Closet",
-        "type": "Shopping Partner",
         "address": "8617 Little River Turnpike Annandale VA 22003",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 978-3500"
       }
     },
     {
@@ -2766,10 +2442,8 @@
       },
       "properties": {
         "name": "Grace Baptist Church",
-        "type": "Shopping Partner",
         "address": "3121 Trinity Drive Bowie MD 20715",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 262-1767"
       }
     },
     {
@@ -2783,10 +2457,8 @@
       },
       "properties": {
         "name": "Ports Town Church",
-        "type": "Shopping Partner",
         "address": "4500 57th Ave Bladensburg MD 20717",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 525-6328"
       }
     },
     {
@@ -2800,10 +2472,8 @@
       },
       "properties": {
         "name": "St. Peters in the Woods",
-        "type": "Shopping Partner",
         "address": "5911 Fairview Woods Drive Fairfax Station VA 22039",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 503-9210"
       }
     },
     {
@@ -2816,11 +2486,9 @@
         ]
       },
       "properties": {
-        "name": "Community Support Systems Inc : Community Support Systems Inc BADEN",
-        "type": "Shopping Partner",
+        "name": "Community Support Systems Inc BADEN",
         "address": "13500 Baden Westwood Road Brandywine MD 20613",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 372-1491"
       }
     },
     {
@@ -2834,10 +2502,8 @@
       },
       "properties": {
         "name": "We Are Family",
-        "type": "Shopping Partner",
         "address": "3335 Sherman Ave NW Washington DC 20001",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 487-8698"
       }
     },
     {
@@ -2851,10 +2517,8 @@
       },
       "properties": {
         "name": "Friends Of Douglas Community Center : Friends Of Douglass Community Center",
-        "type": "Shopping Partner",
         "address": "3261 Stanton Road SE Washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 285-5354"
       }
     },
     {
@@ -2867,11 +2531,9 @@
         ]
       },
       "properties": {
-        "name": "A Place For Hashem Ministries : A Place for Hashem Ministries",
-        "type": "Shopping Partner",
+        "name": "A Place for Hashem Ministries",
         "address": "8100 Malcolm Rd Clinton MD 20735",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -2885,10 +2547,8 @@
       },
       "properties": {
         "name": "Church of The Redeemer of Gaithersburg",
-        "type": "Shopping Partner",
         "address": "19425 Woodfield Road Gaithersburg MD 20879",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 238-1576"
       }
     },
     {
@@ -2902,10 +2562,8 @@
       },
       "properties": {
         "name": "Faith United Ministries Outreach",
-        "type": "Shopping Partner",
         "address": "7905 Fernham Lane District Heights MD 20747",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 736-2383"
       }
     },
     {
@@ -2919,10 +2577,8 @@
       },
       "properties": {
         "name": "The Upcounty Hub Inc",
-        "type": "Shopping Partner",
         "address": "12900 Middlebrook Road Germantown MD 20874",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 912-1068"
       }
     },
     {
@@ -2936,10 +2592,8 @@
       },
       "properties": {
         "name": "College Park Church of the Nazarene : College Park Community Food Bank",
-        "type": "Shopping Partner",
         "address": "9704 Rhode Island Ave College Park MD 20740",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 364-4931"
       }
     },
     {
@@ -2953,10 +2607,8 @@
       },
       "properties": {
         "name": "Recovery Program Solutions of Virginia",
-        "type": "Shopping Partner",
         "address": "7611 Little River Turnpike Suite E100 Annandale VA 22003",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 939-0869"
       }
     },
     {
@@ -2970,10 +2622,8 @@
       },
       "properties": {
         "name": "LINK Incorporated : LINK Mobile Food Pantry - Christ the Redeemer",
-        "type": "Shopping Partner",
         "address": "46833 Harry Byrd Highway, Sterling VA 20164",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 973-4444"
       }
     },
     {
@@ -2987,10 +2637,8 @@
       },
       "properties": {
         "name": "The Family Place",
-        "type": "Shopping Partner",
         "address": "3309 16th St NW Washington DC DC 20010",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 644-1125"
       }
     },
     {
@@ -3004,10 +2652,8 @@
       },
       "properties": {
         "name": "University of District of Columbia",
-        "type": "Shopping Partner",
         "address": "4250 Connecticut Ave NW Washington DC DC 20008",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 603-5090"
       }
     },
     {
@@ -3021,10 +2667,8 @@
       },
       "properties": {
         "name": "American University",
-        "type": "Shopping Partner",
         "address": "4400 Massachusetts Ave Washington DC 20016",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(305) 766-5993"
       }
     },
     {
@@ -3038,10 +2682,8 @@
       },
       "properties": {
         "name": "Crowder Owen's Calvary Food Bank : Crowder Owens Calvary Food Bank (The Bishop Alfred A. Owens, Jr. Family Life CC)",
-        "type": "Shopping Partner",
         "address": "600 W Street NE Washington DC 20002",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 529-2299"
       }
     },
     {
@@ -3055,10 +2697,8 @@
       },
       "properties": {
         "name": "Rising Hope Mission Church : Rising Hope Methodist Mission Church",
-        "type": "Shopping Partner",
         "address": "8220 Russell Road Alexandria VA 22309",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(719) 310-3277"
       }
     },
     {
@@ -3072,10 +2712,8 @@
       },
       "properties": {
         "name": "St. Anthony of Padua Catholic Church",
-        "type": "Shopping Partner",
         "address": "3305 Glen Carlyn Road Falls Church VA 22041",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 471-3194"
       }
     },
     {
@@ -3089,10 +2727,8 @@
       },
       "properties": {
         "name": "Womens Collective : The Women's Collective",
-        "type": "Shopping Partner",
         "address": "1818 New York Ave NE Washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 483-7003"
       }
     },
     {
@@ -3106,10 +2742,8 @@
       },
       "properties": {
         "name": "Centreville United Methodist Church : Centreville UMC",
-        "type": "Shopping Partner",
         "address": "6400 Old Centreville Rd Centreville VA 20121",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 830-2684"
       }
     },
     {
@@ -3123,10 +2757,8 @@
       },
       "properties": {
         "name": "First Baptist Church of District Heights",
-        "type": "Shopping Partner",
         "address": "7234 Lansdale Street District Heights MD 20747",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 887-7380"
       }
     },
     {
@@ -3140,10 +2772,8 @@
       },
       "properties": {
         "name": "No Limits Outreach Ministries",
-        "type": "Shopping Partner",
         "address": "7721 Barlowe Rd Landover MD 20785",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 341-5159"
       }
     },
     {
@@ -3157,10 +2787,8 @@
       },
       "properties": {
         "name": "Ark of Grace Mission, Inc",
-        "type": "Shopping Partner",
         "address": "3311 Brightseat Road Lanham MD 20706",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 535-7832"
       }
     },
     {
@@ -3174,10 +2802,8 @@
       },
       "properties": {
         "name": "Faith Village of Greater Laurel, Inc.",
-        "type": "Shopping Partner",
         "address": "13714 Briarwood Drive Laurel MD 20708",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -3190,11 +2816,9 @@
         ]
       },
       "properties": {
-        "name": "Corinth Baptist Church Outreach Pro : Corinth Baptist Church Outreach Program",
-        "type": "Shopping Partner",
+        "name": "Corinth Baptist Church Outreach Program",
         "address": "814 Cypress Tree Dr Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 486-3963"
       }
     },
     {
@@ -3208,10 +2832,8 @@
       },
       "properties": {
         "name": "Woodbridge Workers",
-        "type": "Shopping Partner",
         "address": "13950 Jefferson Davis Highway Woodbridge VA 22193",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 969-0197"
       }
     },
     {
@@ -3225,10 +2847,8 @@
       },
       "properties": {
         "name": "Iglesia De Dios Pentecostal Nuevo Renacer",
-        "type": "Shopping Partner",
         "address": "490 Victoria Court Millersville MD 21108",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -3242,10 +2862,8 @@
       },
       "properties": {
         "name": "Calvary Pentecostal Ministries",
-        "type": "Shopping Partner",
         "address": "7910 Cessna Avenue Gaithersburg MD 20879",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 775-0404"
       }
     },
     {
@@ -3259,10 +2877,8 @@
       },
       "properties": {
         "name": "Yad Yehuda of Greater Washington",
-        "type": "Shopping Partner",
         "address": "9601 Colesville Rd Silver Spring MD 20902",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 842-7135"
       }
     },
     {
@@ -3276,10 +2892,8 @@
       },
       "properties": {
         "name": "Silver Spring Christian Reformed Church",
-        "type": "Shopping Partner",
         "address": "1501 Arcola Ave Silver Spring MD 20902",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 284-8401"
       }
     },
     {
@@ -3293,10 +2907,8 @@
       },
       "properties": {
         "name": "Messiah United Methodist Church",
-        "type": "Shopping Partner",
         "address": "6215 Rolling Road Springfield VA 22152",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 927-7913"
       }
     },
     {
@@ -3310,10 +2922,8 @@
       },
       "properties": {
         "name": "Kitchen of Purpose",
-        "type": "Shopping Partner",
         "address": "918 S. Lincoln St Arlington VA 22204",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 574-1058"
       }
     },
     {
@@ -3327,10 +2937,8 @@
       },
       "properties": {
         "name": "Nourish Now",
-        "type": "Shopping Partner",
         "address": "397 EAST GUDE DR Rockville MD 20850",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 750-0747"
       }
     },
     {
@@ -3344,10 +2952,8 @@
       },
       "properties": {
         "name": "Calvary Christian Church",
-        "type": "Shopping Partner",
         "address": "9800 Old Keene Mill Road Burke VA 22015",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 212-3922"
       }
     },
     {
@@ -3361,10 +2967,8 @@
       },
       "properties": {
         "name": "Muslim Community Center",
-        "type": "Shopping Partner",
         "address": "15200 New Hampshire Ave. Silver Spring MD 20905",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 784-0051"
       }
     },
     {
@@ -3378,10 +2982,8 @@
       },
       "properties": {
         "name": "Helping Hungry Kids of NOVA",
-        "type": "Shopping Partner",
         "address": "1441 Wiehle Ave Reston VA 20190",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 477-0367"
       }
     },
     {
@@ -3395,10 +2997,8 @@
       },
       "properties": {
         "name": "Grace of God Ministry",
-        "type": "Shopping Partner",
         "address": "3950 48th Street Bladensburg MD 20710",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 274-2829"
       }
     },
     {
@@ -3412,10 +3012,8 @@
       },
       "properties": {
         "name": "Fountain of Restoration Church Inc : Fountain of Restoration Church",
-        "type": "Shopping Partner",
         "address": "12304 Livingston Rd Fort Washington MD 20744",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 213-4628"
       }
     },
     {
@@ -3429,10 +3027,8 @@
       },
       "properties": {
         "name": "Little Rock Bibleway Church : Gallaudet University Food Pantry",
-        "type": "Shopping Partner",
         "address": "800 Florida Ave. NE Room Ely 100 Washington DC 20002",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 651-5144"
       }
     },
     {
@@ -3446,10 +3042,8 @@
       },
       "properties": {
         "name": "Laurel Advocacy & Referral Services, Inc.",
-        "type": "Shopping Partner",
         "address": "311 Laurel Ave Laurel MD 20707",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 776-0442"
       }
     },
     {
@@ -3463,10 +3057,8 @@
       },
       "properties": {
         "name": "Community Outreach and Development CDC : Community Outreach and Development Center CDC",
-        "type": "Shopping Partner",
         "address": "4719 Marlboro Pike Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 735-0121"
       }
     },
     {
@@ -3480,10 +3072,8 @@
       },
       "properties": {
         "name": "Haymarket Regional Food Pantry",
-        "type": "Shopping Partner",
         "address": "7669 Limestone Drive Gainesville VA 20155",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 795-4892"
       }
     },
     {
@@ -3497,10 +3087,8 @@
       },
       "properties": {
         "name": "Educare Support Services",
-        "type": "Shopping Partner",
         "address": "7001 New Hampshire Ave Takoma Park MD 20912",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 450-2092"
       }
     },
     {
@@ -3514,10 +3102,8 @@
       },
       "properties": {
         "name": "House of Mercy",
-        "type": "Shopping Partner",
         "address": "8170 Flannery Court Manassas VA 20109",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 579-0279"
       }
     },
     {
@@ -3531,10 +3117,8 @@
       },
       "properties": {
         "name": "Maryland Umbrella Group",
-        "type": "Shopping Partner",
         "address": "408 Addison Road South Seat Pleasant MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 219-6650"
       }
     },
     {
@@ -3548,10 +3132,8 @@
       },
       "properties": {
         "name": "St. Mark The Evangelist Catholic Church",
-        "type": "Shopping Partner",
         "address": "7501 Adelphi Road Hyattsville MD 20783",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 852-3816"
       }
     },
     {
@@ -3565,10 +3147,8 @@
       },
       "properties": {
         "name": "Community of Faith United Methodist Church",
-        "type": "Shopping Partner",
         "address": "13224 Franklin Farm Rd Herndon VA 20171",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 620-1977"
       }
     },
     {
@@ -3582,10 +3162,8 @@
       },
       "properties": {
         "name": "ICNA Relief USA Programs Inc.",
-        "type": "Shopping Partner",
         "address": "2912 WOODLAWN TRAIL ALEXANDRIA VA 22306",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 662-0786"
       }
     },
     {
@@ -3599,10 +3177,8 @@
       },
       "properties": {
         "name": "Freedom Community Church",
-        "type": "Shopping Partner",
         "address": "9325 Mace Street Manassas Park VA 20111",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 409-4892"
       }
     },
     {
@@ -3616,10 +3192,8 @@
       },
       "properties": {
         "name": "Ebenezer Baptist Church",
-        "type": "Shopping Partner",
         "address": "13020 Telegraph Road Woodbridge VA 22192",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 376-1664"
       }
     },
     {
@@ -3633,10 +3207,8 @@
       },
       "properties": {
         "name": "Salvation Army (Fairfax)",
-        "type": "Shopping Partner",
         "address": "4915 Ox Road Fairfax VA 22030",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 385-8700"
       }
     },
     {
@@ -3650,10 +3222,8 @@
       },
       "properties": {
         "name": "Living Legends Awards for Service to Humanity",
-        "type": "Shopping Partner",
         "address": "18800 New Hampshire Avenue Ashton MD 20861",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 832-1039"
       }
     },
     {
@@ -3667,10 +3237,8 @@
       },
       "properties": {
         "name": "Ebenezer We Care We Share Community",
-        "type": "Shopping Partner",
         "address": "6016 Princess Garden Parkway New Carrollton MD 20784",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 577-7436"
       }
     },
     {
@@ -3684,10 +3252,8 @@
       },
       "properties": {
         "name": "Shiloh Church Of God 7 Day",
-        "type": "Shopping Partner",
         "address": "7 Day 5701 Eastern Ave Hyattsville MD 20781",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(443) 531-1955"
       }
     },
     {
@@ -3701,10 +3267,8 @@
       },
       "properties": {
         "name": "Metropolis Club",
-        "type": "Shopping Partner",
         "address": "938 Rhode Island Ave NE Washington DC 20018",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 793-4236"
       }
     },
     {
@@ -3718,10 +3282,8 @@
       },
       "properties": {
         "name": "Builders, Inc",
-        "type": "Shopping Partner",
         "address": "5135 Marlboro Pike Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 460-8011"
       }
     },
     {
@@ -3735,10 +3297,8 @@
       },
       "properties": {
         "name": "Plenty to Eat",
-        "type": "Shopping Partner",
         "address": "2315 18th Place NE Washington DC 20018",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 556-0662"
       }
     },
     {
@@ -3752,10 +3312,8 @@
       },
       "properties": {
         "name": "First African Methodist Episcopal Church of Alexandria",
-        "type": "Shopping Partner",
         "address": "8653 Richmond Highway Alexandria VA 22309",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 758-9141"
       }
     },
     {
@@ -3769,10 +3327,8 @@
       },
       "properties": {
         "name": "St. Francis Xavier Food Pantry : St. Francis Xavier Church Food Pantry",
-        "type": "Shopping Partner",
         "address": "2815 O street SE Washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 251-7692"
       }
     },
     {
@@ -3786,10 +3342,8 @@
       },
       "properties": {
         "name": "Holy Mountain International Ministries",
-        "type": "Shopping Partner",
         "address": "6721 Mid Cities Avenue Beltsville MD 20705",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(443) 367-1951"
       }
     },
     {
@@ -3803,10 +3357,8 @@
       },
       "properties": {
         "name": "Operation Ernie's Plate : Operation Earnie's Plate",
-        "type": "Shopping Partner",
         "address": "8500 Mike Shapiro Dr Clinton MD 20735",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 404-4461"
       }
     },
     {
@@ -3820,10 +3372,8 @@
       },
       "properties": {
         "name": "First African Methodist Episcopal Church of Gaithersburg",
-        "type": "Shopping Partner",
         "address": "17620 Washington Grove Lane Gaithersburg MD 20877",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 632-9760"
       }
     },
     {
@@ -3837,10 +3387,8 @@
       },
       "properties": {
         "name": "Ebenezer AME Church",
-        "type": "Shopping Partner",
         "address": "7703 Allentown Road Fort Washington MD 20744",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -3854,10 +3402,8 @@
       },
       "properties": {
         "name": "Harvest Gleaners",
-        "type": "Shopping Partner",
         "address": "3210 Norbeck Road Silver Spring MD 20906",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 503-7397"
       }
     },
     {
@@ -3871,10 +3417,8 @@
       },
       "properties": {
         "name": "Community Health Foundation",
-        "type": "Shopping Partner",
         "address": "9150 Lanham Severn Rd. Lanham MD 20706",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 353-1699"
       }
     },
     {
@@ -3888,10 +3432,8 @@
       },
       "properties": {
         "name": "The Sanctuary",
-        "type": "Shopping Partner",
         "address": "5300 Crain Highway Upper Marlboro MD 20772",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 752-0778"
       }
     },
     {
@@ -3905,10 +3447,8 @@
       },
       "properties": {
         "name": "South Lakes High School PTSA Food Pantry : South Lakes High School PTSA Food Pantry : South Lakes High School PTSA Food Pantry",
-        "type": "Shopping Partner",
         "address": "1133 Reston AVE Herndon VA 20170",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 216-6928"
       }
     },
     {
@@ -3922,10 +3462,8 @@
       },
       "properties": {
         "name": "Lifehouse Church",
-        "type": "Shopping Partner",
         "address": "12304 Baltimore Avenue Beltsville MD 20705",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 787-4070"
       }
     },
     {
@@ -3939,10 +3477,8 @@
       },
       "properties": {
         "name": "First Baptist Church of Highland Park",
-        "type": "Shopping Partner",
         "address": "6801 Sheriff Road Landover MD 20785",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 773-6655"
       }
     },
     {
@@ -3956,10 +3492,8 @@
       },
       "properties": {
         "name": "Alexander Memorial Baptist Church",
-        "type": "Shopping Partner",
         "address": "10675 Crain Highway Upper Marlboro MD 20772",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 601-0247"
       }
     },
     {
@@ -3973,10 +3507,8 @@
       },
       "properties": {
         "name": "St. John's Norwood Episcopal Church : Nourishing Bethesda",
-        "type": "Shopping Partner",
         "address": "5020 Battery Lane Bethesda MD 20814",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 437-2752"
       }
     },
     {
@@ -3990,10 +3522,8 @@
       },
       "properties": {
         "name": "Mollemm Food Pantry",
-        "type": "Shopping Partner",
         "address": "9721 Good Luck Road Lanham MD 20706",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 248-7742"
       }
     },
     {
@@ -4007,10 +3537,8 @@
       },
       "properties": {
         "name": "Gaithersburg CARES Hub at Seneca Creek Community Church : Seneca Creek Community Church (Gaithersburg CARES)",
-        "type": "Shopping Partner",
         "address": "13 Firstfield Rd Gaithersburg MD 20878",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 793-3321"
       }
     },
     {
@@ -4024,10 +3552,8 @@
       },
       "properties": {
         "name": "Kingdom Global Community Development Corporation : East Montgomery County Hub",
-        "type": "Shopping Partner",
         "address": "11710 Beltsville Drive Beltsville MD 20705",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 352-7114"
       }
     },
     {
@@ -4041,10 +3567,8 @@
       },
       "properties": {
         "name": "Rainbow Community Development Center",
-        "type": "Shopping Partner",
         "address": "2120 Industrial Parkway A Silver Spring MD 20904",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 625-2561"
       }
     },
     {
@@ -4058,10 +3582,8 @@
       },
       "properties": {
         "name": "Edward C Mazique Child Care Center",
-        "type": "Shopping Partner",
         "address": "1719 13th St NW Washington DC 20009",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 462-3375"
       }
     },
     {
@@ -4075,10 +3597,8 @@
       },
       "properties": {
         "name": "Saint Benedict The Moor",
-        "type": "Shopping Partner",
         "address": "320 21st Street NE Washington DC 20002",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -4092,10 +3612,8 @@
       },
       "properties": {
         "name": "Greater New Hope Baptist Church",
-        "type": "Shopping Partner",
         "address": "816 8th STREET NW Washington DC 20001",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 357-4905"
       }
     },
     {
@@ -4109,10 +3627,8 @@
       },
       "properties": {
         "name": "Dupont Park SDA Church",
-        "type": "Shopping Partner",
         "address": "3942 Alabama Ave SE Washington DC 20019",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 980-6274"
       }
     },
     {
@@ -4126,10 +3642,8 @@
       },
       "properties": {
         "name": "Hughes United Methodist Church",
-        "type": "Shopping Partner",
         "address": "10700 Georgia Ave Wheaton MD 20902",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 949-8383"
       }
     },
     {
@@ -4143,10 +3657,8 @@
       },
       "properties": {
         "name": "InterFaith Works",
-        "type": "Shopping Partner",
         "address": "751 Twinbrook Parkway Rockville MD 20851",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 370-4984"
       }
     },
     {
@@ -4160,10 +3672,8 @@
       },
       "properties": {
         "name": "NHT Communities : R Street Apartments",
-        "type": "Shopping Partner",
         "address": "1436 R St NW Washington DC 20009",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 621-1617"
       }
     },
     {
@@ -4177,10 +3687,8 @@
       },
       "properties": {
         "name": "NHT Communities : Monsenor Romero",
-        "type": "Shopping Partner",
         "address": "3145 Mt Pleasant St NW Washington DC 20010",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 333-8931"
       }
     },
     {
@@ -4194,10 +3702,8 @@
       },
       "properties": {
         "name": "Walker Memorial Baptist Church",
-        "type": "Shopping Partner",
         "address": "2020 13th St. NW Washington DC 20009",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 232-1120"
       }
     },
     {
@@ -4211,10 +3717,8 @@
       },
       "properties": {
         "name": "Small Things Matter, Inc",
-        "type": "Shopping Partner",
         "address": "201 Ethan Allen Avenue Takoma Park MD 20912",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 669-8550"
       }
     },
     {
@@ -4228,10 +3732,8 @@
       },
       "properties": {
         "name": "The House, Inc.",
-        "type": "Shopping Partner",
         "address": "14000 Crown Court Woodbridge VA 22193",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 237-5860"
       }
     },
     {
@@ -4245,10 +3747,8 @@
       },
       "properties": {
         "name": "YWCA National Capital Area",
-        "type": "Shopping Partner",
         "address": "2303 14th Street NW Washington DC 20009",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 626-0700"
       }
     },
     {
@@ -4262,10 +3762,8 @@
       },
       "properties": {
         "name": "Francis On The Hill",
-        "type": "Shopping Partner",
         "address": "1614 Manchester Lane NW Washington DC 20011-2810",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 680-0517"
       }
     },
     {
@@ -4279,10 +3777,8 @@
       },
       "properties": {
         "name": "Covenant House Greater Washington",
-        "type": "Shopping Partner",
         "address": "2001 Mississippi Ave SE Washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 247-0747"
       }
     },
     {
@@ -4296,10 +3792,8 @@
       },
       "properties": {
         "name": "Luther Jackson Middle School Food Pantry",
-        "type": "Shopping Partner",
         "address": "3020 Gallows Road Falls Church VA 22042",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 669-2543"
       }
     },
     {
@@ -4313,10 +3807,8 @@
       },
       "properties": {
         "name": "Emmanuel Baptist Church",
-        "type": "Shopping Partner",
         "address": "2409 Ainger Place SE Washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 678-0884"
       }
     },
     {
@@ -4330,10 +3822,8 @@
       },
       "properties": {
         "name": "Buddhist Tzu Chi Foundation",
-        "type": "Shopping Partner",
         "address": "1516 Moorings Drive Reston VA 20190",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(804) 306-6037"
       }
     },
     {
@@ -4347,10 +3837,8 @@
       },
       "properties": {
         "name": "LindaBen Foundation",
-        "type": "Shopping Partner",
         "address": "10739 Tucker St. Beltsville MD 20705",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 461-9442"
       }
     },
     {
@@ -4364,10 +3852,8 @@
       },
       "properties": {
         "name": "Tommy's Pantry",
-        "type": "Shopping Partner",
         "address": "630 Silver Spring Ave. Silver Spring MD 20910",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 262-4537"
       }
     },
     {
@@ -4381,10 +3867,8 @@
       },
       "properties": {
         "name": "Mid-County Hub at Harvest Intercontinental Church Olney",
-        "type": "Shopping Partner",
         "address": "16227 Batchellors Forest Rd Olney MD 20832",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 512-5584"
       }
     },
     {
@@ -4398,10 +3882,8 @@
       },
       "properties": {
         "name": "Destiny Driven",
-        "type": "Shopping Partner",
         "address": "5900 Princess Garden Parkway Lanham MD 20706",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 455-5970"
       }
     },
     {
@@ -4415,10 +3897,8 @@
       },
       "properties": {
         "name": "Largo Community Church",
-        "type": "Shopping Partner",
         "address": "1701 Enterprise Road Mitchellville MD 20721",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 249-2255"
       }
     },
     {
@@ -4432,10 +3912,8 @@
       },
       "properties": {
         "name": "Christ4Crisis",
-        "type": "Shopping Partner",
         "address": "4Crisis 14339 Richmond high way Woodbridge VA 22191",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 398-7826"
       }
     },
     {
@@ -4449,10 +3927,8 @@
       },
       "properties": {
         "name": "ISKCON of Washington",
-        "type": "Shopping Partner",
         "address": "10310 Oaklyn Dr Potomac MD 20854",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 277-2221"
       }
     },
     {
@@ -4466,10 +3942,8 @@
       },
       "properties": {
         "name": "Northern Virginia Family Service SERVE : Northern Virginia Family Services SERVE",
-        "type": "Shopping Partner",
         "address": "10056 Dean Dr Manassas VA 20110",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 234-9450"
       }
     },
     {
@@ -4483,10 +3957,8 @@
       },
       "properties": {
         "name": "St. Michael and All Angels",
-        "type": "Shopping Partner",
         "address": "8501 New Hampshire Ave Adelphi MD 20783",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 882-0274"
       }
     },
     {
@@ -4500,10 +3972,8 @@
       },
       "properties": {
         "name": "City of Praise Family Ministries",
-        "type": "Shopping Partner",
         "address": "8806 Brightseat Road Landover MD 20785",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 404-8234"
       }
     },
     {
@@ -4517,10 +3987,8 @@
       },
       "properties": {
         "name": "Ebenezer Church of God",
-        "type": "Shopping Partner",
         "address": "7550 Buchanan St. Hyattsville MD 20784",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -4534,10 +4002,8 @@
       },
       "properties": {
         "name": "Arlington Bridge Builders",
-        "type": "Shopping Partner",
         "address": "790 South Carlin Springs Road Arlington VA 22204",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 282-5156"
       }
     },
     {
@@ -4551,10 +4017,8 @@
       },
       "properties": {
         "name": "Grace Episcopal Church",
-        "type": "Shopping Partner",
         "address": "3601 Russell Road Alexandria VA 22305",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 549-1980"
       }
     },
     {
@@ -4568,10 +4032,8 @@
       },
       "properties": {
         "name": "DC Central Kitchen",
-        "type": "Shopping Partner",
         "address": "2121 1st Street SW Washington DC 20024",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 400-2806"
       }
     },
     {
@@ -4585,10 +4047,8 @@
       },
       "properties": {
         "name": "North Capitol Collaborative, Inc.",
-        "type": "Shopping Partner",
         "address": "3230 Pennsylvania Ave SE Washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 588-1800"
       }
     },
     {
@@ -4602,10 +4062,8 @@
       },
       "properties": {
         "name": "ALIVE",
-        "type": "Shopping Partner",
         "address": "801 S Payne St Alexandria VA 22302",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 837-9300"
       }
     },
     {
@@ -4619,10 +4077,8 @@
       },
       "properties": {
         "name": "ACTS",
-        "type": "Shopping Partner",
         "address": "3901 ACTS Lane Dumfries VA 22026",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 441-8606"
       }
     },
     {
@@ -4636,10 +4092,8 @@
       },
       "properties": {
         "name": "Latin American Youth Center",
-        "type": "Shopping Partner",
         "address": "1419 Columbia Rd NW Washington DC 20009",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 758-7490"
       }
     },
     {
@@ -4652,11 +4106,9 @@
         ]
       },
       "properties": {
-        "name": "Salvation Army : The Salvation Army - Solomon G Brown",
-        "type": "Shopping Partner",
+        "name": "The Salvation Army - Solomon G Brown",
         "address": "2300 Martin Luther King Ave SE Washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 678-9770 or9771"
       }
     },
     {
@@ -4670,10 +4122,8 @@
       },
       "properties": {
         "name": "Community Family Life Services",
-        "type": "Shopping Partner",
         "address": "305 E Street NW Washington DC 20001",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 347-0511"
       }
     },
     {
@@ -4686,11 +4136,9 @@
         ]
       },
       "properties": {
-        "name": "Bread for the City : Bread For The City NW Center",
-        "type": "Shopping Partner",
+        "name": "Bread For The City NW Center",
         "address": "1525 7th St. NW Washington DC 20001",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 773-2308"
       }
     },
     {
@@ -4704,10 +4152,8 @@
       },
       "properties": {
         "name": "The Holy Temple Church of Christ, Inc. : The Holy Temple Church",
-        "type": "Shopping Partner",
         "address": "439 12th. Street SE Washington DC 20003",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 547-8364"
       }
     },
     {
@@ -4721,10 +4167,8 @@
       },
       "properties": {
         "name": "Metropolitan Baptist Church",
-        "type": "Shopping Partner",
         "address": "1200 Mercantile Lane Largo MD 20774",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -4737,11 +4181,9 @@
         ]
       },
       "properties": {
-        "name": "THRIVE DC : Thrive DC",
-        "type": "Shopping Partner",
+        "name": "Thrive DC",
         "address": "1525 Newton Street NW Washington DC 20010",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 737-9311"
       }
     },
     {
@@ -4755,10 +4197,8 @@
       },
       "properties": {
         "name": "Family & Medical Counseling Service",
-        "type": "Shopping Partner",
         "address": "2041 MLK Jr. Ave. SE Washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 889-7900"
       }
     },
     {
@@ -4772,10 +4212,8 @@
       },
       "properties": {
         "name": "Agape Early Childhood Learning",
-        "type": "Shopping Partner",
         "address": "4318 Rhode Island Avenue Brentwood MD 20722",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 927-4674"
       }
     },
     {
@@ -4789,10 +4227,8 @@
       },
       "properties": {
         "name": "Spanish Catholic Center",
-        "type": "Shopping Partner",
         "address": "1618 Monroe St. NW Washington DC 20010",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -4806,10 +4242,8 @@
       },
       "properties": {
         "name": "Central Union Mission",
-        "type": "Shopping Partner",
         "address": "65 Massachusetts Ave Washington DC 20001",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 718-0549"
       }
     },
     {
@@ -4823,10 +4257,8 @@
       },
       "properties": {
         "name": "Miriam's Kitchen",
-        "type": "Shopping Partner",
         "address": "2401 Virginia Ave NW Washington DC 20037",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 350-1058"
       }
     },
     {
@@ -4840,10 +4272,8 @@
       },
       "properties": {
         "name": "Emmanuel Worship Center Seventh Day Adventist Church",
-        "type": "Shopping Partner",
         "address": "8145 Richmond Highway Alexandria VA 22309",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 793-8578"
       }
     },
     {
@@ -4857,10 +4287,8 @@
       },
       "properties": {
         "name": "Damien Ministries Food Pantry",
-        "type": "Shopping Partner",
         "address": "2200 Rhode Island AVE NE Washington DC 20018",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 526-3020"
       }
     },
     {
@@ -4874,10 +4302,8 @@
       },
       "properties": {
         "name": "McKendree-Simms-Brookland United Methodist Church : MSB Outreach House",
-        "type": "Shopping Partner",
         "address": "2411 Lawrence St NE Washington DC 20018",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 526-3685"
       }
     },
     {
@@ -4891,10 +4317,8 @@
       },
       "properties": {
         "name": "The Episcopal Church of Atonement : Atonement Food Pantry",
-        "type": "Shopping Partner",
         "address": "5073 East Capitol Street SE Washington DC 20019",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 251-7725"
       }
     },
     {
@@ -4908,10 +4332,8 @@
       },
       "properties": {
         "name": "Food for the Elderly, Inc. : At Home Away from Home",
-        "type": "Shopping Partner",
         "address": "1100 Dumfries Street Oxon Hill MD 20745",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 398-1519"
       }
     },
     {
@@ -4925,10 +4347,8 @@
       },
       "properties": {
         "name": "Sixth Church Food Closet",
-        "type": "Shopping Partner",
         "address": "5413 16th St NW Washington DC 20011",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 723-5377"
       }
     },
     {
@@ -4941,11 +4361,9 @@
         ]
       },
       "properties": {
-        "name": "Adventist Community Services : Adventist Community Services of Greater Washington",
-        "type": "Shopping Partner",
+        "name": "Adventist Community Services of Greater Washington",
         "address": "501 Sligo Avenue Silver Springs MD 20910",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 793-5108"
       }
     },
     {
@@ -4959,10 +4377,8 @@
       },
       "properties": {
         "name": "Paramount Baptist Church",
-        "type": "Shopping Partner",
         "address": "3924 4th St SE Washington DC 20032",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 562-6339"
       }
     },
     {
@@ -4976,10 +4392,8 @@
       },
       "properties": {
         "name": "Northeastern Presbyterian Church",
-        "type": "Shopping Partner",
         "address": "2112 Varnum St. NE Washington DC 20018",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 316-8744"
       }
     },
     {
@@ -4993,10 +4407,8 @@
       },
       "properties": {
         "name": "Southern Friendship Missionary Baptist Church",
-        "type": "Shopping Partner",
         "address": "4444 Branch Avenue Temple Hills MD 20748",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 523-6090"
       }
     },
     {
@@ -5010,10 +4422,8 @@
       },
       "properties": {
         "name": "Faith Temple #2",
-        "type": "Shopping Partner",
         "address": "2 211 Maryland Park Drive Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 655-1722"
       }
     },
     {
@@ -5027,10 +4437,8 @@
       },
       "properties": {
         "name": "Enterprise Community Development : ECD - Overlook at Oxon Run",
-        "type": "Shopping Partner",
         "address": "3700 9th st SE Washington DC 20032",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 528-0489"
       }
     },
     {
@@ -5044,10 +4452,8 @@
       },
       "properties": {
         "name": "Freedom Way Missionary Baptist Church",
-        "type": "Shopping Partner",
         "address": "1266 Benning Road Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 807-6912"
       }
     },
     {
@@ -5061,10 +4467,8 @@
       },
       "properties": {
         "name": "Shepherd's Table - Progress Place Building",
-        "type": "Shopping Partner",
         "address": "8106 Georgia Avenue Silver Springs MD 20910",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 585-6463"
       }
     },
     {
@@ -5078,10 +4482,8 @@
       },
       "properties": {
         "name": "Shabach Emergency Resource & Empowerment Center : Shabach Emergency Empowerment Center",
-        "type": "Shopping Partner",
         "address": "403 Brightseat Rd Landover MD 20785",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 237-6353"
       }
     },
     {
@@ -5095,10 +4497,8 @@
       },
       "properties": {
         "name": "T&T Tutorworld : T&T Provider My Little World",
-        "type": "Shopping Partner",
         "address": "2909 North Capitol St NE Washington DC 20002",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 607-0629"
       }
     },
     {
@@ -5112,10 +4512,8 @@
       },
       "properties": {
         "name": "The Lord's Chosen Food Pantry",
-        "type": "Shopping Partner",
         "address": "1302 Cronson Blvd Crofton MD 21114",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 773-7573"
       }
     },
     {
@@ -5129,10 +4527,8 @@
       },
       "properties": {
         "name": "Whosoever Will Christian Church",
-        "type": "Shopping Partner",
         "address": "4514 Sellman Road Beltsville MD 20705",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 257-2264"
       }
     },
     {
@@ -5146,10 +4542,8 @@
       },
       "properties": {
         "name": "Women Who Care Ministries",
-        "type": "Shopping Partner",
         "address": "19640 Club House Road Montgomery Villlage MD 20886",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 828-6850"
       }
     },
     {
@@ -5163,10 +4557,8 @@
       },
       "properties": {
         "name": "Salvation Army (PW County) : Salvation Army  (PW County)",
-        "type": "Shopping Partner",
         "address": "1483 Old Bridge Road Woodbridge VA 22192",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 580-8991"
       }
     },
     {
@@ -5180,10 +4572,8 @@
       },
       "properties": {
         "name": "Temple of Praise",
-        "type": "Shopping Partner",
         "address": "700 Southern Avenue SE Washington DC 20032",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 537-3445"
       }
     },
     {
@@ -5197,10 +4587,8 @@
       },
       "properties": {
         "name": "River Jordan, Inc.",
-        "type": "Shopping Partner",
         "address": "15809 Livingston Road Accokeek MD 20607",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 873-8704"
       }
     },
     {
@@ -5214,10 +4602,8 @@
       },
       "properties": {
         "name": "Zion Church Inc.",
-        "type": "Shopping Partner",
         "address": "8829 Greenbelt Rd Greenbelt MD 20770",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 633-9592"
       }
     },
     {
@@ -5231,10 +4617,8 @@
       },
       "properties": {
         "name": "ADAMS CENTER",
-        "type": "Shopping Partner",
         "address": "46903 Sugarland Road Sterling VA 20164",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 501-7990"
       }
     },
     {
@@ -5248,10 +4632,8 @@
       },
       "properties": {
         "name": "The St. Lucy Project",
-        "type": "Shopping Partner",
         "address": "8426-28 Kao Circle Manassas VA 20110",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 991-6940"
       }
     },
     {
@@ -5265,10 +4647,8 @@
       },
       "properties": {
         "name": "Good Success Christian Church",
-        "type": "Shopping Partner",
         "address": "4401 Sheriff Rd NE Washington DC 20019",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 661-5442"
       }
     },
     {
@@ -5282,10 +4662,8 @@
       },
       "properties": {
         "name": "Cornerstone Peaceful Bible Baptist Church",
-        "type": "Shopping Partner",
         "address": "9010 Frank Tippett Road Upper Marlboro MD 20772",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 346-4169"
       }
     },
     {
@@ -5299,10 +4677,8 @@
       },
       "properties": {
         "name": "Second Baptist Church of Southwest : Second Baptist Church Southwest",
-        "type": "Shopping Partner",
         "address": "5501 Silver Hill Road District Heights MD 20747",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 420-2929"
       }
     },
     {
@@ -5316,10 +4692,8 @@
       },
       "properties": {
         "name": "Our Savior Lutheran Church",
-        "type": "Shopping Partner",
         "address": "13611 Laurel Bowie Road Laurel MD 20708",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 462-8809"
       }
     },
     {
@@ -5333,10 +4707,8 @@
       },
       "properties": {
         "name": "University of Maryland College Park Foundation : University of Maryland College Park Food Pantry",
-        "type": "Shopping Partner",
         "address": "7093 Preinkert Drive College Park MD 20742",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 314-8072"
       }
     },
     {
@@ -5350,10 +4722,8 @@
       },
       "properties": {
         "name": "Resurrection Bible Church",
-        "type": "Shopping Partner",
         "address": "10835 Lanham-Severn Road Glenn Dale MD 20769",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 437-4958"
       }
     },
     {
@@ -5367,10 +4737,8 @@
       },
       "properties": {
         "name": "Victory Christian Ministries International",
-        "type": "Shopping Partner",
         "address": "3911 St Barnabas Road Suitland MD 20746",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 638-6274"
       }
     },
     {
@@ -5384,10 +4752,8 @@
       },
       "properties": {
         "name": "Boat People SOS",
-        "type": "Shopping Partner",
         "address": "6066 Leesburg Pike Falls Church VA 22041",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 538-2190"
       }
     },
     {
@@ -5401,10 +4767,8 @@
       },
       "properties": {
         "name": "Church of the Resurrection",
-        "type": "Shopping Partner",
         "address": "5150 Fillmore Ave Alexandria VA 22311",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 998-0888"
       }
     },
     {
@@ -5418,10 +4782,8 @@
       },
       "properties": {
         "name": "ECWA USA Evangelical Church Winning All",
-        "type": "Shopping Partner",
         "address": "5526 Marlboro Pike District Heights MD 20747",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 743-6560"
       }
     },
     {
@@ -5435,10 +4797,8 @@
       },
       "properties": {
         "name": "Reid Temple AME Church",
-        "type": "Shopping Partner",
         "address": "11400 Glenn Dale Blvd Glenn Dale MD 20769",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(443) 474-3673"
       }
     },
     {
@@ -5452,10 +4812,8 @@
       },
       "properties": {
         "name": "NHT Communities : Villages of East River",
-        "type": "Shopping Partner",
         "address": "305 37th St SE Washington DC 20019",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 621-1617"
       }
     },
     {
@@ -5469,10 +4827,8 @@
       },
       "properties": {
         "name": "Columbia Heights Village Tenant Association",
-        "type": "Shopping Partner",
         "address": "2900 14th Street NW Washington DC 20009",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 390-8580"
       }
     },
     {
@@ -5486,10 +4842,8 @@
       },
       "properties": {
         "name": "Gaithersburg Soup Kitchen",
-        "type": "Shopping Partner",
         "address": "9008 Rosemont Drive Gaithersburg MD 20877",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 926-0424"
       }
     },
     {
@@ -5503,10 +4857,8 @@
       },
       "properties": {
         "name": "Centro de Apoyo Familiar (CAF)",
-        "type": "Shopping Partner",
         "address": "13923 Minnieville Road Woodbridge VA 22193",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 328-3292"
       }
     },
     {
@@ -5520,10 +4872,8 @@
       },
       "properties": {
         "name": "Mount Calvary Baptist Church",
-        "type": "Shopping Partner",
         "address": "608 North Horners Lane Rockviille MD 20850",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 351-7992"
       }
     },
     {
@@ -5536,11 +4886,9 @@
         ]
       },
       "properties": {
-        "name": "Bread for the City : Bread for the City SE Center",
-        "type": "Shopping Partner",
+        "name": "Bread for the City SE Center",
         "address": "1700 Good Hope Road SE Washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 773-2308"
       }
     },
     {
@@ -5554,10 +4902,8 @@
       },
       "properties": {
         "name": "Manna Food Center Inc. : Manna Food Center",
-        "type": "Shopping Partner",
         "address": "9311 Gaither Rd Gaithersburg MD 20877",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 268-2539"
       }
     },
     {
@@ -5570,11 +4916,9 @@
         ]
       },
       "properties": {
-        "name": "ABSYNA, Inc. : ABSYNA, Inc. - Brentwood",
-        "type": "Shopping Partner",
+        "name": "ABSYNA, Inc. - Brentwood",
         "address": "4142 Bunker Hill Rd Brentwood MD 20722",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 374-8864"
       }
     },
     {
@@ -5588,10 +4932,8 @@
       },
       "properties": {
         "name": "Tutoring Cafe",
-        "type": "Shopping Partner",
         "address": "6906 4th St NW Washington DC 20012",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 601-3312"
       }
     },
     {
@@ -5605,10 +4947,8 @@
       },
       "properties": {
         "name": "So What Else, Inc",
-        "type": "Shopping Partner",
         "address": "4924 wyaconda road Rockville MD 20852",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 705-4345"
       }
     },
     {
@@ -5622,10 +4962,8 @@
       },
       "properties": {
         "name": "Nick's Place",
-        "type": "Shopping Partner",
         "address": "4514 Lincoln Ave Beltsville MD 20705",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 938-5876"
       }
     },
     {
@@ -5639,10 +4977,8 @@
       },
       "properties": {
         "name": "Ayuda, Inc.",
-        "type": "Shopping Partner",
         "address": "1990 K St. NW Washington DC 20006",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 589-4204"
       }
     },
     {
@@ -5656,10 +4992,8 @@
       },
       "properties": {
         "name": "Mount Olive Baptist Church",
-        "type": "Shopping Partner",
         "address": "6600 Old Centerville Rd n/a Centerville VA 20121",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 830-8769"
       }
     },
     {
@@ -5673,10 +5007,8 @@
       },
       "properties": {
         "name": "St. John's Community Service Center",
-        "type": "Shopping Partner",
         "address": "7611 Little River Turnpike Annandale VA 22003",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 283-9231"
       }
     },
     {
@@ -5690,10 +5022,8 @@
       },
       "properties": {
         "name": "CFH Inc.",
-        "type": "Shopping Partner",
         "address": "9021 Centreville Road Manassas VA 20110",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 201-6226"
       }
     },
     {
@@ -5707,10 +5037,8 @@
       },
       "properties": {
         "name": "First SDA Church",
-        "type": "Shopping Partner",
         "address": "810 Shepherd ST NW Washington DC 20011",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 997-9663"
       }
     },
     {
@@ -5724,10 +5052,8 @@
       },
       "properties": {
         "name": "True Ground Housing",
-        "type": "Shopping Partner",
         "address": "4318 N Carlin Springs Road Arlington VA 22203",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(571) 733-9627"
       }
     },
     {
@@ -5741,10 +5067,8 @@
       },
       "properties": {
         "name": "Fairfax Church Resource Center",
-        "type": "Shopping Partner",
         "address": "11451 Braddock Road Fairfax VA 22030",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 745-1030"
       }
     },
     {
@@ -5758,10 +5082,8 @@
       },
       "properties": {
         "name": "DC Central Kitchen : DC Food Project",
-        "type": "Shopping Partner",
         "address": "3600 Calvert St. NW Washington DC 20007",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 400-2806"
       }
     },
     {
@@ -5775,10 +5097,8 @@
       },
       "properties": {
         "name": "Woodbridge Church of the Nazarene",
-        "type": "Shopping Partner",
         "address": "14001 Smoketown Road Woodbridge VA 22193",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 670-2252"
       }
     },
     {
@@ -5792,10 +5112,8 @@
       },
       "properties": {
         "name": "Living Faith Lutheran Church",
-        "type": "Shopping Partner",
         "address": "1605 Veirs Mill Road Rockville MD 20851",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 424-8622"
       }
     },
     {
@@ -5809,10 +5127,8 @@
       },
       "properties": {
         "name": "Mid County United Ministries (MUM)",
-        "type": "Shopping Partner",
         "address": "11002 Viers Mill Road Wheaton MD 20902",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 368-5466"
       }
     },
     {
@@ -5826,10 +5142,8 @@
       },
       "properties": {
         "name": "Greater Refuge Ministries",
-        "type": "Shopping Partner",
         "address": "9512 Piscataway Road Clinton MD 20735",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 856-8806"
       }
     },
     {
@@ -5843,10 +5157,8 @@
       },
       "properties": {
         "name": "The Hope Center",
-        "type": "Shopping Partner",
         "address": "4915 Wheeler Rd Oxon Hill MD 20745",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(410) 877-4444"
       }
     },
     {
@@ -5860,10 +5172,8 @@
       },
       "properties": {
         "name": "Iglesia Evangelica Cristo Promesa Fiel",
-        "type": "Shopping Partner",
         "address": "17017 Georgia Avenue Olney MD 20832",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 408-8302"
       }
     },
     {
@@ -5877,10 +5187,8 @@
       },
       "properties": {
         "name": "DC Doors",
-        "type": "Shopping Partner",
         "address": "900 Rhode Island Ave NW Washington DC 20018",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 248-2098"
       }
     },
     {
@@ -5894,10 +5202,8 @@
       },
       "properties": {
         "name": "St. Philip's Episcopal Church",
-        "type": "Shopping Partner",
         "address": "522 Main Street Laurel MD 20707",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 776-5151"
       }
     },
     {
@@ -5911,10 +5217,8 @@
       },
       "properties": {
         "name": "Allen Chapel AME Church",
-        "type": "Shopping Partner",
         "address": "2498 Alabama Avenue SE Washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 494-9824"
       }
     },
     {
@@ -5928,10 +5232,8 @@
       },
       "properties": {
         "name": "First Baptist Church Ken-Gar",
-        "type": "Shopping Partner",
         "address": "3922 Hampden St Kensington MD 20895",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(917) 364-1681"
       }
     },
     {
@@ -5945,10 +5247,8 @@
       },
       "properties": {
         "name": "Oak Chapel UMC",
-        "type": "Shopping Partner",
         "address": "14500 Layhill Road Silver Spring MD 20906",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(240) 277-4426"
       }
     },
     {
@@ -5962,10 +5262,8 @@
       },
       "properties": {
         "name": "Revival Baptist Ministries INT",
-        "type": "Shopping Partner",
         "address": "8174 Richmond Hwy Alexandria VA 22309",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 944-3057"
       }
     },
     {
@@ -5979,10 +5277,8 @@
       },
       "properties": {
         "name": "Largo Community Church : International High School at Largo",
-        "type": "Shopping Partner",
         "address": "505 Largo Rd SW Side Upper Marlboro MD 20774",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 702-3810 ext 84137"
       }
     },
     {
@@ -5996,10 +5292,8 @@
       },
       "properties": {
         "name": "River of Life Redeemed Christian Church of God",
-        "type": "Shopping Partner",
         "address": "5617 54th Ave. Riverdale MD 20737",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 779-4605"
       }
     },
     {
@@ -6013,10 +5307,8 @@
       },
       "properties": {
         "name": "First Baptist Church of Silver Spring Food Closet",
-        "type": "Shopping Partner",
         "address": "828 Wayne Ave Silver Spring MD 20910",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 466-8263"
       }
     },
     {
@@ -6030,10 +5322,8 @@
       },
       "properties": {
         "name": "NHT Communities : Washington View Apartments",
-        "type": "Shopping Partner",
         "address": "2629 Douglass Rd SE Washington DC DC 20020",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(202) 621-1600"
       }
     },
     {
@@ -6047,10 +5337,8 @@
       },
       "properties": {
         "name": "Holy Family Catholic Church Food Pantry",
-        "type": "Shopping Partner",
         "address": "14160 Ferndale Road Dale City VA 22193",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 459-7156"
       }
     },
     {
@@ -6064,10 +5352,8 @@
       },
       "properties": {
         "name": "Sacred Heart Catholic Church",
-        "type": "Shopping Partner",
         "address": "12975 Purcell Road Manassas VA 20112",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 590-0030"
       }
     },
     {
@@ -6081,10 +5367,8 @@
       },
       "properties": {
         "name": "Manassas Baptist Church",
-        "type": "Shopping Partner",
         "address": "8730 Sudley Road Manassas VA 20110",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 361-2146"
       }
     },
     {
@@ -6098,10 +5382,8 @@
       },
       "properties": {
         "name": "INOVA Cares for Women and Children Falls Church : Inova Cares Clinics",
-        "type": "Shopping Partner",
         "address": "6400 Arlington Blvd Falls Church VA 22042",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(703) 698-2552"
       }
     },
     {
@@ -6115,10 +5397,8 @@
       },
       "properties": {
         "name": "Love Church",
-        "type": "Shopping Partner",
         "address": "14370 Lee Highway Gainesville VA 20155",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "Not Available"
       }
     },
     {
@@ -6132,10 +5412,8 @@
       },
       "properties": {
         "name": "Food for the Elderly, Inc. : Tender Love & Care",
-        "type": "Shopping Partner",
         "address": "822 Cox Ave Hyattsville MD 20783",
-        "hours": "N/A",
-        "eligibility": "N/A"
+        "phone": "(301) 440-8990"
       }
     },
     {
@@ -6149,10 +5427,8 @@
       },
       "properties": {
         "name": "Academy of Hope",
-        "type": "Market",
         "address": "2315 18th Pl NE Washington DC 20018",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6165,11 +5441,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Ambassador Baptist Church",
         "address": "1408 Minnesota Ave SE Washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6182,11 +5456,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Brotherhood of the Cross and Star",
         "address": "6001 Georgia Ave NW Washington DC 20011",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6199,11 +5471,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "SeVerna",
         "address": "43 K St NW Washington DC 20001",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6216,11 +5486,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Lederer Gardens",
         "address": "4801 Nannie Helen Burroughs Ave NE Washington DC 20019",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6233,11 +5501,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Faith United Church of Christ",
         "address": "4900 10th St NE Washington DC 20017",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6250,11 +5516,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Frederick Douglass Community Center",
         "address": "2000 Alabama Ave SE Washington DC 20020",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6267,11 +5531,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Congress Heights Family Success Center",
         "address": "1345 Savannah St SE Washington DC 20032",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6284,11 +5546,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Garfield Terrace Resident Council",
         "address": "2301 11th St NW Washington DC 20001",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6301,11 +5561,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "James Apartments Resident Council",
         "address": "1425 N St NW Washington DC 20005",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6318,11 +5576,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "James Creek Resident Council",
         "address": "100 N St SW Washington DC 20024",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6335,11 +5591,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Church of Christ",
         "address": "4801 16th St NW Washington DC 20011",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6352,11 +5606,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "St. Luke Church",
         "address": "4925 East Capitol St SE Washington DC 20019",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6369,11 +5621,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "MSB Community Outreach",
         "address": "2411 Lawrence St NE Washington DC 20018",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6386,11 +5636,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Ward Memorial AME Church",
         "address": "241 42nd St NE Washington DC 20019",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6403,11 +5651,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Southern Hills Community Center",
         "address": "4212 4th St SE Washington DC 20032",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6420,11 +5666,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "City Blossoms",
         "address": "516 Kennedy St NW Washington DC 20011",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6437,11 +5681,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Chick Armstrong Recreation Center",
         "address": "25 W Reed Ave Alexandria VA 22305",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6454,11 +5696,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "William Ramsay Recreation Center",
         "address": "4850 Mark Center Dr Alexandria VA 22311",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6471,11 +5711,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Chantilly Baptist Church",
         "address": "14312 Chantilly Baptist Ln Chantilly VA 220175",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6488,11 +5726,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Francis C. Hammond Middle School",
         "address": "4646 Seminary Rd Alexandria VA 22304",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6505,11 +5741,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Barcroft Elementary School",
         "address": "700 S Buchanan St Arlington VA 22204",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6522,11 +5756,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Willston Multicultural Center",
         "address": "6131 Willston Dr Falls Church VA 22044",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6539,11 +5771,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Culmore United Methodist Church",
         "address": "3400 Charles St Falls Church VA 22041",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6556,11 +5786,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Dale City Christian Church",
         "address": "14022 Lindendale Rd Dale City VA 22193",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6573,11 +5801,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "James Lee Community Center",
         "address": "2855 Annandale Rd Falls Church VA 22042",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6590,11 +5816,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Georgetown South Community Council",
         "address": "9444 Taney Rd Manassas VA 20110",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6607,11 +5831,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Fairmont Gardens Apartments",
         "address": "4100 Wadsworth Ct Annandale VA 22003",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6624,11 +5846,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Woodrow Wilson Library",
         "address": "6101 Knollwood Dr Falls Church VA 22041",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6641,11 +5861,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Christ the Redeemer Catholic Church",
         "address": "46833 Harry Byrd Hwy Sterling VA 20164",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6658,11 +5876,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Maranatha Springfield Church",
         "address": "5515 Cherokee Ave Alexandria VA 22312",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6675,11 +5891,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Messiah United Methodist Church",
         "address": "6215 Rolling Rd Springfield VA 22152",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6692,11 +5906,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Mount Olive Baptist Church",
         "address": "1601 13th Rd S Arlington VA 22204",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6709,11 +5921,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Rising Hope Mission Church",
         "address": "8220 Russell Rd Alexandria VA 22309",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6726,11 +5936,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Debre Medehanit Eyesus Ethiopian Ortodox Tewahido Church",
         "address": "13450 Minnieville Rd Woodbridge VA 22192",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6743,11 +5951,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "St. Anthony of Padua Catholic Church",
         "address": "3305 Glen Carlyn Rd Falls Church VA 22041",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6760,11 +5966,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "St. Stephen's United Methodist Church",
         "address": "9203 Braddock Rd Burke VA 22015",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6777,11 +5981,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "United Community",
         "address": "7511 Fordson Rd Alexandria VA 22306",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6794,11 +5996,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Coverstone Apartments",
         "address": "10934 Coverstone Dr Manassas VA 20109",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6811,11 +6011,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "4-H Club Park and Planning",
         "address": "4-H Club Park and Planning 2411 Pinebrook Ave Hyattsville MD 20785",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6828,11 +6026,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Alafia Baptist Church",
         "address": "3623 Eastern Avenue Mount Rainier MD 20712",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6845,11 +6041,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Calvary Assembly of Holy Cross",
         "address": "3505 Hubbard Rd LANDOVER MD 20785",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6862,11 +6056,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Catholic Charities - Montgomery County Family Center",
         "address": "12247 Georgia Ave Silver Spring MD 20902",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6879,11 +6071,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "City of Greenbelt Food Pantry",
         "address": "15 Crescent Rd Greenbelt MD 20770",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6896,11 +6086,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "City of Hyattsville",
         "address": "6201 Belcrest RD Hyattsville MD 20782",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6913,11 +6101,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Clifton Park Baptist Church",
         "address": "8818 Piney Branch Road Silver Spring MD 20903",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6930,11 +6116,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Faith Temple #2",
         "address": "2 211 Maryland Park Drive Capital Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6947,11 +6131,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "CMPGC - Belulah Baptist",
         "address": "6056 old central Ave Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6964,11 +6146,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "CMPGC - New Craig",
         "address": "5305 Farmingdale Road Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6981,11 +6161,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "CMPGC - Oxon Hill",
         "address": "7711 Livingston Road Oxon Hill MD 20745",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -6998,11 +6176,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "CMPGC - Seat Pleasant",
         "address": "5356 Sheriff Road Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7015,11 +6191,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Community Outreach and Development CDC",
         "address": "4715 Marlboro Pike Capitol Heights MD 20743",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7032,11 +6206,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "HC - Silver Spring",
         "address": "1500 Forest Glen Rd, Silver Spring MD 20910",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7049,11 +6221,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "HC - Germantown",
         "address": "19801 Observation Drive Germantown MD 20876",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7066,11 +6236,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Hyattsville Courthouse Parole and Probation",
         "address": "4990 Rhode Island Ave Hyattsville MD 20781",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7083,11 +6251,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Inwood House",
         "address": "10921 Inwood Avenue Silver Spring MD 20902",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7100,11 +6266,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Latin American Youth Center",
         "address": "6200 Sheridan St Riverdale MD 20737",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7117,11 +6281,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Montgomery College - Rockville",
         "address": "51 Mannakee St Rockville MD 20850",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7134,11 +6296,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Montgomery College - Germantown",
         "address": "20200 Observation Dr Germantown MD 20876",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7151,11 +6311,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Montgomery College - Takoma Park",
         "address": "7600 Takoma Ave Takoma Park MD 20912",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7168,11 +6326,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Prince Georges Social Services - Gwynn Park High School",
         "address": "13800 Brandywine Road Brandywine MD 20613",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7185,11 +6341,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Prince George's Dept of Social Services Shabach",
         "address": "403 Brightseat road Landover MD 20785",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7202,11 +6356,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Prince George's Dept of Social Services SEED",
         "address": "5819 Eastpine Dr Riverdale MD 20737",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7219,11 +6371,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Pin Oak Village Senior",
         "address": "16010 Excalibur Road Bowie MD 20716",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7236,11 +6386,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Silver Spring UMC",
         "address": "8900 Georgia Ave Silver Spring MD 20901",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7253,11 +6401,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Southern Friendship Missionary Baptist Church",
         "address": "4444 Branch Avenue Temple Hills MD 20748",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7270,11 +6416,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "University of Shady Grove",
         "address": "9630 Gudelsky Drive Rockville MD 20850",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7287,11 +6431,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Woodland Springs Apartment",
         "address": "6617 Atwood Street District Heights MD 20747",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7304,11 +6446,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Zion Baptist Church (North Campus)",
         "address": "11005 Dayton St Silver Spring MD 20902",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7321,11 +6461,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Mount Olivet United Methodist Church",
         "address": "1500 N Glebe Rd Arlington VA 22207",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7338,11 +6476,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Community Marketplace at Rosedale Rec",
         "address": "1701 Gales St. NE Washington DC 20002",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7355,11 +6491,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Northern Virginia Family Service SERVE",
         "address": "10056 Dean Dr Manassas VA 20110",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7372,11 +6506,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Community Marketplace - Reston",
         "address": "12125 Pinecrest Rd Reston VA 20190",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7389,11 +6521,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Community Marketplace - Arlington",
         "address": "909 S Dinwiddie St Arlington VA 22204",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7406,11 +6536,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Hermosa Valley Mobile Home Park",
         "address": "13950 Richmond Hwy Woodbridge VA 22191",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7423,11 +6551,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "Park Shirlington Apartments",
         "address": "4500 31st St S Arlington VA 22206",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     },
     {
@@ -7440,11 +6566,9 @@
         ]
       },
       "properties": {
-        "name": "Unknown",
-        "type": "Market",
+        "name": "THEARC Farm",
         "address": "1801 Mississippi Ave SE Washington DC DC 20020",
-        "hours": "N/A",
-        "eligibility": "Open to Public"
+        "phone": "Not Available"
       }
     }
   ]

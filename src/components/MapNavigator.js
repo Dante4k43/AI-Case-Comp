@@ -12,6 +12,15 @@ L.Icon.Default.mergeOptions({
   shadowUrl: require("leaflet/dist/images/marker-shadow.png"),
 });
 
+const redIcon = new L.Icon({
+  iconUrl: process.env.PUBLIC_URL + "/marker-icon-red.png",
+  iconSize: [25, 41],
+  iconAnchor: [12, 41],
+  popupAnchor: [1, -34],
+  shadowUrl: require("leaflet/dist/images/marker-shadow.png"),
+  shadowSize: [41, 41],
+});
+
 const MapNavigator = ({ userLocation }) => {
   const [allLocations, setAllLocations] = useState([]);
   const [nearbyLocations, setNearbyLocations] = useState([]);
@@ -62,9 +71,13 @@ const MapNavigator = ({ userLocation }) => {
       />
 
       {/* Marker for the user’s current location */}
-      <Marker position={[userLocation.lat, userLocation.lng]}>
+      <Marker
+        position={[userLocation.lat, userLocation.lng]}
+        icon={redIcon}
+      >
         <Popup>Your location</Popup>
       </Marker>
+
 
       {/* Markers for each nearby food bank */}
       {nearbyLocations.map((loc, idx) => (
@@ -75,7 +88,7 @@ const MapNavigator = ({ userLocation }) => {
           <Popup>
             <strong>{loc.properties.name}</strong><br />
             {loc.properties.address}<br />
-            {loc.properties.hours}
+            {loc.properties.phone}
           </Popup>
         </Marker>
       ))}
