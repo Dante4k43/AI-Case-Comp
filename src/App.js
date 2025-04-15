@@ -11,7 +11,12 @@ const App = () => {
   return (
     <div className="app-container">
       <header className="app-header">
-        <h1>Capital Area Food Bank AI Assistant</h1>
+        <div className="logo-title-container">
+          <img src="/logo.png" alt="Capsule Corp AI Logo" className="app-logo" />
+          <h1>
+            Capital Area Food Bank <span className="highlight">AI</span> Assistant
+          </h1>
+        </div>
       </header>
 
       <div className="controls-container">
