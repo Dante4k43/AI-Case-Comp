@@ -52,7 +52,7 @@ const App = () => {
       </main>
 
       <footer className="app-footer">
-        <p>Capital Area Food Bank AI Assistant &copy; 2025</p>
+        <p>Capsule Corp AI &copy; 2025</p>
       </footer>
     </div>
   );
