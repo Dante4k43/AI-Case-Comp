@@ -29,7 +29,7 @@ const ZIP_REGEX = /\b(\d{5})\b/;
 
 async function geocodeZip(zip) {
   try {
-    const apiKey = "57b2d63212f740469d009e55084d5b85";
+    const apiKey = process.env.GEOCODE_API_KEY;
     const url = `https://api.opencagedata.com/geocode/v1/json?q=${zip}&key=${apiKey}&countrycode=us`;
     const response = await axios.get(url);
     const data = response.data;
